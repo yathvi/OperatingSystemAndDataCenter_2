@@ -1,0 +1,1451 @@
+An error occurred while fetching categories for 'Template:Linux_layers': ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Categories for page 'Template:Linux_kernel':
+--------------------------------------------
+Category:Linux navigational boxes
+
+
+Categories for page 'Template:Linux':
+-------------------------------------
+Category:Linux navigational boxes
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:Mobile_operating_systems':
+--------------------------------------------------------
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:Routing_software':
+------------------------------------------------
+Category:Computer networking navigational boxes
+Category:Software navigational boxes
+
+
+Categories for page 'Template:SecurityType':
+--------------------------------------------
+Category:Security
+
+
+Categories for page 'Template:Information_security':
+----------------------------------------------------
+Category:Computer security templates
+Category:Computing sidebar templates
+
+
+Categories for page 'Template:Package_management_systems':
+----------------------------------------------------------
+Category:Free package management systems
+Category:Linux package management-related software
+Category:Package management systems
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Apache_Software_Foundation':
+----------------------------------------------------------
+Category:Nonprofit organization navigational boxes
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Deep_learning_software':
+------------------------------------------------------
+Category:Computer science navigational boxes
+
+
+Categories for page 'Template:Processor_technologies':
+------------------------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:RISC_architectures':
+--------------------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:Computer_architecture_bit_widths':
+----------------------------------------------------------------
+Category:Computer hardware sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:802.11_network_standards':
+--------------------------------------------------------
+Category:Computer hardware templates
+Category:Computer networking templates
+Category:Telecommunications templates
+
+
+Categories for page 'Template:Firmware_and_booting':
+----------------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Basic_computer_components':
+---------------------------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:Primary_storage_technologies':
+------------------------------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:Memory_types':
+--------------------------------------------
+Category:Computer hardware sidebar templates
+
+
+Categories for page 'Template:Areas_of_mathematics':
+----------------------------------------------------
+Category:Mathematics navigational boxes
+
+
+Categories for page 'Template:Mathematics_of':
+----------------------------------------------
+Category:Mathematics navigational boxes
+
+
+Categories for page 'Template:Computer_science':
+------------------------------------------------
+Category:Computer science navigational boxes
+Category:Computer science templates
+
+
+Categories for page 'Template:Mathematical_logic':
+--------------------------------------------------
+Category:Logic navigational boxes
+Category:Philosophy and thinking navigational boxes
+
+
+An error occurred while fetching categories for 'Template:Computer_files': ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Categories for page 'Template:Cloud_computing':
+-----------------------------------------------
+Category:Cloud computing
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Integrated_development_environments':
+-------------------------------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Speculative_execution_exploits':
+--------------------------------------------------------------
+Category:Computer security templates
+Category:Computing navigational boxes
+Category:Transient execution CPU vulnerabilities
+
+
+Categories for page 'Template:Cryptography_navbox':
+---------------------------------------------------
+Category:Cryptography templates
+Category:Templates using TemplateData
+
+
+Categories for page 'Template:Cryptography_hash':
+-------------------------------------------------
+Category:Cryptography templates
+Category:Templates using TemplateData
+
+
+Categories for page 'Template:Intel':
+-------------------------------------
+Category:Computer company navigational boxes
+Category:United States company navigational boxes
+
+
+Categories for page 'Template:Intel_processors':
+------------------------------------------------
+Category:CPU socket templates
+Category:Computer company templates
+Category:Computer hardware navigational boxes
+Category:Intel
+Category:Intel products
+
+
+Categories for page 'Template:Nvidia':
+--------------------------------------
+Category:Computer company templates
+Category:Computer hardware navigational boxes
+Category:Nvidia
+
+
+Categories for page 'Template:CS_trees':
+----------------------------------------
+Category:Computer science navigational boxes
+
+
+Categories for page 'Template:Graphics_file_formats':
+-----------------------------------------------------
+Category:Graphics file formats
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Photography':
+-------------------------------------------
+Category:Photography templates
+Category:Visual arts navigational boxes
+
+
+Categories for page 'Template:Mental_processes':
+------------------------------------------------
+Category:Navboxes using background colours
+Category:Philosophy and thinking navigational boxes
+
+
+Categories for page 'Template:Vector_graphics_editors':
+-------------------------------------------------------
+Category:Application software templates
+
+
+Categories for page 'Template:Computing_law':
+---------------------------------------------
+Category:Computer law
+Category:Computing sidebar templates
+Category:Law sidebar templates
+
+
+Categories for page 'Template:IRC_footer':
+------------------------------------------
+Category:Computing navigational boxes
+Category:IRC templates
+
+
+Categories for page 'Template:Extended_reality':
+------------------------------------------------
+Category:Computing navigational boxes
+Category:Science fiction templates
+Category:Video game navigational boxes
+
+
+Categories for page 'Template:Apple_Inc.':
+------------------------------------------
+Category:Apple Inc. navigational boxes
+Category:Computer company navigational boxes
+Category:United States company navigational boxes
+
+
+Categories for page 'Template:Graph_connectivity_sidebar':
+----------------------------------------------------------
+Category:Mathematics sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Raster_graphics_editors':
+-------------------------------------------------------
+Category:Application software templates
+
+
+Categories for page 'Template:Color_depth':
+-------------------------------------------
+Category:Color templates
+Category:Computing sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Color_topics':
+--------------------------------------------
+Category:Color templates
+
+
+Categories for page 'Template:Hardware_acceleration':
+-----------------------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:Compression_methods':
+---------------------------------------------------
+Category:Computer science navigational boxes
+
+
+Categories for page 'Template:Compression_formats':
+---------------------------------------------------
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Compression_software':
+----------------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Media_player_software':
+-----------------------------------------------------
+Category:Application software templates
+
+
+Categories for page 'Template:Cryptographic_software':
+------------------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:TLS/SSL':
+---------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Oracle_FOSS':
+-------------------------------------------
+Category:Computer company navigational boxes
+Category:Software navigational boxes
+Category:United States company navigational boxes
+
+
+Categories for page 'Template:Sun_Microsystems':
+------------------------------------------------
+Category:Sun Microsystems-related templates
+
+
+Categories for page 'Template:Cryptography_stream':
+---------------------------------------------------
+Category:Cryptography templates
+Category:Templates using TemplateData
+
+
+Categories for page 'Template:Cryptography_public-key':
+-------------------------------------------------------
+Category:Cryptography templates
+Category:Templates using TemplateData
+
+
+Categories for page 'Template:Algebraic_curves_navbox':
+-------------------------------------------------------
+Category:Algebra navigational boxes
+
+
+Categories for page 'Template:Cryptography_block':
+--------------------------------------------------
+Category:Cryptography templates
+Category:Templates using TemplateData
+
+
+Categories for page 'Template:Unix_commands':
+---------------------------------------------
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:Optical_disc_image_software':
+-----------------------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Plan_9_commands':
+-----------------------------------------------
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:Core_Utilities_commands':
+-------------------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Backup_software':
+-----------------------------------------------
+Category:Application software templates
+
+
+Categories for page 'Template:Firewall_software':
+-------------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Java_Virtual_Machine':
+----------------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Mobile_payments':
+-----------------------------------------------
+Category:Finance templates
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Video_storage_formats':
+-----------------------------------------------------
+Category:Film and video technology navigational boxes
+Category:Storage media
+
+
+Categories for page 'Template:Display_technology':
+--------------------------------------------------
+Category:Film and video technology navigational boxes
+
+
+Categories for page 'Template:Color_space':
+-------------------------------------------
+Category:Color space
+Category:Color templates
+Category:Film and video technology navigational boxes
+
+
+Categories for page 'Template:GNU':
+-----------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:IEEE_standards':
+----------------------------------------------
+Category:Technology and applied science templates
+
+
+Categories for page 'Template:Automation_protocols':
+----------------------------------------------------
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Home_automation':
+-----------------------------------------------
+Category:Buildings and structures navigational boxes
+
+
+Categories for page 'Template:CDMA':
+------------------------------------
+Category:Telecommunications navigational boxes
+
+
+Categories for page 'Template:Channel_access_methods':
+------------------------------------------------------
+Category:Telecommunications navigational boxes
+
+
+Categories for page 'Template:Telecommunications':
+--------------------------------------------------
+Category:Telecommunications navigational boxes
+
+
+Categories for page 'Template:Multiplex_techniques':
+----------------------------------------------------
+Category:Computer networking sidebar templates
+Category:Radio technology templates
+Category:Sidebars with styles needing conversion
+Category:Technology and applied science sidebar templates
+Category:Telecommunications templates
+
+
+Categories for page 'Template:Ethernet':
+----------------------------------------
+Category:Computer networking navigational boxes
+Category:Ethernet
+
+
+Categories for page 'Template:Parsers':
+---------------------------------------
+Category:Computer science navigational boxes
+Category:Parsing algorithms
+
+
+Categories for page 'Template:Program_analysis':
+------------------------------------------------
+Category:Computer science navigational boxes
+Category:Computer science templates
+Category:Navboxes using background colours
+
+
+Categories for page 'Template:Computer_language':
+-------------------------------------------------
+Category:Computer science navigational boxes
+
+
+Categories for page 'Template:Cryptographic_models':
+----------------------------------------------------
+Category:Computer science navigational boxes
+Category:Modeling navigational boxes
+
+
+Categories for page 'Template:Data_structures':
+-----------------------------------------------
+Category:Computer science navigational boxes
+
+
+Categories for page 'Template:Data_structures_and_algorithms':
+--------------------------------------------------------------
+Category:Computer science templates
+
+
+Categories for page 'Template:Systems_engineering':
+---------------------------------------------------
+Category:Systems navigational boxes
+
+
+Categories for page 'Template:RAID':
+------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:Storage_virtualization':
+------------------------------------------------------
+Category:Computing navigational boxes
+Category:Storage virtualization
+
+
+Categories for page 'Template:Unicode_navigation':
+--------------------------------------------------
+Category:Navboxes using background colours
+Category:Software navigational boxes
+Category:Unicode templates
+
+
+Categories for page 'Template:Visualization':
+---------------------------------------------
+Category:Computing navigational boxes
+Category:Systems navigational boxes
+
+
+Categories for page 'Template:Algebraic_structures':
+----------------------------------------------------
+Category:Mathematics sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Classification_of_numbers':
+---------------------------------------------------------
+Category:Mathematics templates
+
+
+Categories for page 'Template:Free_and_open-source_typography':
+---------------------------------------------------------------
+Category:Software navigational boxes
+Category:Typeface templates
+
+
+Categories for page 'Template:Freedesktop.org':
+-----------------------------------------------
+Category:Software navigational boxes
+Category:Window managers
+
+
+Categories for page 'Template:.NET_Framework':
+----------------------------------------------
+Category:Microsoft-related templates
+Category:Software development templates
+
+
+Categories for page 'Template:Design':
+--------------------------------------
+Category:Arts and culture navigational boxes
+Category:Design navigational boxes
+Category:Technology and applied science navigational boxes
+
+
+Categories for page 'Template:Electronic_components':
+-----------------------------------------------------
+Category:Electronics templates
+
+
+Categories for page 'Template:Digital_electronics':
+---------------------------------------------------
+Category:Electronics templates
+
+
+Categories for page 'Template:Solid-state_drive':
+-------------------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:Routing_protocols':
+-------------------------------------------------
+Category:Computer networking navigational boxes
+
+
+Categories for page 'Template:Comparison_of_programming_languages':
+-------------------------------------------------------------------
+Category:Computing sidebar templates
+Category:Lists of computer languages
+Category:Programming language comparisons
+Category:Programming language templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Programming_languages':
+-----------------------------------------------------
+Category:Programming language templates
+
+
+Categories for page 'Template:Programming_language_lists':
+----------------------------------------------------------
+Category:Programming language templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Programmable_logic':
+--------------------------------------------------
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Logic':
+-------------------------------------
+Category:Logic templates
+Category:WikiProject Logic
+
+
+Categories for page 'Template:Logic_templates':
+-----------------------------------------------
+Category:Logic templates
+
+
+Categories for page 'Template:Non-classical_logic':
+---------------------------------------------------
+Category:Logic templates
+
+
+Categories for page 'Template:Classical_logic':
+-----------------------------------------------
+Category:Logic navigational boxes
+Category:Logic templates
+
+
+Categories for page 'Template:Logical_truth':
+---------------------------------------------
+Category:Logic navigational boxes
+Category:Philosophy and thinking navigational boxes
+
+
+Categories for page 'Template:Metalogic':
+-----------------------------------------
+Category:Logic templates
+
+
+Categories for page 'Template:Comparison_of_SHA_functions':
+-----------------------------------------------------------
+Category:Computer security templates
+Category:Templates with missing or incorrect documentation
+
+
+Categories for page 'Template:Java_(software_platform)':
+--------------------------------------------------------
+Category:Software navigational boxes
+Category:Sun Microsystems-related templates
+
+
+Categories for page 'Template:Web_frameworks':
+----------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:ECMAScript':
+------------------------------------------
+Category:Programming language templates
+Category:Software navigational boxes
+
+
+Categories for page 'Template:GNOME':
+-------------------------------------
+Category:GNOME
+Category:GTK
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Software_engineering':
+----------------------------------------------------
+Category:Computer science navigational boxes
+Category:Software development templates
+
+
+Categories for page 'Template:Web_interfaces':
+----------------------------------------------
+Category:Software development templates
+
+
+Categories for page 'Template:Database':
+----------------------------------------
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Data_storage':
+--------------------------------------------
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Magnetic_storage_media':
+------------------------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:Optical_storage_media':
+-----------------------------------------------------
+Category:Computer hardware templates
+
+
+Categories for page 'Template:Paper_data_storage_media':
+--------------------------------------------------------
+Category:Computer hardware navigational boxes
+Category:Technology and applied science navigational boxes
+
+
+Categories for page 'Template:WebManTools':
+-------------------------------------------
+Category:Software navigational boxes
+Category:Websites navigational boxes
+
+
+Categories for page 'Template:IPv6':
+------------------------------------
+Category:Computer networking navigational boxes
+
+
+Categories for page 'Template:Network_topologies':
+--------------------------------------------------
+Category:Computer networking navigational boxes
+
+
+Categories for page 'Template:Twisted-pair_cables':
+---------------------------------------------------
+Category:Computer hardware navigational boxes
+Category:Computer networking navigational boxes
+
+
+Categories for page 'Template:Virtual_private_network':
+-------------------------------------------------------
+Category:Computer networking navigational boxes
+Category:Virtual private networks
+
+
+Categories for page 'Template:Types_of_programming_languages':
+--------------------------------------------------------------
+Category:Programming language templates
+
+
+Categories for page 'Template:Compiler_optimizations':
+------------------------------------------------------
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Inter-process_communication':
+-----------------------------------------------------------
+Category:Computer science navigational boxes
+
+
+Categories for page 'Template:Hypermedia':
+------------------------------------------
+Category:Mass media navigational boxes
+
+
+Categories for page 'Template:Web_syndication':
+-----------------------------------------------
+Category:Internet navigational boxes
+Category:Podcasting templates
+
+
+Categories for page 'Template:OSI_model_table':
+-----------------------------------------------
+Category:Computer networking templates
+Category:Telecommunications templates
+
+
+Categories for page 'Template:BitTorrent':
+------------------------------------------
+Category:Computer networking navigational boxes
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Design_patterns':
+-----------------------------------------------
+Category:Software development templates
+
+
+Categories for page 'Template:JavaScript':
+------------------------------------------
+Category:Programming language templates
+Category:Software navigational boxes
+Category:Websites navigational boxes
+
+
+Categories for page 'Template:Microsoft_Windows_components':
+------------------------------------------------------------
+Category:Microsoft-related templates
+Category:Microsoft operating systems navigational boxes
+
+
+Categories for page 'Template:Unix–Windows_interoperability':
+-------------------------------------------------------------
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:Windows_commands':
+------------------------------------------------
+Category:Microsoft operating systems navigational boxes
+
+
+Categories for page 'Template:Microsoft_APIs':
+----------------------------------------------
+Category:Microsoft-related templates
+Category:Microsoft application programming interfaces
+Category:Software development templates
+
+
+Categories for page 'Template:Windows_Vista':
+---------------------------------------------
+Category:Microsoft operating systems sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Area_networks':
+---------------------------------------------
+Category:Computer networking sidebar templates
+Category:Computer networks by scale
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Microsoft_Azure_Services_Platform':
+-----------------------------------------------------------------
+Category:Microsoft-related templates
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Microsoft_development_tools':
+-----------------------------------------------------------
+Category:Microsoft-related templates
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Microsoft_hardware':
+--------------------------------------------------
+Category:Computer hardware navigational boxes
+Category:Microsoft-related templates
+
+
+Categories for page 'Template:Microsoft_FOSS':
+----------------------------------------------
+Category:Microsoft-related templates
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Microsoft_operating_systems':
+-----------------------------------------------------------
+Category:Microsoft-related templates
+Category:Microsoft operating systems navigational boxes
+
+
+Categories for page 'Template:Widget_toolkits':
+-----------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:XWinSys':
+---------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:GUI_builders':
+--------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Malware':
+---------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:X86_processor_modes':
+---------------------------------------------------
+Category:Computer hardware sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Bitcoin':
+---------------------------------------
+Category:Bitcoin
+Category:Digital currency navigational boxes
+
+
+Categories for page 'Template:Cryptocurrencies':
+------------------------------------------------
+Category:Digital currency navigational boxes
+
+
+Categories for page 'Template:SHA-box':
+---------------------------------------
+Category:Computing sidebar templates
+
+
+Categories for page 'Template:Major_Internet_companies':
+--------------------------------------------------------
+Category:Computer company templates
+
+
+Categories for page 'Template:Computer_sizes':
+----------------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:OpenAI':
+--------------------------------------
+Category:Artificial intelligence templates
+Category:Computer company navigational boxes
+Category:United States company navigational boxes
+
+
+Categories for page 'Template:ScaleSpaceNavbox':
+------------------------------------------------
+Category:Computer science sidebar templates
+
+
+Categories for page 'Template:Machine_code':
+--------------------------------------------
+Category:Computer science sidebar templates
+Category:Programming language templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Machine_learning':
+------------------------------------------------
+Category:Computer science sidebar templates
+Category:Sidebars with styles needing conversion
+Category:Statistics sidebar templates
+Category:Templates using TemplateStyles
+
+
+Categories for page 'Template:Generative_AI':
+---------------------------------------------
+Category:Artificial intelligence templates
+Category:Deep learning
+
+
+Categories for page 'Template:Differentiable_computing':
+--------------------------------------------------------
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Program_execution':
+-------------------------------------------------
+Category:Computer science sidebar templates
+Category:Programming language templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Type_systems':
+--------------------------------------------
+Category:Computer science sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Data_transformation':
+---------------------------------------------------
+Category:Sidebars with styles needing conversion
+Category:Software development templates
+
+
+Categories for page 'Template:Real-time_operating_systems':
+-----------------------------------------------------------
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:Microkernel':
+-------------------------------------------
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:File_systems':
+--------------------------------------------
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Classic_Mac_OS':
+----------------------------------------------
+Category:Apple Inc. navigational boxes
+Category:Classic Mac OS
+Category:Computer company navigational boxes
+Category:United States company navigational boxes
+
+
+Categories for page 'Template:Apple_see_also':
+----------------------------------------------
+Category:Apple Inc.–related templates
+Category:Documentation see also templates
+
+
+Categories for page 'Template:MacOS_developer_tools':
+-----------------------------------------------------
+Category:Apple Inc. navigational boxes
+Category:Computer company navigational boxes
+Category:Software development templates
+Category:United States company navigational boxes
+
+
+Categories for page 'Template:MacOS_Server':
+--------------------------------------------
+Category:Apple Inc. navigational boxes
+Category:Computer company navigational boxes
+Category:MacOS Server
+Category:United States company navigational boxes
+
+
+Categories for page 'Template:Apple_operating_systems':
+-------------------------------------------------------
+Category:Apple Inc. navigational boxes
+Category:Computer company navigational boxes
+Category:Operating system navigational boxes
+Category:United States company navigational boxes
+
+
+Categories for page 'Template:MacOS_graphics_model':
+----------------------------------------------------
+Category:Apple Inc. sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Darwin_derivations':
+--------------------------------------------------
+Category:Apple Inc. navigational boxes
+Category:Apple Inc. operating systems
+Category:Computer company navigational boxes
+Category:MacOS
+Category:MacOS Server
+Category:Operating system navigational boxes
+Category:United States company navigational boxes
+
+
+Categories for page 'Template:MacOS':
+-------------------------------------
+Category:Apple Inc. navigational boxes
+Category:Computer company navigational boxes
+Category:Operating system navigational boxes
+Category:United States company navigational boxes
+
+
+Categories for page 'Template:Data_types':
+------------------------------------------
+Category:Computer science navigational boxes
+
+
+Categories for page 'Template:Information_units':
+-------------------------------------------------
+Category:Computer science navigational boxes
+
+
+Categories for page 'Template:Password_managers':
+-------------------------------------------------
+Category:Application software templates
+Category:Password managers
+
+
+Categories for page 'Template:Authentication':
+----------------------------------------------
+Category:Application programming interfaces
+Category:Computer access control
+Category:Computer access control protocols
+Category:Software development templates
+
+
+Categories for page 'Template:Hobbyist_operating_systems':
+----------------------------------------------------------
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:FOSS':
+------------------------------------
+Category:Computing navigational boxes
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Error_messages':
+----------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Unix_shells':
+-------------------------------------------
+Category:Unix shells
+
+
+Categories for page 'Template:Operating_systems':
+-------------------------------------------------
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:Solid_principles':
+------------------------------------------------
+Category:Computing sidebar templates
+
+
+Categories for page 'Template:Internet':
+----------------------------------------
+Category:Computer networking sidebar templates
+Category:Computing sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:OSI_model':
+-----------------------------------------
+Category:Computer networking sidebar templates
+
+
+Categories for page 'Template:Internet_protocol_suite':
+-------------------------------------------------------
+Category:Computer networking sidebar templates
+
+
+Categories for page 'Template:URI_schemes':
+-------------------------------------------
+Category:Computer networking navigational boxes
+Category:URI schemes
+
+
+Categories for page 'Template:Web_browsers':
+--------------------------------------------
+Category:Application software templates
+
+
+Categories for page 'Template:Google_FOSS':
+-------------------------------------------
+Category:Google navigational boxes
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Linux_distributions':
+---------------------------------------------------
+Category:Linux navigational boxes
+
+
+Categories for page 'Template:Linux_containers':
+------------------------------------------------
+Category:Linux navigational boxes
+
+
+Categories for page 'Template:Linux_layers/sandbox':
+----------------------------------------------------
+Category:Template sandboxes
+
+
+Categories for page 'Template:Debian':
+--------------------------------------
+Category:Linux navigational boxes
+
+
+Categories for page 'Template:Ubuntu':
+--------------------------------------
+Category:Linux navigational boxes
+
+
+Categories for page 'Template:Linux_package_management_systems':
+----------------------------------------------------------------
+Category:Linux navigational boxes
+Category:Package management systems
+
+
+Categories for page 'Template:Red_Hat':
+---------------------------------------
+Category:Red Hat-related templates
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Linux_devices':
+---------------------------------------------
+Category:Computer hardware navigational boxes
+Category:Linux navigational boxes
+
+
+Categories for page 'Template:Perl':
+------------------------------------
+Category:Programming language templates
+
+
+Categories for page 'Template:Software_distribution':
+-----------------------------------------------------
+Category:Software development templates
+
+
+Categories for page 'Template:Intellectual_property_activism':
+--------------------------------------------------------------
+Category:Activism templates
+Category:Human rights navigational boxes
+Category:Political ideology navigational boxes
+
+
+Categories for page 'Template:Free_culture_and_open_content':
+-------------------------------------------------------------
+Category:Communication navigational boxes
+
+
+Categories for page 'Template:Independent_production':
+------------------------------------------------------
+Category:Mass media navigational boxes
+Category:Society and social science navigational boxes
+
+
+Categories for page 'Template:Databases':
+-----------------------------------------
+Category:Computing navigational boxes
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Memory_management':
+-------------------------------------------------
+Category:Computer science navigational boxes
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Executables':
+-------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Archive_formats':
+-----------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Microsoft':
+-----------------------------------------
+Category:Computer company navigational boxes
+Category:Microsoft-related templates
+Category:United States company navigational boxes
+
+
+Categories for page 'Template:Computer_bus':
+--------------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:Embedded_systems':
+------------------------------------------------
+Category:Computer hardware navigational boxes
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Internet_suites':
+-----------------------------------------------
+Category:Application software templates
+Category:Internet suites
+
+
+Categories for page 'Template:Jakarta_RESTful_Web_Services':
+------------------------------------------------------------
+Category:Software templates
+
+
+Categories for page 'Template:Java_platforms':
+----------------------------------------------
+Category:Sidebars with styles needing conversion
+Category:Software templates
+
+
+Categories for page 'Template:Bit-encoding':
+--------------------------------------------
+Category:Telecommunications navigational boxes
+
+
+Categories for page 'Template:Modulation_techniques':
+-----------------------------------------------------
+Category:Computer networking sidebar templates
+Category:Radio technology templates
+Category:Sidebars with styles needing conversion
+Category:Technology and applied science sidebar templates
+Category:Telecommunications templates
+
+
+Categories for page 'Template:Data':
+------------------------------------
+Category:Data
+
+
+Categories for page 'Template:Formal_languages_and_grammars':
+-------------------------------------------------------------
+Category:Computer science navigational boxes
+Category:Linguistics navigational boxes
+
+
+Categories for page 'Template:Strings':
+---------------------------------------
+Category:Computer science navigational boxes
+
+
+Categories for page 'Template:Frequency_list':
+----------------------------------------------
+Category:Linguistics navigational boxes
+
+
+Categories for page 'Template:Unix':
+------------------------------------
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:Disk_images':
+-------------------------------------------
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Virtualization_software':
+-------------------------------------------------------
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:Qt_platform':
+-------------------------------------------
+Category:KDE-related templates
+Category:Software navigational boxes
+
+
+Categories for page 'Template:KDE':
+-----------------------------------
+Category:KDE-related templates
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Processor_scheduling':
+----------------------------------------------------
+Category:Computer science navigational boxes
+Category:Processor scheduling algorithms
+
+
+Categories for page 'Template:Computer_vision_footer':
+------------------------------------------------------
+Category:Robotics templates
+
+
+Categories for page 'Template:Quality_tools':
+---------------------------------------------
+Category:Quality management
+
+
+Categories for page 'Template:Statistics':
+------------------------------------------
+Category:Applied Mathematics navigational boxes
+Category:Statistics templates
+
+
+Categories for page 'Template:User_interfaces':
+-----------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Desktop_environments_and_window_managers_for_X11_and_Wayland':
+--------------------------------------------------------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Computer_hacking':
+------------------------------------------------
+Category:Computer security templates
+Category:Computing sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Digital_forensics':
+-------------------------------------------------
+Category:Computing navigational boxes
+Category:Crime navigational boxes
+
+
+Categories for page 'Template:Data_erasure':
+--------------------------------------------
+Category:Computing navigational boxes
+Category:Data erasure
+
+
+Categories for page 'Template:Search_engine_optimization':
+----------------------------------------------------------
+Category:Internet navigational boxes
+
+
+Categories for page 'Template:Internet_marketing':
+--------------------------------------------------
+Category:Business and finance sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Keyboard_keys':
+---------------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:Keyboard_layouts':
+------------------------------------------------
+Category:Computer hardware navigational boxes
+
+
+Categories for page 'Template:Wikipedia_technical_help':
+--------------------------------------------------------
+No matching categories found.
+
+
+Categories for page 'Template:Wikipedia_editor_navigation_templates':
+---------------------------------------------------------------------
+Category:Documentation see also templates
+Category:Navigational metatemplates
+
+
+Categories for page 'Template:Namespaces':
+------------------------------------------
+No matching categories found.
+
+
+Categories for page 'Template:Wikipedia_categorization':
+--------------------------------------------------------
+No matching categories found.
+
+
+Categories for page 'Template:Disk_space_analyzers':
+----------------------------------------------------
+Category:Disk usage analysis software
+
+
+Categories for page 'Template:SciPy_ecosystem':
+-----------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:IBM_operating_systems':
+-----------------------------------------------------
+Category:IBM navigational boxes
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:Time-sharing_operating_systems':
+--------------------------------------------------------------
+Category:Operating system navigational boxes
+
+
+Categories for page 'Template:Semantics':
+-----------------------------------------
+Category:Computer science sidebar templates
+Category:Linguistics sidebar templates
+Category:Philosophy and thinking sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Semantic_Web':
+--------------------------------------------
+Category:Software navigational boxes
+
+
+Categories for page 'Template:Emerging_technologies':
+-----------------------------------------------------
+Category:Technology and applied science navigational boxes
+
+
+Categories for page 'Template:Engineering_fields':
+--------------------------------------------------
+Category:Engineering navigational boxes
+
+
+Categories for page 'Template:Mobile_phones':
+---------------------------------------------
+Category:Telephony navigational boxes
+
+
+Categories for page 'Template:Math_topics_sidebar':
+---------------------------------------------------
+Category:Mathematics sidebar templates
+Category:Sidebars with styles needing conversion
+
+
+Categories for page 'Template:Industrial_and_applied_mathematics':
+------------------------------------------------------------------
+Category:Applied Mathematics navigational boxes
+
+
+Categories for page 'Template:Computational_science':
+-----------------------------------------------------
+Category:Computing navigational boxes
+Category:Science and nature navigational boxes
+
+
+Categories for page 'Template:Texture_mapping_techniques':
+----------------------------------------------------------
+Category:Computing navigational boxes
+
+
+Categories for page 'Template:Data_warehouses':
+-----------------------------------------------
+Category:Computing navigational boxes
+
+

@@ -1,0 +1,6658 @@
+Categories for page 'Parallel_computing':
+-----------------------------------------
+Category:Concurrent computing
+Category:Distributed computing
+Category:Parallel computing
+
+
+Categories for page 'Concurrent_computing':
+-------------------------------------------
+Category:Concurrent computing
+Category:Operating system technology
+
+
+Categories for page 'Programming_paradigm':
+-------------------------------------------
+Category:Programming language classification
+Category:Programming language topics
+Category:Programming paradigms
+
+
+Categories for page 'Central_processing_unit':
+----------------------------------------------
+Category:All pages needing factual verification
+Category:Central processing unit
+Category:Digital electronics
+Category:Electronic design
+Category:Electronic design automation
+Category:Vague or ambiguous time from September 2016
+
+
+Categories for page 'Multi-core_processor':
+-------------------------------------------
+Category:Computer architecture
+Category:Digital signal processing
+Category:Flynn's taxonomy
+Category:Microprocessors
+Category:Parallel computing
+
+
+Categories for page 'Manycore_processor':
+-----------------------------------------
+Category:Computer architecture
+Category:Manycore processors
+Category:Parallel computing
+
+
+Categories for page 'Multiprocessing':
+--------------------------------------
+Category:Classes of computers
+Category:Computing terminology
+Category:Parallel computing
+
+
+Categories for page 'Monolithic_system':
+----------------------------------------
+Category:Software architecture
+
+
+Categories for page 'Concurrency_(computer_science)':
+-----------------------------------------------------
+Category:Concurrency (computer science)
+
+
+Categories for page 'Parallel_algorithm':
+-----------------------------------------
+Category:Concurrent algorithms
+Category:Distributed algorithms
+Category:Parallel computing
+
+
+Categories for page 'Hypervisor':
+---------------------------------
+Category:Servers (computing)
+Category:Virtualization software
+
+
+Categories for page 'Containerization_(computing)':
+---------------------------------------------------
+Category:Cloud computing
+Category:Software engineering stubs
+
+
+Categories for page 'OS-level_virtualization':
+----------------------------------------------
+Category:Linux
+Category:Linux containerization
+Category:Linux kernel features
+Category:Operating system security
+Category:Operating system technology
+Category:Virtualization
+
+
+Categories for page 'Application_virtualization':
+-------------------------------------------------
+Category:Linux emulation software
+Category:MacOS security software
+Category:Unix emulation software
+Category:Virtualization
+Category:Windows security software
+
+
+Categories for page 'Docker_(software)':
+----------------------------------------
+Category:2013 software
+Category:Containerization software
+Category:Free software programmed in Go
+Category:Free virtualization software
+Category:Linux containerization
+Category:Operating system security
+Category:Operating system technology
+Category:Software using the Apache license
+Category:Virtualization software for Linux
+
+
+Categories for page 'Podman':
+-----------------------------
+Category:Containerization software
+Category:Software stubs
+Category:Software using the Apache license
+
+
+Categories for page 'Cgroups':
+------------------------------
+Category:Interfaces of the Linux kernel
+Category:Linux kernel features
+Category:Operating system security
+Category:Virtualization software for Linux
+
+
+Categories for page 'Linux_namespaces':
+---------------------------------------
+Category:Interfaces of the Linux kernel
+Category:Linux kernel features
+Category:Operating system security
+Category:Virtualization software for Linux
+
+
+Categories for page 'Kubernetes':
+---------------------------------
+Category:2014 software
+Category:Cloud infrastructure
+Category:Containerization software
+Category:Free software for cloud computing
+Category:Free software programmed in Go
+Category:Linux Foundation projects
+Category:Linux containerization
+Category:Orchestration software
+Category:Software using the Apache license
+Category:Virtualization software for Linux
+
+
+Categories for page 'OpenShift':
+--------------------------------
+Category:Cloud platforms
+Category:Cloud storage
+Category:Containerization software
+Category:File hosting
+Category:Free software for cloud computing
+Category:Free software programmed in Go
+Category:Open-source cloud hosting services
+Category:Red Hat software
+Category:Vague or ambiguous time from October 2016
+Category:Web hosting
+Category:Web services
+
+
+Categories for page 'Hardware_virtualization':
+----------------------------------------------
+Category:Hardware virtualization
+
+
+Categories for page 'Data_center':
+----------------------------------
+Category:Applications of distributed computing
+Category:Cloud storage
+Category:Computer networking
+Category:Data centers
+Category:Data management
+Category:Distributed data storage
+Category:Distributed data storage systems
+Category:Heating, ventilation, and air conditioning
+Category:Infrastructure
+Category:Servers (computing)
+Category:Use American English from October 2019
+
+
+Categories for page 'Locality_of_reference':
+--------------------------------------------
+Category:Cache (computing)
+Category:Computer memory
+Category:Software optimization
+
+
+Categories for page 'Wireshark':
+--------------------------------
+Category:Cross-platform free software
+Category:Free network management software
+Category:Free software programmed in C
+Category:Free software programmed in C++
+Category:Lua (programming language)-scriptable software
+Category:MacOS network-related software
+Category:Network analyzers
+Category:Packet analyzer software for Linux
+Category:Pentesting software toolkits
+Category:Software that uses Qt
+Category:Software that was ported from GTK to Qt
+Category:Unix network-related software
+Category:Web scraping
+Category:Windows network-related software
+
+
+Categories for page 'Nmap':
+---------------------------
+Category:C++ software
+Category:Cross-platform free software
+Category:Free network management software
+Category:Linux security software
+Category:Lua (programming language)-scriptable software
+Category:Network analyzers
+Category:Pentesting software toolkits
+Category:Port scanners
+Category:Python (programming language) software
+Category:Security testing tools
+Category:Unix network-related software
+
+
+Categories for page 'Java_(programming_language)':
+--------------------------------------------------
+Category:American inventions
+Category:C programming language family
+Category:Class-based programming languages
+Category:Compiled programming languages
+Category:Concurrent programming languages
+Category:JVM programming languages
+Category:Java (programming language)
+Category:Java platform
+Category:Java specification requests
+Category:Multi-paradigm programming languages
+Category:Object-oriented programming languages
+Category:Programming languages
+Category:Programming languages created in 1995
+Category:Statically typed programming languages
+Category:Sun Microsystems
+
+
+Categories for page 'Java_(software_platform)':
+-----------------------------------------------
+Category:Computing platforms
+Category:Cross-platform software
+Category:Java platform
+
+
+Categories for page 'Java_virtual_machine':
+-------------------------------------------
+Category:Java (programming language)
+Category:Java platform software
+Category:Java specification requests
+Category:Java virtual machine
+Category:Stack-based virtual machines
+
+
+Categories for page 'Vert.x':
+-----------------------------
+Category:Concurrent programming libraries
+Category:Cross-platform software
+Category:Events (computing)
+Category:Free computer libraries
+Category:Java virtual machine
+
+
+Categories for page 'Spring_Framework':
+---------------------------------------
+Category:Aspect-oriented programming
+Category:Java enterprise platform
+Category:Web frameworks
+
+
+Categories for page 'Ansible_(software)':
+-----------------------------------------
+Category:All pages needing factual verification
+Category:Configuration management
+Category:Free software programmed in Python
+Category:Orchestration software
+Category:Remote administration software
+Category:Software distribution
+Category:Software using the GNU General Public License
+
+
+Categories for page 'Inter-process_communication':
+--------------------------------------------------
+Category:Inter-process communication
+
+
+Categories for page 'CPU_modes':
+--------------------------------
+Category:Central processing unit
+Category:Computer security
+
+
+Categories for page 'Python_(programming_language)':
+----------------------------------------------------
+Category:Class-based programming languages
+Category:Computer science in the Netherlands
+Category:Concurrent programming languages
+Category:Cross-platform free software
+Category:Cross-platform software
+Category:Dutch inventions
+Category:Dynamically typed programming languages
+Category:Educational programming languages
+Category:High-level programming languages
+Category:Information technology in the Netherlands
+Category:Multi-paradigm programming languages
+Category:Notebook interface
+Category:Object-oriented programming languages
+Category:Pattern matching programming languages
+Category:Programming languages
+Category:Programming languages created in 1991
+Category:Python (programming language)
+Category:Scripting languages
+Category:Text-oriented programming languages
+Category:Use American English from December 2024
+
+
+Categories for page 'Artificial_intelligence':
+----------------------------------------------
+Category:Artificial intelligence
+Category:Computational fields of study
+Category:Computational neuroscience
+Category:Cybernetics
+Category:Data science
+Category:Formal sciences
+Category:Intelligence by type
+
+
+Categories for page 'Interrupt':
+--------------------------------
+Category:Interrupts
+
+
+Categories for page 'POSIX':
+----------------------------
+Category:Application programming interfaces
+Category:IEC standards
+Category:IEEE standards
+Category:ISO standards
+Category:Open Group standards
+Category:POSIX
+
+
+Categories for page 'File_system':
+----------------------------------
+Category:Computer file systems
+
+
+Categories for page 'Microarchitecture':
+----------------------------------------
+Category:Central processing unit
+Category:Instruction processing
+Category:Microarchitectures
+Category:Microprocessors
+
+
+Categories for page 'Fiber_(computer_science)':
+-----------------------------------------------
+Category:Control flow
+Category:Threads (computing)
+Category:Use American English from March 2021
+
+
+Categories for page 'Memory_hierarchy':
+---------------------------------------
+Category:Computer architecture
+Category:Computer data storage
+Category:Hierarchy
+
+
+Categories for page 'D-Bus':
+----------------------------
+Category:Application layer protocols
+Category:C++ libraries
+Category:Collabora
+Category:Free network-related software
+Category:Freedesktop.org
+Category:Inter-process communication
+Category:Remote procedure call
+Category:Software using the Academic Free License
+
+
+Categories for page 'Parallel_port':
+------------------------------------
+Category:Computer buses
+Category:Computer connectors
+Category:Legacy hardware
+Category:Physical layer protocols
+
+
+Categories for page 'File_descriptor':
+--------------------------------------
+Category:POSIX
+Category:Unix file system technology
+
+
+Categories for page 'Block_(data_storage)':
+-------------------------------------------
+Category:Computer data storage
+Category:Data transmission
+
+
+Categories for page 'Hard_link':
+--------------------------------
+Category:Computer file systems
+
+
+Categories for page 'Symbolic_link':
+------------------------------------
+Category:Computer file systems
+Category:Unix file system technology
+
+
+Categories for page 'INI_file':
+-------------------------------
+Category:Computer file formats
+Category:Configuration files
+
+
+Categories for page 'Operating_system':
+---------------------------------------
+Category:Harv and Sfn no-target errors
+Category:Operating systems
+
+
+Categories for page 'Load_balancing_(computing)':
+-------------------------------------------------
+Category:Balancing technology
+Category:Load balancing (computing)
+Category:Routing
+Category:Servers (computing)
+
+
+Categories for page 'Non-English-based_programming_languages':
+--------------------------------------------------------------
+Category:Lists of programming languages
+Category:Natural language and computing
+Category:Non-English-based programming languages
+
+
+Categories for page 'Syntax_(programming_languages)':
+-----------------------------------------------------
+Category:Programming language syntax
+Category:Programming language topics
+Category:Source code
+
+
+Categories for page 'Microservices':
+------------------------------------
+Category:Architectural pattern (computer science)
+Category:Service-oriented (business computing)
+
+
+Categories for page 'Cloud_computing':
+--------------------------------------
+Category:Cloud computing
+Category:Cloud infrastructure
+Category:Use American English from April 2020
+
+
+Categories for page 'Packet_Tracer':
+------------------------------------
+Category:Cisco software
+Category:Computer science education
+
+
+Categories for page 'BBEdit':
+-----------------------------
+Category:Classic Mac OS text editors
+Category:MacOS-only freemium software
+Category:MacOS text editors
+
+
+Categories for page 'Notepad++':
+--------------------------------
+Category:2003 software
+Category:Free HTML editors
+Category:Free software programmed in C++
+Category:Free text editors
+Category:Notepad replacements
+Category:Software that uses Scintilla
+Category:Software using the GNU General Public License
+Category:Windows-only free software
+Category:Windows text editors
+
+
+Categories for page 'Load_(computing)':
+---------------------------------------
+Category:Operating system technology
+
+
+Categories for page 'Bit-level_parallelism':
+--------------------------------------------
+Category:Parallel computing
+
+
+Categories for page 'Instruction-level_parallelism':
+----------------------------------------------------
+Category:Instruction processing
+Category:Parallel computing
+Category:Use American English from March 2019
+Category:Vague or ambiguous time from November 2024
+
+
+Categories for page 'Data_parallelism':
+---------------------------------------
+Category:Parallel computing
+
+
+Categories for page 'Task_parallelism':
+---------------------------------------
+Category:Parallel computing
+Category:Threads (computing)
+
+
+Categories for page 'Memory-level_parallelism':
+-----------------------------------------------
+Category:Instruction processing
+Category:Parallel computing
+
+
+Categories for page 'Symmetric_multiprocessing':
+------------------------------------------------
+Category:Classes of computers
+Category:Flynn's taxonomy
+Category:Parallel computing
+
+
+Categories for page 'Distributed_memory':
+-----------------------------------------
+Category:Distributed computing architecture
+Category:Parallel computing
+Category:Use British English from February 2024
+
+
+Categories for page 'Shared_memory':
+------------------------------------
+Category:Computer architecture
+Category:Concurrent computing
+Category:Distributed computing architecture
+Category:Inter-process communication
+Category:Memory management
+Category:Parallel computing
+
+
+Categories for page 'Distributed_shared_memory':
+------------------------------------------------
+Category:Distributed computing architecture
+
+
+Categories for page 'Parallel_Virtual_Machine':
+-----------------------------------------------
+Category:Inter-process communication
+Category:Parallel computing
+Category:Software using the BSD license
+Category:Virtualization software
+
+
+Categories for page 'Parallel_RAM':
+-----------------------------------
+Category:Analysis of parallel algorithms
+Category:Models of computation
+
+
+Categories for page 'Heterogeneous_System_Architecture':
+--------------------------------------------------------
+Category:Heterogeneous System Architecture
+Category:Heterogeneous computing
+
+
+Categories for page 'Automatic_parallelization':
+------------------------------------------------
+Category:Compiler optimizations
+Category:Parallel computing
+Category:Use list-defined references from January 2022
+
+
+Categories for page 'Computational_complexity':
+-----------------------------------------------
+Category:Analysis of algorithms
+Category:Computational complexity theory
+Category:Computational resources
+
+
+Categories for page 'Error-tolerant_design':
+--------------------------------------------
+Category:Computer errors
+Category:Error
+Category:Fault-tolerant computer systems
+Category:Toyota Production System
+Category:User interface techniques
+
+
+Categories for page 'Execution_(computing)':
+--------------------------------------------
+Category:Computing terminology
+
+
+Categories for page 'Prefix_sum':
+---------------------------------
+Category:Concurrent algorithms
+Category:Higher-order functions
+
+
+Categories for page 'Job_scheduler':
+------------------------------------
+Category:Job scheduling
+
+
+Categories for page 'Directed_acyclic_graph':
+---------------------------------------------
+Category:Directed acyclic graphs
+Category:Directed graphs
+
+
+Categories for page 'NP-hardness':
+----------------------------------
+Category:Complexity classes
+Category:NP-hard problems
+
+
+Categories for page 'Metaheuristic':
+------------------------------------
+Category:Metaheuristics
+Category:Use American English from January 2019
+
+
+Categories for page 'Input–output_memory_management_unit':
+----------------------------------------------------------
+Category:Computer peripherals
+Category:Memory management
+
+
+Categories for page 'Computer_cluster':
+---------------------------------------
+Category:Classes of computers
+Category:Cluster computing
+Category:Concurrent computing
+Category:Fault-tolerant computer systems
+Category:Local area networks
+Category:Parallel computing
+Category:Server hardware
+Category:Supercomputers
+
+
+Categories for page 'Distributed_computing':
+--------------------------------------------
+Category:Distributed computing
+
+
+Categories for page 'Single_system_image':
+------------------------------------------
+Category:Cluster computing
+
+
+Categories for page 'Peer-to-peer':
+-----------------------------------
+Category:File sharing
+Category:File sharing networks
+Category:Peer-to-peer
+Category:Peer-to-peer computing
+Category:Software engineering terminology
+
+
+Categories for page 'Fault_tolerance':
+--------------------------------------
+Category:Computer systems
+Category:Control engineering
+Category:Fault tolerance
+Category:RAID
+Category:Reliability engineering
+Category:Software quality
+Category:Systems engineering
+Category:Use American English from February 2019
+Category:Vague or ambiguous geographic scope from June 2017
+
+
+Categories for page 'Nice_(Unix)':
+----------------------------------
+Category:Unix SUS2008 utilities
+Category:Unix process- and task-management-related software
+
+
+Categories for page 'Process_(computing)':
+------------------------------------------
+Category:Concurrent computing
+Category:Operating system technology
+Category:Process (computing)
+
+
+Categories for page 'Child_process':
+------------------------------------
+Category:Process (computing)
+
+
+Categories for page 'Parent_process':
+-------------------------------------
+Category:Process (computing)
+
+
+Categories for page 'Thread_(computing)':
+-----------------------------------------
+Category:Concurrent computing
+Category:Threads (computing)
+
+
+Categories for page 'Process_management_(computing)':
+-----------------------------------------------------
+Category:Operating system technology
+Category:Process (computing)
+
+
+Categories for page 'Context_switch':
+-------------------------------------
+Category:Process (computing)
+
+
+Categories for page 'Kernel_(operating_system)':
+------------------------------------------------
+Category:Operating system kernels
+Category:Operating systems
+
+
+Categories for page 'Microkernel':
+----------------------------------
+Category:Microkernels
+
+
+Categories for page 'Monolithic_kernel':
+----------------------------------------
+Category:Monolithic kernels
+
+
+Categories for page 'GNU_Hurd':
+-------------------------------
+Category:Free software operating systems
+Category:GNU Project software
+Category:Microkernel-based operating systems
+Category:Microkernels
+Category:Operating system distributions bootable from read-only media
+Category:Unix variants
+Category:X86-64 operating systems
+
+
+Categories for page 'User_space_and_kernel_space':
+--------------------------------------------------
+Category:Device drivers
+Category:Operating system technology
+
+
+Categories for page 'Linux_kernel':
+-----------------------------------
+Category:Finnish inventions
+Category:Free and open-source software
+Category:Free software programmed in C
+Category:Free system software
+Category:Linus Torvalds
+Category:Linux kernel
+Category:Monolithic kernels
+Category:Operating systems
+Category:Pages with disabled graphs
+Category:Software using the GNU General Public License
+Category:Unix variants
+
+
+Categories for page 'Scheduling_(computing)':
+---------------------------------------------
+Category:Operations research
+Category:Planning
+Category:Scheduling (computing)
+Category:Software design patterns
+
+
+Categories for page 'Daemon_(computing)':
+-----------------------------------------
+Category:Process (computing)
+Category:Servers (computing)
+
+
+Categories for page 'Privilege_escalation':
+-------------------------------------------
+Category:Operating system security
+Category:Privilege escalation exploits
+
+
+Categories for page 'Message_passing':
+--------------------------------------
+Category:Distributed computing architecture
+Category:Inter-process communication
+
+
+Categories for page 'Zombie_process':
+-------------------------------------
+Category:Process (computing)
+
+
+Categories for page 'Orphan_process':
+-------------------------------------
+Category:Process (computing)
+
+
+Categories for page 'Single_address_space_operating_system':
+------------------------------------------------------------
+Category:Computer engineering stubs
+Category:Operating systems
+
+
+Categories for page 'Computer_performance':
+-------------------------------------------
+Category:Computer performance
+
+
+Categories for page 'Processor_power_dissipation':
+--------------------------------------------------
+Category:Central processing unit
+Category:Electric power
+
+
+Categories for page 'Technology':
+---------------------------------
+Category:Technology
+Category:Technology systems
+
+
+Categories for page 'Software':
+-------------------------------
+Category:Software
+
+
+Categories for page 'Hardware':
+-------------------------------
+Category:All article disambiguation pages
+Category:All disambiguation pages
+Category:Disambiguation pages
+
+
+Categories for page 'Transmission_medium':
+------------------------------------------
+Category:Electromagnetic radiation
+
+
+Categories for page 'Electromagnetic_spectrum':
+-----------------------------------------------
+Category:Electromagnetic spectrum
+Category:Waves
+
+
+Categories for page 'Frequency_allocation':
+-------------------------------------------
+Category:Broadcast engineering
+Category:Radio resource management
+Category:Radio spectrum
+
+
+Categories for page 'Futures_and_promises':
+-------------------------------------------
+Category:Actor model (computer science)
+Category:Inter-process communication
+
+
+Categories for page 'Windows_Subsystem_for_Linux':
+--------------------------------------------------
+Category:2016 software
+Category:Compatibility layers
+Category:Virtualization software
+Category:Windows 10
+Category:Windows commands
+Category:Windows components
+
+
+Categories for page 'Filename_extension':
+-----------------------------------------
+Category:Computer file formats
+Category:Computer files
+Category:Filename extensions
+Category:Metadata
+Category:Names
+
+
+Categories for page 'List_of_file_formats':
+-------------------------------------------
+Category:Computer file formats
+Category:Dynamic lists
+Category:Lists of file formats
+
+
+Categories for page 'List_of_archive_formats':
+----------------------------------------------
+Category:Archive formats
+Category:Lists of file formats
+
+
+Categories for page 'Application_software':
+-------------------------------------------
+Category:Application software
+
+
+Categories for page 'Mobile_app':
+---------------------------------
+Category:Mobile applications
+Category:Mobile software
+Category:User interface techniques
+
+
+Categories for page 'Web_application':
+--------------------------------------
+Category:Software architecture
+Category:User interface techniques
+Category:Web applications
+Category:Web development
+
+
+Categories for page 'Server_(computing)':
+-----------------------------------------
+Category:Server hardware
+Category:Servers (computing)
+
+
+Categories for page 'Super-app':
+--------------------------------
+Category:2020s neologisms
+Category:E-commerce
+Category:Mobile applications
+
+
+Categories for page 'List_of_application_servers':
+--------------------------------------------------
+Category:Java enterprise platform
+Category:Lists of software
+
+
+Categories for page 'List_of_application_servers#Java':
+-------------------------------------------------------
+Category:Java enterprise platform
+Category:Lists of software
+
+
+Categories for page 'Integrated_development_environment':
+---------------------------------------------------------
+Category:Integrated development environments
+Category:Software engineering
+
+
+Categories for page 'Online_integrated_development_environment':
+----------------------------------------------------------------
+Category:Integrated development environments
+Category:Online integrated development environments
+
+
+Categories for page 'IntelliJ_IDEA':
+------------------------------------
+Category:Free integrated development environments
+Category:Java (programming language) software
+Category:Java development tools
+Category:Products introduced in 2001
+Category:Software using the Apache license
+
+
+Categories for page 'Lists_of_programming_languages':
+-----------------------------------------------------
+Category:Lists of language lists
+Category:Lists of programming languages
+Category:Lists of technology lists
+
+
+Categories for page 'List_of_programming_languages':
+----------------------------------------------------
+Category:Computer programming
+Category:Lists of programming languages
+
+
+Categories for page 'List_of_programming_languages_by_type':
+------------------------------------------------------------
+Category:Array programming languages
+Category:Lists of programming languages
+
+
+Categories for page 'Comparison_of_programming_languages':
+----------------------------------------------------------
+Category:Programming language comparisons
+
+
+Categories for page 'List_of_programming_languages_for_artificial_intelligence':
+--------------------------------------------------------------------------------
+Category:Artificial intelligence
+Category:Lists of programming languages
+
+
+Categories for page 'Computer_network':
+---------------------------------------
+Category:All pages needing factual verification
+Category:Computer networks
+Category:Use American English from April 2020
+
+
+Categories for page 'Glitch':
+-----------------------------
+Category:Computer errors
+Category:Digital electronics
+Category:Software anomalies
+Category:Software bugs
+
+
+Categories for page 'Internet':
+-------------------------------
+Category:1969 establishments in the United States
+Category:American inventions
+Category:Computer-related introductions in 1969
+Category:Cultural globalization
+Category:Digital technology
+Category:Free-content attribution
+Category:Free content from UNESCO
+Category:Internet
+Category:Mass media technology
+Category:New media
+Category:Pages containing links to subscription-only content
+Category:Pages with disabled graphs
+Category:Promotion and marketing communications
+Category:Public services
+Category:Telecommunications
+Category:Telegraphy
+Category:Transport systems
+Category:Use American English from August 2020
+Category:Virtual reality
+
+
+Categories for page 'Languages_used_on_the_Internet':
+-----------------------------------------------------
+Category:Internet-related lists
+Category:Internet culture
+Category:Natural language and computing
+Category:Population statistics
+
+
+Categories for page 'Global_digital_divide':
+--------------------------------------------
+Category:Cultural globalization
+Category:Digital divide
+Category:Digital media
+Category:Economic geography
+Category:Global inequality
+Category:Rural economics
+Category:Social inequality
+Category:Technology development
+
+
+Categories for page 'Digital_divide':
+-------------------------------------
+Category:Cultural globalization
+Category:Digital divide
+Category:Digital media
+Category:Economic geography
+Category:Free-content attribution
+Category:Free content from UNESCO
+Category:Global inequality
+Category:Information society
+Category:Rural economics
+Category:Social inequality
+Category:Technology development
+
+
+Categories for page 'Computer_security':
+----------------------------------------
+Category:Computer security
+Category:Cryptography
+Category:Cyberwarfare
+Category:Data protection
+Category:Information governance
+Category:Malware
+Category:Pages displaying wikidata descriptions as a fallback via Module:Annotated link
+Category:Use American English from August 2024
+Category:Vague or ambiguous time from September 2021
+
+
+Categories for page 'Internet_security':
+----------------------------------------
+Category:Internet security
+Category:Web security exploits
+
+
+Categories for page 'Security_token':
+-------------------------------------
+Category:Authentication methods
+Category:Computer access control
+
+
+Categories for page 'Outline_of_the_Internet':
+----------------------------------------------
+Category:Internet
+Category:Internet-related lists
+Category:Outlines
+Category:Outlines of computing and engineering
+
+
+Categories for page 'Browser_security':
+---------------------------------------
+Category:Internet security
+Category:Web browsers
+Category:Web security exploits
+
+
+Categories for page 'Information_security':
+-------------------------------------------
+Category:Crime prevention
+Category:Cryptography
+Category:Data security
+Category:Information governance
+Category:National security
+Category:Security
+
+
+Categories for page 'Localization':
+-----------------------------------
+Category:All article disambiguation pages
+Category:All disambiguation pages
+Category:Disambiguation pages
+
+
+Categories for page 'Internationalization_and_localization':
+------------------------------------------------------------
+Category:Business terms
+Category:Globalization
+Category:Information and communication technologies for development
+Category:International trade
+Category:Internationalization and localization
+Category:Natural language and computing
+Category:Technical communication
+Category:Translation
+Category:Transliteration
+Category:Word coinage
+
+
+Categories for page 'Language_localisation':
+--------------------------------------------
+Category:Business terms
+Category:Globalization
+Category:Internationalization and localization
+Category:Translation
+Category:Transliteration
+Category:Use British English from August 2016
+Category:Word coinage
+
+
+Categories for page 'Video_game_localization':
+----------------------------------------------
+Category:Internationalization and localization
+Category:Video game development
+Category:Video game localization
+
+
+Categories for page 'Dubbing':
+------------------------------
+Category:Dubbing (filmmaking)
+Category:Film post-production technology
+Category:Vague or ambiguous time from May 2024
+
+
+Categories for page 'Website_localization':
+-------------------------------------------
+Category:Communication design
+Category:Internationalization and localization
+Category:Web design
+
+
+Categories for page 'Lists_of_languages':
+-----------------------------------------
+Category:Lists of language lists
+Category:Lists of languages
+
+
+Categories for page 'List_of_language_names':
+---------------------------------------------
+Category:Language naming
+Category:Lists of languages
+Category:Lists of names
+
+
+Categories for page 'List_of_dictionaries_by_number_of_words':
+--------------------------------------------------------------
+Category:Dictionaries
+Category:Lexicography
+Category:Linguistics lists
+Category:Lists by size
+Category:Lists of languages
+
+
+Categories for page 'Typeface':
+-------------------------------
+Category:Typefaces
+Category:Typesetting
+Category:Typography
+
+
+Categories for page 'List_of_typefaces':
+----------------------------------------
+Category:Lists of typefaces
+Category:Typefaces
+
+
+Categories for page 'Classless_Inter-Domain_Routing':
+-----------------------------------------------------
+Category:IP addresses
+Category:Internet Standards
+Category:Internet architecture
+Category:Routing
+
+
+Categories for page 'Service_set_(802.11_network)':
+---------------------------------------------------
+Category:Wireless networking
+
+
+Categories for page 'Non-blocking_algorithm':
+---------------------------------------------
+Category:Concurrency control
+Category:Concurrency control algorithms
+Category:Synchronization
+
+
+Categories for page 'Event-driven_architecture':
+------------------------------------------------
+Category:Enterprise application integration
+Category:Events (computing)
+Category:Service-oriented (business computing)
+Category:Software architecture
+
+
+Categories for page 'Architectural_pattern':
+--------------------------------------------
+Category:Architectural pattern (computer science)
+Category:Software design patterns
+
+
+Categories for page 'Software_design_pattern':
+----------------------------------------------
+Category:Software design patterns
+Category:Software development
+
+
+Categories for page 'List_of_software_architecture_styles_and_patterns':
+------------------------------------------------------------------------
+Category:Architectural pattern (computer science)
+Category:Software design patterns
+
+
+Categories for page 'Loose_coupling':
+-------------------------------------
+Category:Enterprise application integration
+Category:Programming principles
+Category:Service-oriented (business computing)
+Category:Software quality
+
+
+Categories for page 'Granularity':
+----------------------------------
+Category:Business terms
+Category:Statistical mechanics
+
+
+Categories for page 'Lightweight_protocol':
+-------------------------------------------
+Category:Network protocols
+
+
+Categories for page 'Hexagonal_architecture_(software)':
+--------------------------------------------------------
+Category:Architectural pattern (computer science)
+Category:Object-oriented programming
+Category:Software design
+
+
+Categories for page 'Monolithic_application':
+---------------------------------------------
+Category:History of software
+Category:Software architecture
+Category:Software engineering stubs
+
+
+Categories for page 'Multitier_architecture':
+---------------------------------------------
+Category:Architectural pattern (computer science)
+Category:Distributed computing architecture
+Category:Software architecture
+Category:Software design
+Category:Software design patterns
+Category:Software engineering terminology
+
+
+Categories for page 'Decentralized_computing':
+----------------------------------------------
+Category:All pages needing factual verification
+Category:Centralized computing
+Category:Distributed computing
+
+
+Categories for page 'Massively_multiplayer_online_game':
+--------------------------------------------------------
+Category:Massively multiplayer online games
+Category:Multiplayer online games
+Category:Social software
+Category:Vague or ambiguous time from December 2022
+Category:Vague or ambiguous time from June 2015
+Category:Video game genres
+Category:Video game terminology
+
+
+Categories for page 'DevOps':
+-----------------------------
+Category:Agile software development
+Category:Information technology management
+Category:Software development
+Category:Software development process
+
+
+Categories for page 'Serverless_computing':
+-------------------------------------------
+Category:Cloud computing
+Category:Serverless computing
+Category:Vague or ambiguous time from June 2024
+
+
+Categories for page 'Web-oriented_architecture':
+------------------------------------------------
+Category:Enterprise application integration
+Category:Service-oriented (business computing)
+Category:Software architecture
+
+
+Categories for page 'Resource-oriented_architecture':
+-----------------------------------------------------
+Category:Software architecture
+
+
+Categories for page 'Software_industry':
+----------------------------------------
+Category:Industries (economics)
+Category:Information economy
+Category:Software industry
+
+
+Categories for page 'Static':
+-----------------------------
+Category:All article disambiguation pages
+Category:All disambiguation pages
+Category:Disambiguation pages
+Category:Place name disambiguation pages
+
+
+Categories for page 'Dynamics':
+-------------------------------
+Category:All article disambiguation pages
+Category:All disambiguation pages
+Category:Disambiguation pages
+
+
+Categories for page 'Address_Resolution_Protocol':
+--------------------------------------------------
+Category:Address Resolution Protocol
+Category:Internet Standards
+
+
+Categories for page 'Reverse_Address_Resolution_Protocol':
+----------------------------------------------------------
+Category:Internet Standards
+Category:Internet protocols
+Category:Link protocols
+
+
+Categories for page 'Asynchronous_Transfer_Mode':
+-------------------------------------------------
+Category:Asynchronous Transfer Mode
+Category:ITU-T recommendations
+Category:Link protocols
+Category:Networking standards
+Category:Use American English from July 2023
+
+
+Categories for page 'Gateway_(telecommunications)':
+---------------------------------------------------
+Category:Internet architecture
+Category:Networking hardware
+Category:Routers (computing)
+Category:Use American English from September 2024
+Category:Videotelephony
+
+
+Categories for page 'Border_Gateway_Protocol':
+----------------------------------------------
+Category:Internet Standards
+Category:Internet architecture
+Category:Internet properties established in 1994
+Category:Internet protocols
+Category:Pages with dark mode problems
+Category:Pages with timeline metadata
+Category:Routing protocols
+
+
+Categories for page 'Dynamic_Host_Configuration_Protocol':
+----------------------------------------------------------
+Category:Application layer protocols
+Category:Internet Standards
+Category:Network service
+
+
+Categories for page 'Enhanced_Interior_Gateway_Routing_Protocol':
+-----------------------------------------------------------------
+Category:Cisco protocols
+Category:Routing protocols
+
+
+Categories for page 'Hot_Standby_Router_Protocol':
+--------------------------------------------------
+Category:Cisco protocols
+Category:First-hop redundancy protocols
+
+
+Categories for page 'Internet_Control_Message_Protocol':
+--------------------------------------------------------
+Category:Internet Standards
+Category:Internet layer protocols
+Category:Internet protocols
+Category:Network layer protocols
+
+
+Categories for page 'Open_Shortest_Path_First':
+-----------------------------------------------
+Category:Application layer protocols
+Category:Harv and Sfn no-target errors
+Category:Internet Standards
+Category:Internet protocols
+Category:Routing protocols
+Category:Use American English from May 2020
+
+
+Categories for page 'Routing_Information_Protocol':
+---------------------------------------------------
+Category:Internet Standards
+Category:Internet protocols
+Category:Routing protocols
+
+
+Categories for page 'Service-oriented_architecture':
+----------------------------------------------------
+Category:Architectural pattern (computer science)
+Category:Enterprise application integration
+Category:Service-oriented (business computing)
+Category:Software design patterns
+Category:Web services
+
+
+Categories for page 'REST':
+---------------------------
+Category:Cloud standards
+Category:Hypertext Transfer Protocol
+Category:Pages displaying wikidata descriptions as a fallback via Module:Annotated link
+Category:Software architecture
+Category:Web 2.0 neologisms
+
+
+Categories for page 'OpenGL':
+-----------------------------
+Category:1992 software
+Category:3D graphics APIs
+Category:Application programming interfaces
+Category:Augmented reality
+Category:Cross-platform software
+Category:Graphics libraries
+Category:Graphics standards
+Category:Metaverse
+Category:Mixed reality
+Category:OpenGL
+Category:Video game development
+Category:Video game development software
+Category:Virtual reality
+
+
+Categories for page 'C10k_problem':
+-----------------------------------
+Category:Computer performance
+Category:Web server software
+
+
+Categories for page 'Distributed_database':
+-------------------------------------------
+Category:Applications of distributed computing
+Category:Data management
+Category:Database management systems
+Category:Distributed computing architecture
+Category:Types of databases
+
+
+Categories for page 'Database':
+-------------------------------
+Category:Database management systems
+Category:Databases
+Category:Pages containing links to subscription-only content
+
+
+Categories for page 'Route_Mobile':
+-----------------------------------
+Category:2004 establishments in Maharashtra
+Category:2024 mergers and acquisitions
+Category:Cloud communication platforms
+Category:Companies based in Mumbai
+Category:Companies listed on the Bombay Stock Exchange
+Category:Companies listed on the National Stock Exchange of India
+Category:Indian companies established in 2004
+Category:Mobile technology companies
+Category:Mobile telecommunications
+Category:Software companies established in 2004
+Category:Software companies of India
+Category:Use Indian English from June 2022
+
+
+Categories for page 'Processing':
+---------------------------------
+Category:2001 software
+Category:Animation software
+Category:Computer graphics
+Category:Creative coding
+Category:Cross-platform free software
+Category:Cross-platform software
+Category:Educational programming languages
+Category:Free computer libraries
+Category:JVM programming languages
+Category:Java platform
+Category:Java programming language family
+Category:Object-oriented programming languages
+Category:Physical computing
+Category:Programming languages
+Category:Programming languages created in 2001
+Category:Software using the GNU Lesser General Public License
+
+
+Categories for page 'Dpkg':
+---------------------------
+Category:Dpkg
+Category:Free software programmed in C
+Category:Software using the GNU General Public License
+
+
+Categories for page 'APT_(software)':
+-------------------------------------
+Category:Command-line software
+Category:Cross-platform free software
+Category:Debian
+Category:Dpkg
+Category:Free package management systems
+Category:Free software programmed in C++
+Category:Linux package management-related software
+Category:Software update managers
+Category:Software using the GNU General Public License
+Category:Ubuntu
+
+
+Categories for page 'Conda_(package_manager)':
+----------------------------------------------
+Category:Free package management systems
+Category:Free software programmed in Python
+Category:Software distribution
+Category:Software using the BSD license
+
+
+Categories for page 'Homebrew_(package_manager)':
+-------------------------------------------------
+Category:2009 software
+Category:Console applications
+Category:Free package management systems
+Category:Free software programmed in Ruby
+Category:Software using the BSD license
+Category:Utilities for Linux
+Category:Utilities for macOS
+
+
+Categories for page 'Nix_(package_manager)':
+--------------------------------------------
+Category:2012 software
+Category:All pages needing factual verification
+Category:Configuration management
+Category:Data management software
+Category:Free computer programming tools
+Category:Free package management systems
+Category:Free software programmed in C++
+Category:Functional programming
+Category:Linux package management-related software
+Category:Software using the GNU Lesser General Public License
+Category:Unix software
+
+
+Categories for page 'Npm':
+--------------------------
+Category:2010 software
+Category:Command-line software
+Category:Free package management systems
+Category:Free software programmed in JavaScript
+Category:JavaScript programming tools
+Category:Microsoft free software
+Category:Software using the Artistic license
+
+
+Categories for page 'Pip_(package_manager)':
+--------------------------------------------
+Category:Free package management systems
+Category:Free software programmed in Python
+Category:Python (programming language) development tools
+Category:Software using the MIT license
+
+
+Categories for page 'RPM_Package_Manager':
+------------------------------------------
+Category:Archive formats
+Category:Free package management systems
+Category:Free software programmed in C
+Category:Free software programmed in Perl
+Category:Linux package management-related software
+Category:Red Hat software
+Category:Software using the GNU General Public License
+
+
+Categories for page 'Windows_Package_Manager':
+----------------------------------------------
+Category:2020 software
+Category:Command-line software
+Category:Free package management systems
+Category:Free software programmed in C++
+Category:Microsoft free software
+Category:Software using the MIT license
+Category:Windows-only free software
+
+
+Categories for page 'Yarn_(package_manager)':
+---------------------------------------------
+Category:Free package management systems
+Category:Free software programmed in JavaScript
+Category:Free software programmed in TypeScript
+Category:JavaScript programming tools
+Category:Software using the BSD license
+
+
+Categories for page 'Yum_(software)':
+-------------------------------------
+Category:Free package management systems
+Category:Free software programmed in Python
+Category:Linux package management-related software
+Category:Software distribution platforms
+Category:Software using the GNU General Public License
+
+
+Categories for page 'ZYpp':
+---------------------------
+Category:Free package management systems
+Category:Free software programmed in C++
+Category:Linux package management-related software
+Category:SUSE Linux
+Category:Software using the GNU General Public License
+
+
+Categories for page 'Apache_Maven':
+-----------------------------------
+Category:Apache Software Foundation projects
+Category:Build automation
+Category:Compiling tools
+Category:Java development tools
+Category:Software using the Apache license
+
+
+Categories for page 'Gradle':
+-----------------------------
+Category:2007 software
+Category:Build automation
+Category:Compiling tools
+Category:Cross-platform software
+Category:Java development tools
+Category:Software using the Apache license
+
+
+Categories for page 'Helm_(package_manager)':
+---------------------------------------------
+Category:Official website not in Wikidata
+Category:Package management systems
+
+
+Categories for page 'Anaconda_(Python_distribution)':
+-----------------------------------------------------
+Category:Package management systems
+Category:Python (programming language) software
+
+
+Categories for page 'SPARC':
+----------------------------
+Category:32-bit computers
+Category:64-bit computers
+Category:Computer-related introductions in 1985
+Category:SPARC microprocessor architecture
+Category:Sun microprocessors
+
+
+Categories for page 'Apache_Airflow':
+-------------------------------------
+Category:Apache Software Foundation projects
+Category:Big data products
+
+
+Categories for page 'Apache_SINGA':
+-----------------------------------
+Category:Apache Software Foundation projects
+Category:Cross-platform free software
+Category:Deep learning software
+Category:Free software for Linux
+Category:Free software for Windows
+Category:Free software for macOS
+Category:Free software programmed in C++
+Category:Free software programmed in Python
+Category:Software using the Apache license
+
+
+Categories for page 'Comparison_of_deep_learning_software':
+-----------------------------------------------------------
+Category:Comparisons of mathematical software
+Category:Deep learning software
+
+
+Categories for page 'Torch_(machine_learning)':
+-----------------------------------------------
+Category:Deep learning software
+Category:Free statistical software
+Category:Lua (programming language) software
+Category:Software using the BSD license
+
+
+Categories for page 'Interrupt_request':
+----------------------------------------
+Category:Interrupts
+
+
+Categories for page 'Advanced_Programmable_Interrupt_Controller':
+-----------------------------------------------------------------
+Category:IBM PC compatibles
+Category:Intel products
+Category:Interrupts
+Category:Motherboard
+Category:X86 architecture
+
+
+Categories for page 'Microsoft_POSIX_subsystem':
+------------------------------------------------
+Category:Compatibility layers
+Category:Microsoft Windows stubs
+Category:POSIX
+Category:Windows components
+
+
+Categories for page 'Processor_(computing)':
+--------------------------------------------
+Category:Digital electronics
+Category:Electronic design
+
+
+Categories for page 'Application-specific_integrated_circuit':
+--------------------------------------------------------------
+Category:Application-specific integrated circuits
+Category:Gate arrays
+Category:Hardware acceleration
+Category:Integrated circuits
+Category:Use American English from December 2018
+
+
+Categories for page 'Field-programmable_gate_array':
+----------------------------------------------------
+Category:American inventions
+Category:Field-programmable gate arrays
+Category:Gate arrays
+Category:Hardware acceleration
+Category:Integrated circuits
+Category:OpenCL compute devices
+Category:Semiconductor devices
+Category:Use American English from April 2019
+Category:Vague or ambiguous time from October 2018
+
+
+Categories for page 'Field-programmable_object_array':
+------------------------------------------------------
+Category:Gate arrays
+Category:Integrated circuits
+Category:Vague or ambiguous time from October 2018
+
+
+Categories for page 'Multi-chip_module':
+----------------------------------------
+Category:Chip carriers
+Category:Modularity
+
+
+Categories for page 'Package_on_a_package':
+-------------------------------------------
+Category:Chip carriers
+Category:Packaging (microfabrication)
+Category:Semiconductor device fabrication
+
+
+Categories for page 'Advanced_Power_Management':
+------------------------------------------------
+Category:BIOS
+
+
+Categories for page 'SRM_firmware':
+-----------------------------------
+Category:Digital Equipment Corporation
+Category:Firmware
+Category:OpenVMS
+
+
+Categories for page 'Fabric_computing':
+---------------------------------------
+Category:Cloud computing
+Category:Computer networking
+Category:Distributed computing architecture
+
+
+Categories for page 'Computer_data_storage':
+--------------------------------------------
+Category:Computer architecture
+Category:Computer data storage
+
+
+Categories for page 'Cache_hierarchy':
+--------------------------------------
+Category:Cache (computing)
+Category:Computer architecture
+Category:Computer hardware
+Category:Computer memory
+
+
+Categories for page '5D_optical_data_storage':
+----------------------------------------------
+Category:Big data
+Category:Digital preservation
+Category:Non-volatile memory
+Category:Solid-state computer storage media
+
+
+Categories for page 'Programmable_metallization_cell':
+------------------------------------------------------
+Category:Computer memory
+Category:Non-volatile memory
+
+
+Categories for page 'Holographic_data_storage':
+-----------------------------------------------
+Category:Data storage
+Category:Holographic data storage
+
+
+Categories for page 'Time_crystal':
+-----------------------------------
+Category:2012 in science
+Category:Branches of thermodynamics
+Category:Condensed matter physics
+Category:Crystallography
+Category:Interlanguage link template existing link
+Category:Non-equilibrium thermodynamics
+Category:Physical paradoxes
+Category:Quantum mechanics
+Category:Statistical mechanics
+
+
+Categories for page 'Quantum_memory':
+-------------------------------------
+Category:Quantum information science
+
+
+Categories for page 'Branch_predictor':
+---------------------------------------
+Category:Instruction processing
+Category:Speculative execution
+
+
+Categories for page 'Decidability_(logic)':
+-------------------------------------------
+Category:Concepts in logic
+Category:Metalogic
+Category:Proof theory
+
+
+Categories for page 'Cache_pollution':
+--------------------------------------
+Category:Cache (computing)
+Category:Computer architecture
+Category:Computer memory
+
+
+Categories for page 'Memory_access_pattern':
+--------------------------------------------
+Category:Computer data storage
+Category:Computer performance
+Category:Software optimization
+
+
+Categories for page 'Mathematical_logic':
+-----------------------------------------
+Category:Logic
+Category:Mathematical logic
+Category:Philosophy of mathematics
+Category:Use shortened footnotes from May 2021
+
+
+Categories for page 'Application_security':
+-------------------------------------------
+Category:Data security
+Category:Mobile security
+
+
+Categories for page 'OWASP':
+----------------------------
+Category:2001 establishments in Belgium
+Category:501(c)(3) organizations
+Category:Computer security organizations
+Category:Computer standards
+Category:Coordinates on Wikidata
+Category:Non-profit organisations based in Belgium
+Category:Organizations established in 2001
+
+
+Categories for page 'Ubiquitous_computing':
+-------------------------------------------
+Category:Ambient intelligence
+Category:Computing-related lists
+Category:Human–computer interaction
+Category:Ubiquitous computing
+
+
+Categories for page 'Visualization_(graphics)':
+-----------------------------------------------
+Category:Computational science
+Category:Computer graphics
+Category:Data modeling
+Category:Infographics
+Category:Visualization (graphics)
+
+
+Categories for page 'Knowledge_representation_and_reasoning':
+-------------------------------------------------------------
+Category:Automated reasoning
+Category:Intelligence assessment
+Category:Knowledge representation
+Category:Programming paradigms
+Category:Scientific modelling
+
+
+Categories for page 'Computer_vision':
+--------------------------------------
+Category:Computer vision
+Category:Image processing
+Category:Packaging machinery
+
+
+Categories for page 'Mathematical_optimization':
+------------------------------------------------
+Category:Mathematical and quantitative methods (economics)
+Category:Mathematical optimization
+Category:Operations research
+
+
+Categories for page 'ACM_Computing_Classification_System':
+----------------------------------------------------------
+Category:1964 in computing
+Category:Association for Computing Machinery
+Category:Association for Computing Machinery publications
+Category:Classification systems
+Category:Computer-related introductions in 1964
+Category:Computer science literature
+Category:Computer science stubs
+
+
+Categories for page 'Mathematics_Subject_Classification':
+---------------------------------------------------------
+Category:Fields of mathematics
+Category:Mathematical classification systems
+
+
+Categories for page 'Physics_and_Astronomy_Classification_Scheme':
+------------------------------------------------------------------
+Category:Physics stubs
+Category:Scientific classification
+
+
+Categories for page 'ArXiv':
+----------------------------
+Category:1991 establishments in New Mexico
+Category:American digital libraries
+Category:Cornell University
+Category:Electronic documents
+Category:Eprint archives
+Category:Internet properties established in 1991
+Category:Open-access archives
+Category:Open science
+Category:Physics websites
+
+
+Categories for page 'Metadata':
+-------------------------------
+Category:Business intelligence terms
+Category:Data management
+Category:Knowledge representation
+Category:Library cataloging and classification
+Category:Metadata
+Category:Pages displaying wikidata descriptions as a fallback via Module:Annotated link
+Category:Records management
+Category:Technical communication
+Category:Vague or ambiguous time from February 2011
+
+
+Categories for page 'Open-source_software':
+-------------------------------------------
+Category:Free and open-source software
+Category:Software licensing
+Category:Transparency (behavior)
+
+
+Categories for page 'Formal_language':
+--------------------------------------
+Category:Combinatorics on words
+Category:Formal languages
+Category:Theoretical computer science
+
+
+Categories for page 'Computational_complexity_theory':
+------------------------------------------------------
+Category:Computational complexity theory
+Category:Computational fields of study
+
+
+Categories for page 'Analysis_of_algorithms':
+---------------------------------------------
+Category:Analysis of algorithms
+Category:Computational complexity theory
+
+
+Categories for page 'Computational_geometry':
+---------------------------------------------
+Category:Computational fields of study
+Category:Computational geometry
+Category:Geometry processing
+
+
+Categories for page 'Computational_geometry#List_of_algorithms':
+----------------------------------------------------------------
+Category:Computational fields of study
+Category:Computational geometry
+Category:Geometry processing
+
+
+Categories for page 'Theoretical_computer_science':
+---------------------------------------------------
+Category:Formal sciences
+Category:Theoretical computer science
+
+
+Categories for page 'List_of_unsolved_problems_in_computer_science':
+--------------------------------------------------------------------
+Category:Conjectures
+Category:Dynamic lists
+Category:Lists of unsolved problems
+Category:Unsolved problems in computer science
+
+
+Categories for page 'Device_file':
+----------------------------------
+Category:Device file
+Category:Interfaces of the Linux kernel
+Category:Pseudo file systems supported by the Linux kernel
+Category:Special-purpose file systems
+Category:Unix file system technology
+
+
+Categories for page 'Inode':
+----------------------------
+Category:Unix file system technology
+
+
+Categories for page 'Computer_file':
+------------------------------------
+Category:Computer file systems
+Category:Computer files
+Category:Inter-process communication
+
+
+Categories for page 'Shortcut_(computing)':
+-------------------------------------------
+Category:Executable file formats
+Category:Windows architecture
+
+
+Categories for page 'Booting_process_of_Windows':
+-------------------------------------------------
+Category:Booting processes
+Category:Windows architecture
+
+
+Categories for page 'RSA_Factoring_Challenge':
+----------------------------------------------
+Category:1991 establishments in the United States
+Category:Cryptography contests
+Category:Integer factorization algorithms
+Category:RSA Factoring Challenge
+
+
+Categories for page 'Role-playing_game':
+----------------------------------------
+Category:Nerd culture
+Category:Role-playing
+Category:Role-playing games
+
+
+Categories for page 'Jacobi_symbol':
+------------------------------------
+Category:Modular arithmetic
+
+
+Categories for page 'Nutrien':
+------------------------------
+Category:2018 establishments in Saskatchewan
+Category:Canadian brands
+Category:Canadian companies established in 2018
+Category:Chemical companies established in 2018
+Category:Companies based in Saskatoon
+Category:Companies listed on the Toronto Stock Exchange
+Category:Coordinates not on Wikidata
+Category:Fertilizer companies of Canada
+Category:Mining companies of Canada
+Category:Pages with non-numeric formatnum arguments
+Category:S&P/TSX 60
+Category:Use Canadian English from September 2022
+
+
+Categories for page 'Computer_program':
+---------------------------------------
+Category:Computer programming
+Category:Software
+
+
+Categories for page 'Distributed_algorithm':
+--------------------------------------------
+Category:Distributed algorithms
+
+
+Categories for page 'ASCII':
+----------------------------
+Category:ASCII
+Category:American National Standards Institute standards
+Category:Character encoding
+Category:Character sets
+Category:Computer-related introductions in 1963
+Category:Latin-script representations
+Category:Pages including recorded pronunciations
+Category:Presentation layer protocols
+Category:Use American English from December 2018
+Category:Vague or ambiguous time from November 2021
+
+
+Categories for page 'Computer_hardware':
+----------------------------------------
+Category:Computer hardware
+Category:Digital electronics
+Category:Use American English from November 2023
+
+
+Categories for page 'Eclipse_(software)':
+-----------------------------------------
+Category:Android (operating system) development software
+Category:Code navigation tools
+Category:Cross-platform free software
+Category:Debuggers
+Category:Eclipse (software)
+Category:Formerly proprietary software
+Category:Free HTML editors
+Category:Free UML tools
+Category:Free integrated development environments
+Category:Free software programmed in Java (programming language)
+Category:IBM software
+Category:Integrated development environments
+Category:Java development tools
+Category:Java platform
+Category:Linux integrated development environments
+Category:Linux programming tools
+Category:Linux software
+Category:MacOS programming tools
+Category:MacOS text editors
+Category:Programming tools for Windows
+Category:Software development kits
+Category:Software using the Eclipse Public License
+
+
+Categories for page 'Disk_partitioning':
+----------------------------------------
+Category:DOS on IBM PC compatibles
+Category:Disk file systems
+Category:Disk partitions
+Category:IBM PC compatibles
+Category:Utility software types
+
+
+Categories for page 'List_of_file_systems':
+-------------------------------------------
+Category:Computer file systems
+Category:Computing-related lists
+
+
+Categories for page 'SCSI':
+---------------------------
+Category:Computer storage buses
+Category:Electrical communication interfaces
+Category:Logical communication interfaces
+Category:Macintosh internals
+Category:SCSI
+
+
+Categories for page 'Graphviz':
+-------------------------------
+Category:Free diagramming software
+Category:Free software programmed in C
+Category:Graph drawing software
+Category:Software that uses Tk (software)
+Category:Software using the Eclipse Public License
+
+
+Categories for page 'OpenJDK':
+------------------------------
+Category:Free software programmed in C++
+Category:Free software programmed in Java (programming language)
+Category:Free virtualization software
+Category:Java (programming language)
+Category:Java (programming language) libraries
+Category:Java virtual machine
+Category:Oracle software
+
+
+Categories for page 'Terminal_(macOS)':
+---------------------------------------
+Category:Macintosh software stubs
+Category:Terminal emulators
+Category:Utilities for macOS
+
+
+Categories for page 'Sigar_(software)':
+---------------------------------------
+Category:Apache Software Foundation
+Category:Computer programming
+Category:Computer programming stubs
+Category:Computing platforms
+
+
+Categories for page 'Comparison_of_integrated_development_environments':
+------------------------------------------------------------------------
+Category:Integrated development environments
+Category:Software comparisons
+
+
+Categories for page 'Class_browser':
+------------------------------------
+Category:Class (computer programming)
+Category:Code navigation tools
+
+
+Categories for page 'Language_Server_Protocol':
+-----------------------------------------------
+Category:Communications protocols
+Category:Open standards
+Category:Programming tools
+
+
+Categories for page 'Side-channel_attack':
+------------------------------------------
+Category:Cryptographic attacks
+Category:Side-channel attacks
+
+
+Categories for page 'Comparison_of_cryptographic_hash_functions':
+-----------------------------------------------------------------
+Category:Cryptographic hash functions
+Category:Cryptographic primitives
+Category:Cryptography lists and comparisons
+Category:Hashing
+
+
+Categories for page 'Comparison_of_cryptography_libraries':
+-----------------------------------------------------------
+Category:Computer libraries
+Category:Cryptography lists and comparisons
+Category:Security software comparisons
+
+
+Categories for page 'OpenSSL':
+------------------------------
+Category:1998 software
+Category:C (programming language) libraries
+Category:Cryptographic software
+Category:Free security software
+Category:Free software programmed in C
+Category:Public key infrastructure
+Category:Transport Layer Security implementation
+
+
+Categories for page 'Power_ISA':
+--------------------------------
+Category:Computer-related introductions in 2006
+Category:Freescale Semiconductor
+Category:IBM computer hardware
+Category:Instruction set architectures
+Category:Open microprocessors
+
+
+Categories for page 'LOM_port':
+-------------------------------
+Category:Computer buses
+Category:Computer science stubs
+Category:Out-of-band management
+Category:Sun Microsystems hardware
+
+
+Categories for page 'Out-of-band_management':
+---------------------------------------------
+Category:Out-of-band management
+Category:System administration
+
+
+Categories for page 'Client_Initiated_Remote_Access':
+-----------------------------------------------------
+Category:Firmware
+Category:Intel products
+Category:Out-of-band management
+
+
+Categories for page 'Encoder':
+------------------------------
+Category:All article disambiguation pages
+Category:All disambiguation pages
+Category:Disambiguation pages
+
+
+Categories for page 'Decoder':
+------------------------------
+Category:All article disambiguation pages
+Category:All disambiguation pages
+Category:Disambiguation pages
+
+
+Categories for page 'Transcoding':
+----------------------------------
+Category:Audio format converters
+Category:Film and video technology
+Category:Video conversion software
+
+
+Categories for page 'Intel_Clear_Video':
+----------------------------------------
+Category:Computer hardware stubs
+Category:Intel semiconductor IP cores
+Category:Video acceleration
+
+
+Categories for page 'Codec':
+----------------------------
+Category:Codecs
+Category:Data compression
+Category:Digital signal processing
+
+
+Categories for page 'List_of_codecs':
+-------------------------------------
+Category:Codecs
+Category:Data compression
+Category:Technology-related lists
+
+
+Categories for page 'NPU':
+--------------------------
+Category:All article disambiguation pages
+Category:All disambiguation pages
+Category:Disambiguation pages
+
+
+Categories for page 'Network_processor':
+----------------------------------------
+Category:Application-specific integrated circuits
+Category:Embedded microprocessors
+Category:Hardware acceleration
+Category:Network on a chip
+Category:Networking hardware
+Category:System on a chip
+
+
+Categories for page 'AI_accelerator':
+-------------------------------------
+Category:AI accelerators
+Category:Application-specific integrated circuits
+Category:Computer optimization
+Category:Coprocessors
+Category:Deep learning
+Category:Gate arrays
+Category:Use American English from January 2019
+
+
+Categories for page 'Floating-point_unit':
+------------------------------------------
+Category:Central processing unit
+Category:Computer arithmetic
+Category:Coprocessors
+Category:Floating point
+
+
+Categories for page 'SPQR_tree':
+--------------------------------
+Category:Graph connectivity
+Category:Graph data structures
+Category:Trees (data structures)
+
+
+Categories for page 'Bitmap':
+-----------------------------
+Category:Bit data structures
+Category:Graphics file formats
+Category:Use American English from September 2022
+
+
+Categories for page 'Image_file_format':
+----------------------------------------
+Category:Graphics file formats
+Category:Lists of file formats
+Category:Vector graphics markup languages
+
+
+Categories for page 'File:Image_formats_by_scope.svg':
+------------------------------------------------------
+No categories found.
+
+
+Categories for page 'Raster_graphics':
+--------------------------------------
+Category:Computer graphics data structures
+Category:Digital geometry
+Category:Graphics file formats
+Category:Raster graphics
+
+
+Categories for page 'Comparison_of_graphics_file_formats':
+----------------------------------------------------------
+Category:Comparisons of computer file formats
+Category:Graphics file formats
+Category:Multimedia software comparisons
+
+
+Categories for page 'Comparison_of_raster_graphics_editors':
+------------------------------------------------------------
+Category:Multimedia software comparisons
+Category:Raster graphics editors
+
+
+Categories for page 'Image_editing':
+------------------------------------
+Category:Digital photography
+Category:Graphic design
+Category:Image processing
+Category:Photographic techniques
+Category:Science of photography
+
+
+Categories for page 'Plug-in_(computing)':
+------------------------------------------
+Category:Application programming interfaces
+Category:Software add-ons
+Category:Technology neologisms
+
+
+Categories for page 'Software_license':
+---------------------------------------
+Category:Software licensing
+Category:Terms of service
+Category:Use American English from September 2020
+
+
+Categories for page 'XDCC':
+---------------------------
+Category:File sharing
+Category:IRC
+Category:Internet terminology
+Category:Protocols related to IRC
+Category:Warez
+
+
+Categories for page 'Comparison_of_vector_graphics_editors':
+------------------------------------------------------------
+Category:Multimedia software comparisons
+Category:Vector graphics editors
+
+
+Categories for page 'Digital_image':
+------------------------------------
+Category:Digital geometry
+Category:Digital imaging
+Category:Image processing
+Category:Use American English from January 2019
+
+
+Categories for page 'Binary_image':
+-----------------------------------
+Category:2 (number)
+Category:Color depths
+Category:Digital geometry
+Category:Image processing
+
+
+Categories for page 'Mathematical_morphology':
+----------------------------------------------
+Category:Digital geometry
+Category:Image processing
+Category:Management cybernetics
+Category:Mathematical morphology
+
+
+Categories for page 'List_of_software_palettes':
+------------------------------------------------
+Category:Color depths
+Category:Computer graphics
+Category:Computer output devices
+
+
+Categories for page 'List_of_8-bit_computer_hardware_graphics':
+---------------------------------------------------------------
+Category:Color depths
+Category:Computer graphics
+Category:Computer output devices
+
+
+Categories for page 'List_of_16-bit_computer_color_palettes':
+-------------------------------------------------------------
+Category:Color depths
+Category:Computer graphics
+Category:Computer output devices
+
+
+Categories for page 'Charge-coupled_device':
+--------------------------------------------
+Category:American inventions
+Category:Astronomical imaging
+Category:Image processing
+Category:Image scanners
+Category:Image sensors
+Category:Integrated circuits
+Category:MOSFETs
+
+
+Categories for page 'VR_photography':
+-------------------------------------
+Category:Panorama software
+Category:Photography by genre
+Category:Virtual reality
+
+
+Categories for page 'Image_stitching':
+--------------------------------------
+Category:Applications of computer vision
+Category:Image processing
+Category:Photographic techniques
+
+
+Categories for page 'RGBE_filter':
+----------------------------------
+Category:Color filter array
+Category:Image sensors
+Category:Photography stubs
+
+
+Categories for page 'Gigapixel_image':
+--------------------------------------
+Category:Digital photography
+Category:Panorama software
+Category:Photo stitching software
+Category:Photographic techniques
+
+
+Categories for page 'Face_ID':
+------------------------------
+Category:Authentication methods
+Category:Computer-related introductions in 2017
+Category:Facial recognition software
+Category:IOS
+
+
+Categories for page 'Pixel_connectivity':
+-----------------------------------------
+Category:Digital topology
+Category:Graph connectivity
+
+
+Categories for page 'JMesh':
+----------------------------
+Category:3D graphics file formats
+Category:CAD file formats
+Category:Computer file formats
+Category:Data exchange formats
+Category:Data serialization formats
+Category:JSON
+Category:Vector graphics file formats
+
+
+Categories for page 'Color_depth':
+----------------------------------
+Category:Color depths
+Category:Television technology
+
+
+Categories for page 'File:RGB_color_wheel.svg':
+-----------------------------------------------
+No categories found.
+
+
+Categories for page 'Special:WhatLinksHere/File:RGB_color_wheel.svg':
+---------------------------------------------------------------------
+No categories found.
+
+
+Categories for page 'Arithmetic_coding':
+----------------------------------------
+Category:Data compression
+Category:Entropy coding
+
+
+Categories for page 'Huffman_coding':
+-------------------------------------
+Category:1952 in computing
+Category:Binary trees
+Category:Data compression
+Category:Lossless compression algorithms
+
+
+Categories for page 'Container_format':
+---------------------------------------
+Category:Computer file formats
+Category:Computer files
+Category:Computer standards
+Category:Digital container formats
+Category:Film and video technology
+Category:Film and video terminology
+Category:Lists of file formats
+
+
+Categories for page 'Double_Ratchet_Algorithm':
+-----------------------------------------------
+Category:Cryptographic algorithms
+Category:End-to-end encryption
+
+
+Categories for page 'Block_cipher_mode_of_operation':
+-----------------------------------------------------
+Category:Block cipher modes of operation
+Category:Cryptographic algorithms
+
+
+Categories for page 'Elliptic-curve_cryptography':
+--------------------------------------------------
+Category:Elliptic curve cryptography
+Category:Finite fields
+Category:Public-key cryptography
+Category:Vague or ambiguous time from November 2022
+Category:Vague or ambiguous time from October 2022
+
+
+Categories for page 'Brute-force_attack':
+-----------------------------------------
+Category:Cryptographic attacks
+
+
+Categories for page 'LSH_(hash_function)':
+------------------------------------------
+Category:Cryptographic algorithms
+Category:Cryptographic hash functions
+
+
+Categories for page 'Transient_execution_CPU_vulnerability':
+------------------------------------------------------------
+Category:Computer security exploits
+Category:Hardware bugs
+Category:Side-channel attacks
+Category:Transient execution CPU vulnerabilities
+
+
+Categories for page 'BIOS':
+---------------------------
+Category:BIOS
+Category:CP/M technology
+Category:DOS technology
+Category:Vague or ambiguous time from June 2024
+Category:Windows technology
+
+
+Categories for page 'CPU_socket':
+---------------------------------
+Category:CPU sockets
+Category:Pages with broken anchors
+
+
+Categories for page 'Cd_(command)':
+-----------------------------------
+Category:File system directories
+Category:IBM i Qshell commands
+Category:Inferno (operating system) commands
+Category:Internal DOS commands
+Category:MSX-DOS commands
+Category:OS/2 commands
+Category:ReactOS commands
+Category:Standard Unix programs
+Category:Unix SUS2008 utilities
+Category:Windows administration
+Category:Windows commands
+
+
+Categories for page 'List_of_command-line_interpreters':
+--------------------------------------------------------
+Category:Command-line software
+Category:Interpreters (computing)
+
+
+Categories for page 'Iptables':
+-------------------------------
+Category:Command-line software
+Category:Firewall software
+Category:Free software programmed in C
+Category:Linux-only free software
+Category:Linux kernel features
+Category:Linux security software
+
+
+Categories for page 'List_of_Java_virtual_machines':
+----------------------------------------------------
+Category:Java platform software
+Category:Java virtual machine
+Category:Lists of software
+
+
+Categories for page 'Comparison_of_Java_virtual_machines':
+----------------------------------------------------------
+Category:Java platform software
+Category:Java virtual machine
+Category:Software comparisons
+
+
+Categories for page 'Environment_variable':
+-------------------------------------------
+Category:Environment variables
+Category:Operating system technology
+Category:Use list-defined references from January 2022
+Category:Windows commands
+
+
+Categories for page 'PATH_(variable)':
+--------------------------------------
+Category:Computer file systems
+Category:Environment variables
+
+
+Categories for page 'Comparison_of_display_technology':
+-------------------------------------------------------
+Category:Display technology
+Category:Technological comparisons
+
+
+Categories for page 'DMA_attack':
+---------------------------------
+Category:Side-channel attacks
+
+
+Categories for page 'High-performance_computing':
+-------------------------------------------------
+Category:Parallel computing
+Category:Vague or ambiguous time from November 2011
+
+
+Categories for page 'High-throughput_computing':
+------------------------------------------------
+Category:Parallel computing
+
+
+Categories for page 'Many-task_computing':
+------------------------------------------
+Category:Parallel computing
+
+
+Categories for page 'Grid_computing':
+-------------------------------------
+Category:Grid computing
+
+
+Categories for page 'Microprocessor':
+-------------------------------------
+Category:1971 introductions
+Category:American inventions
+Category:Digital electronics
+Category:EngvarB from June 2022
+Category:Japanese inventions
+Category:Microcomputers
+Category:Microprocessors
+Category:Telecommunications engineering
+
+
+Categories for page 'Toki_Pona':
+--------------------------------
+Category:2001 introductions
+Category:Analytic languages
+Category:Artistic languages
+Category:Constructed languages
+Category:Constructed languages introduced in the 2000s
+Category:Engineered languages
+Category:Isolating languages
+Category:Logographic writing systems
+Category:Minimalism
+Category:Pages including recorded pronunciations
+Category:Pages with Toki Pona IPA
+Category:Pages with plain IPA
+Category:Taoism in popular culture
+
+
+Categories for page 'Single_instruction,_multiple_data':
+--------------------------------------------------------
+Category:Classes of computers
+Category:Digital signal processing
+Category:Flynn's taxonomy
+Category:Parallel computing
+Category:SIMD computing
+
+
+Categories for page 'Chatbot':
+------------------------------
+Category:Chatbots
+Category:Instant messaging
+Category:Interactive narrative
+Category:Natural language parsing
+
+
+Categories for page 'Lazarus_(software)':
+-----------------------------------------
+Category:1999 software
+Category:Cross-platform free software
+Category:Cross-platform software
+Category:Free Pascal
+Category:Free computer libraries
+Category:Free integrated development environments
+Category:Free software programmed in Pascal
+Category:Integrated development environments
+Category:Linux integrated development environments
+Category:MacOS programming tools
+Category:Pascal (programming language)
+Category:Pascal (programming language) software
+Category:Pascal programming language family
+Category:Platform-sensitive development
+Category:Programming tools for Windows
+Category:User interface builders
+
+
+Categories for page 'List_of_operating_systems':
+------------------------------------------------
+Category:Computing-related lists
+Category:Lists of operating systems
+Category:Operating systems
+
+
+Categories for page 'Protection_ring':
+--------------------------------------
+Category:Central processing unit
+Category:Computer security models
+Category:Operating system technology
+
+
+Categories for page 'File:Most_common_protection_rings.svg':
+------------------------------------------------------------
+No categories found.
+
+
+Categories for page 'Security_modes':
+-------------------------------------
+Category:Computer security models
+
+
+Categories for page 'Tree_(command)':
+-------------------------------------
+Category:External DOS commands
+Category:OS/2 commands
+Category:ReactOS commands
+Category:Unix file system-related software
+Category:Windows commands
+
+
+Categories for page 'File:Operating_system_placement.svg':
+----------------------------------------------------------
+No categories found.
+
+
+Categories for page 'Smartphone':
+---------------------------------
+Category:All pages needing factual verification
+Category:Cloud clients
+Category:Consumer electronics
+Category:Dynamic lists
+Category:Information appliances
+Category:Personal digital assistants
+Category:Smartphones
+
+
+Categories for page 'Cloud_computing#List_of_clouds':
+-----------------------------------------------------
+Category:Cloud computing
+Category:Cloud infrastructure
+Category:Use American English from April 2020
+
+
+Categories for page 'List_of_compilers':
+----------------------------------------
+Category:Compilers
+Category:Compilers by programming language
+Category:Incomplete lists from August 2008
+Category:Incomplete lists from August 2009
+Category:Incomplete lists from December 2010
+Category:Incomplete lists from December 2011
+Category:Incomplete lists from February 2010
+Category:Incomplete lists from February 2013
+Category:Incomplete lists from January 2009
+Category:Incomplete lists from January 2010
+Category:Incomplete lists from June 2016
+Category:Incomplete lists from June 2023
+Category:Incomplete lists from March 2009
+Category:Incomplete lists from March 2011
+Category:Incomplete lists from March 2022
+Category:Incomplete lists from November 2009
+Category:Incomplete lists from November 2011
+Category:Incomplete lists from October 2011
+Category:Incomplete lists from September 2010
+Category:Lists of software
+
+
+Categories for page 'Tcl':
+--------------------------
+Category:American inventions
+Category:Cross-platform free software
+Category:Cross-platform software
+Category:Dynamically typed programming languages
+Category:Free and open source interpreters
+Category:Free software programmed in C
+Category:High-level programming languages
+Category:Homoiconic programming languages
+Category:Multi-paradigm programming languages
+Category:Object-oriented programming languages
+Category:Procedural programming languages
+Category:Programming languages created in 1988
+Category:Scripting languages
+Category:Tcl programming language family
+Category:Text-oriented programming languages
+
+
+Categories for page 'GNU_Compiler_Collection':
+----------------------------------------------
+Category:1987 software
+Category:C++ compilers
+Category:C (programming language) compilers
+Category:Compilers
+Category:Cross-platform free software
+Category:Fortran compilers
+Category:Free and open source compilers
+Category:Free software programmed in C++
+Category:GNU Project software
+Category:Java development tools
+Category:Pascal (programming language) compilers
+Category:Software that was rewritten in C++
+Category:Software using the GNU General Public License
+Category:Unix programming tools
+
+
+Categories for page 'GNU_Debugger':
+-----------------------------------
+Category:Debuggers
+Category:GNU Project software
+Category:Software that was rewritten in C++
+Category:Unix programming tools
+Category:Video game development software for Linux
+
+
+Categories for page 'List_of_GNU_packages':
+-------------------------------------------
+Category:GNU Project software
+Category:Lists of software
+
+
+Categories for page 'GNU':
+--------------------------
+Category:Computing acronyms
+Category:Free software operating systems
+Category:GNU Project
+Category:GNU Project software
+Category:Mach (kernel)
+Category:Microkernel-based operating systems
+Category:Pages including recorded pronunciations
+Category:Unix variants
+Category:Use American English from August 2020
+
+
+Categories for page 'Internet_protocol_suite':
+----------------------------------------------
+Category:History of the Internet
+Category:Internet protocols
+Category:Network architecture
+Category:Pages with timeline metadata
+Category:Reference models
+Category:Use American English from October 2020
+
+
+Categories for page 'Routing_protocol':
+---------------------------------------
+Category:Computer networking
+Category:Lists of network protocols
+Category:Routing
+Category:Routing protocols
+
+
+Categories for page 'List_of_assigned_/8_IPv4_address_blocks':
+--------------------------------------------------------------
+Category:IPv4
+Category:Internet-related lists
+Category:Network addressing
+
+
+Categories for page 'Near-field_communication':
+-----------------------------------------------
+Category:Bandplans
+Category:Ecma standards
+Category:ISO standards
+Category:Mobile telecommunications
+Category:Near-field communication
+Category:Wireless
+
+
+Categories for page 'Protocol_data_unit':
+-----------------------------------------
+Category:Data transmission
+Category:Packets (information technology)
+Category:Use American English from March 2019
+
+
+Categories for page 'Spectrum_management':
+------------------------------------------
+Category:Radio resource management
+Category:Radio spectrum
+
+
+Categories for page 'List_of_mobile_phone_brands_by_country':
+-------------------------------------------------------------
+Category:Brands by country
+Category:Communication-related lists by country
+Category:Economics lists by country
+Category:Lists of brands
+Category:Lists of mobile phone companies
+Category:Mobile phone companies by country
+Category:Mobile phone industry by country
+Category:Mobile phone manufacturers
+
+
+Categories for page 'Symbian':
+------------------------------
+Category:ARM operating systems
+Category:Accenture
+Category:Discontinued operating systems
+Category:Discontinued software
+Category:Embedded operating systems
+Category:History of software
+Category:Microkernel-based operating systems
+Category:Microkernels
+Category:Mobile operating systems
+Category:Nokia platforms
+Category:Real-time operating systems
+Category:Smartphone operating systems
+Category:Symbian OS
+Category:X86 operating systems
+
+
+Categories for page 'PikeOS':
+-----------------------------
+Category:ARM operating systems
+Category:Embedded operating systems
+Category:IA-32 operating systems
+Category:Microkernel-based operating systems
+Category:Microkernels
+Category:Real-time operating systems
+Category:Virtualization software
+Category:X86-64 operating systems
+
+
+Categories for page 'Das_U-Boot':
+---------------------------------
+Category:Firmware
+Category:Free boot loaders
+Category:Free software programmed in C
+Category:Software related to embedded Linux
+
+
+Categories for page 'XNU':
+--------------------------
+Category:IOS
+Category:MacOS
+Category:Mach (kernel)
+Category:Monolithic kernels
+Category:Software using the Apple Public Source License
+
+
+Categories for page 'Architecture_of_Windows_NT':
+-------------------------------------------------
+Category:Operating systems by architecture
+Category:Windows NT architecture
+Category:Windows NT kernel
+
+
+Categories for page 'Reduced_instruction_set_computer':
+-------------------------------------------------------
+Category:Classes of computers
+Category:Instruction set architectures
+Category:Use American English from August 2023
+
+
+Categories for page 'Programmable_interval_timer':
+--------------------------------------------------
+Category:Digital electronics
+Category:IBM PC compatibles
+
+
+Categories for page 'Preemption_(computing)':
+---------------------------------------------
+Category:Concurrent computing
+Category:Operating system technology
+
+
+Categories for page 'Cooperative_multitasking':
+-----------------------------------------------
+Category:Concurrent computing
+
+
+Categories for page 'Arity':
+----------------------------
+Category:Abstract algebra
+Category:Pages including recorded pronunciations
+Category:Universal algebra
+
+
+Categories for page 'Shebang_(Unix)':
+-------------------------------------
+Category:Unix
+
+
+Categories for page 'SolarWinds':
+---------------------------------
+Category:1999 establishments in Oklahoma
+Category:2009 initial public offerings
+Category:2015 mergers and acquisitions
+Category:2018 initial public offerings
+Category:American companies established in 1999
+Category:Companies based in Austin, Texas
+Category:Companies listed on the New York Stock Exchange
+Category:Cross-platform software
+Category:File transfer protocols
+Category:Internet Protocol based network software
+Category:Network analyzers
+Category:Network management
+Category:Networking companies of the United States
+Category:Pages with non-numeric formatnum arguments
+Category:Port scanners
+Category:Private equity portfolio companies
+Category:Software companies based in Texas
+Category:Software companies established in 1999
+Category:Software companies of the United States
+Category:System administration
+Category:TPG Capital companies
+
+
+Categories for page 'Virtual_memory':
+-------------------------------------
+Category:Department of Computer Science, University of Manchester
+Category:Virtual memory
+
+
+Categories for page 'Direct-access_storage_device':
+---------------------------------------------------
+Category:IBM mainframe operating systems
+Category:IBM storage devices
+
+
+Categories for page 'Test-and-set':
+-----------------------------------
+Category:Computer arithmetic
+Category:Concurrency control
+
+
+Categories for page 'SentinelOne':
+----------------------------------
+Category:2013 establishments in California
+Category:2021 initial public offerings
+Category:American companies established in 2013
+Category:Companies based in Mountain View, California
+Category:Companies listed on the New York Stock Exchange
+Category:Computer security companies
+Category:Pages with non-numeric formatnum arguments
+Category:Software companies established in 2013
+Category:Software companies of the United States
+
+
+Categories for page 'Initial_ramdisk':
+--------------------------------------
+Category:Booting
+Category:Linux kernel
+
+
+Categories for page 'Kexec':
+----------------------------
+Category:Linux kernel features
+Category:Linux kernel live patching
+
+
+Categories for page 'List_of_Qualcomm_Snapdragon_systems_on_chips':
+-------------------------------------------------------------------
+Category:ARM-based systems on chips
+Category:Official website not in Wikidata
+Category:Qualcomm
+
+
+Categories for page 'Image_processor':
+--------------------------------------
+Category:Digital signal processors
+Category:Image processors
+Category:Photography equipment
+
+
+Categories for page 'Nested_transaction':
+-----------------------------------------
+Category:Database stubs
+Category:Transaction processing
+
+
+Categories for page 'Virtualization':
+-------------------------------------
+Category:Computing terminology
+Category:Virtualization software
+
+
+Categories for page 'Time_(Unix)':
+----------------------------------
+Category:Inferno (operating system) commands
+Category:Unix SUS2008 utilities
+Category:Unix process- and task-management-related software
+
+
+Categories for page 'System_call':
+----------------------------------
+Category:Application programming interfaces
+Category:Operating system technology
+Category:System calls
+
+
+Categories for page 'Management_information_base':
+--------------------------------------------------
+Category:Network management
+
+
+Categories for page 'Internet_access':
+--------------------------------------
+Category:Broadband
+Category:Human rights by issue
+Category:Internet access
+Category:Rights
+
+
+Categories for page 'Processor_affinity':
+-----------------------------------------
+Category:Load balancing (computing)
+Category:Processor scheduling algorithms
+
+
+Categories for page 'Static_routing':
+-------------------------------------
+Category:Routing
+
+
+Categories for page 'Real-time_communication':
+----------------------------------------------
+Category:Communication software
+Category:Multimedia
+Category:Voice over IP
+
+
+Categories for page 'Minix':
+----------------------------
+Category:1987 software
+Category:ARM operating systems
+Category:Computer-related introductions in 1987
+Category:Computer science in the Netherlands
+Category:Dutch inventions
+Category:Educational operating systems
+Category:Free software operating systems
+Category:Information technology in the Netherlands
+Category:Lightweight Unix-like systems
+Category:Microkernel-based operating systems
+Category:Microkernels
+Category:Minix
+Category:Operating system distributions bootable from read-only media
+Category:Software using the BSD license
+Category:Unix variants
+Category:X86 operating systems
+
+
+Categories for page 'Peterson's_algorithm':
+---------------------------------------------
+Category:Concurrency control algorithms
+
+
+Categories for page 'Critical_section':
+---------------------------------------
+Category:Concurrency control
+Category:Programming constructs
+
+
+Categories for page 'University_of_Oxford':
+-------------------------------------------
+Category:11th-century establishments in England
+Category:Ancient universities
+Category:Coordinates on Wikidata
+Category:Educational institutions established in the 11th century
+Category:Exempt charities
+Category:Medieval European universities
+Category:Organisations based in Oxford with royal patronage
+Category:Oxbridge
+Category:Pages with dark mode problems
+Category:Russell Group
+Category:Universities UK
+Category:University of Oxford
+Category:Use British English from January 2024
+
+
+Categories for page 'Ps_(Unix)':
+--------------------------------
+Category:IBM i Qshell commands
+Category:Inferno (operating system) commands
+Category:Plan 9 commands
+Category:Unix SUS2008 utilities
+Category:Unix process- and task-management-related software
+
+
+Categories for page 'Rate_schedule_(federal_income_tax)':
+---------------------------------------------------------
+Category:Taxation in the United States
+Category:United States federal income tax
+
+
+Categories for page 'Octopart':
+-------------------------------
+Category:2007 establishments in California
+Category:Internet stubs
+Category:Y Combinator companies
+
+
+Categories for page 'Image_compression':
+----------------------------------------
+Category:Data compression
+Category:Image compression
+Category:Use American English from January 2019
+
+
+Categories for page 'DES_supplementary_material':
+-------------------------------------------------
+Category:Data Encryption Standard
+Category:S-box
+
+
+Categories for page 'Advanced_Encryption_Standard':
+---------------------------------------------------
+Category:Advanced Encryption Standard
+Category:Block ciphers
+Category:Cryptography
+Category:Pages with Dutch IPA
+
+
+Categories for page 'AES_implementations':
+------------------------------------------
+Category:Advanced Encryption Standard
+
+
+Categories for page 'Trapdoor_function':
+----------------------------------------
+Category:Cryptographic primitives
+Category:Theory of cryptography
+
+
+Categories for page 'Fermat's_little_theorem':
+----------------------------------------------
+Category:Modular arithmetic
+Category:Theorems about prime numbers
+
+
+Categories for page 'Fermat's_Last_Theorem':
+--------------------------------------------
+Category:1637 in science
+Category:1637 introductions
+Category:1995 in science
+Category:20th century in mathematics
+Category:Abc conjecture
+Category:Conjectures that have been proved
+Category:Fermat's Last Theorem
+Category:Pythagorean theorem
+Category:Theorems in number theory
+
+
+Categories for page 'Integer_factorization':
+--------------------------------------------
+Category:Computational hardness assumptions
+Category:Factorization
+Category:Integer factorization algorithms
+Category:Unsolved problems in computer science
+
+
+Categories for page 'Randomized_algorithm':
+-------------------------------------------
+Category:Analysis of algorithms
+Category:Randomized algorithms
+Category:Vague or ambiguous time from September 2023
+
+
+Categories for page 'General_number_field_sieve':
+-------------------------------------------------
+Category:Integer factorization algorithms
+
+
+Categories for page 'Pollard's rho algorithm':
+----------------------------------------------
+Category:Integer factorization algorithms
+
+
+Categories for page 'Discrete_logarithm':
+-----------------------------------------
+Category:Computational hardness assumptions
+Category:Cryptography
+Category:Finite fields
+Category:Group theory
+Category:Logarithms
+Category:Modular arithmetic
+Category:Unsolved problems in computer science
+
+
+Categories for page 'Baby-step_giant-step':
+-------------------------------------------
+Category:Group theory
+Category:Number theoretic algorithms
+
+
+Categories for page 'Pollard's_rho_algorithm_for_logarithms':
+-------------------------------------------------------------
+Category:Logarithms
+Category:Number theoretic algorithms
+
+
+Categories for page 'Diffie–Hellman_key_exchange':
+--------------------------------------------------
+Category:Key-agreement protocols
+Category:Public-key cryptography
+
+
+Categories for page 'Chinese_remainder_theorem':
+------------------------------------------------
+Category:Chinese mathematical discoveries
+Category:Commutative algebra
+Category:Modular arithmetic
+Category:Theorems in number theory
+
+
+Categories for page 'Euler's_totient_function':
+-----------------------------------------------
+Category:Algebra
+Category:Leonhard Euler
+Category:Modular arithmetic
+Category:Multiplicative functions
+Category:Number theory
+
+
+Categories for page 'Composite_number':
+---------------------------------------
+Category:Arithmetic
+Category:Elementary number theory
+Category:Integer sequences
+Category:Prime numbers
+
+
+Categories for page 'RSA_SecurID':
+----------------------------------
+Category:Authentication methods
+Category:Computer security hardware
+Category:Dell EMC
+Category:Password authentication
+
+
+Categories for page 'PKCS':
+---------------------------
+Category:Cryptography standards
+Category:Public-key cryptography
+Category:Standards of the United States
+Category:Use American English from March 2024
+Category:Vague or ambiguous time from January 2014
+
+
+Categories for page 'Optimal_asymmetric_encryption_padding':
+------------------------------------------------------------
+Category:Padding algorithms
+Category:Public-key encryption schemes
+
+
+Categories for page 'Galois/Counter_Mode':
+------------------------------------------
+Category:Authenticated-encryption schemes
+Category:Block cipher modes of operation
+Category:Finite fields
+Category:Message authentication codes
+
+
+Categories for page 'Miller–Rabin_primality_test':
+--------------------------------------------------
+Category:Finite fields
+Category:Primality tests
+
+
+Categories for page 'Mask_generation_function':
+-----------------------------------------------
+Category:Cryptographic hash functions
+Category:Cryptographic primitives
+Category:Theory of cryptography
+Category:Use American English from April 2019
+
+
+Categories for page 'Real_number':
+----------------------------------
+Category:Elementary mathematics
+Category:Real algebraic geometry
+Category:Real numbers
+
+
+Categories for page 'Elliptic_Curve_Digital_Signature_Algorithm':
+-----------------------------------------------------------------
+Category:Digital Signature Standard
+Category:Digital signature schemes
+Category:Elliptic curve cryptography
+Category:Public-key cryptography
+
+
+Categories for page 'Data_storage':
+-----------------------------------
+Category:Data management
+Category:Data storage
+Category:Film and video technology
+Category:Mass media technology
+Category:Recording
+Category:Sound production technology
+
+
+Categories for page 'Function_(mathematics)':
+---------------------------------------------
+Category:Basic concepts in set theory
+Category:Elementary mathematics
+Category:Functions and mappings
+
+
+Categories for page 'E_(mathematical_constant)':
+------------------------------------------------
+Category:E (mathematical constant)
+Category:Leonhard Euler
+Category:Mathematical constants
+Category:Real transcendental numbers
+
+
+Categories for page 'Joule':
+----------------------------
+Category:James Prescott Joule
+Category:SI derived units
+Category:Units of energy
+Category:Use British English from February 2022
+
+
+Categories for page 'Quadratic_residue':
+----------------------------------------
+Category:Modular arithmetic
+Category:NP-complete problems
+Category:Quadratic residue
+
+
+Categories for page 'Hilbert_symbol':
+-------------------------------------
+Category:Class field theory
+Category:David Hilbert
+Category:Quadratic forms
+
+
+Categories for page 'Artin_reciprocity':
+----------------------------------------
+Category:Class field theory
+
+
+Categories for page 'Dawn_(spacecraft)':
+----------------------------------------
+Category:4 Vesta
+Category:Ceres (dwarf planet)
+Category:Derelict space probes
+Category:Discovery Program
+Category:Missions to dwarf planets
+Category:Missions to main-belt asteroids
+Category:NASA space probes
+Category:Orbiters (space probe)
+Category:Space probes decommissioned in 2018
+Category:Space probes launched in 2007
+Category:Spacecraft launched by Delta II rockets
+
+
+Categories for page 'Rosetta_(spacecraft)':
+-------------------------------------------
+Category:2004 in French Guiana
+Category:Astrobiology space missions
+Category:Destroyed space probes
+Category:European Space Agency space probes
+Category:Missions to comets
+Category:Orbiters (space probe)
+Category:Rosetta Stone
+Category:Rosetta mission
+Category:Space probes launched in 2004
+Category:Use British English from September 2018
+
+
+Categories for page 'Venus_Express':
+------------------------------------
+Category:Embedded systems
+Category:European Space Agency space probes
+Category:Missions to Venus
+Category:Orbiters (space probe)
+Category:Space probes launched in 2005
+Category:Spacecraft launched by Soyuz-FG rockets
+
+
+Categories for page 'Hubble_Space_Telescope':
+---------------------------------------------
+Category:Edwin Hubble
+Category:European Space Agency satellites
+Category:Great Observatories program
+Category:Hubble Space Telescope
+Category:Lockheed Corporation
+Category:NASA satellites
+Category:Pages with broken anchors
+Category:Pages with non-numeric formatnum arguments
+Category:Source attribution
+Category:Space accidents and incidents in the United States
+Category:Space science experiments
+Category:Space telescopes orbiting Earth
+Category:Spacecraft launched by the Space Shuttle
+Category:Spacecraft launched in 1990
+Category:Ultraviolet telescopes
+Category:Use American English from March 2018
+
+
+Categories for page 'List_of_minor_planets_and_comets_visited_by_spacecraft':
+-----------------------------------------------------------------------------
+Category:Comets visited by spacecraft
+Category:Lists of comets
+Category:Lists of minor planets
+Category:Minor planets to be visited by spacecraft
+Category:Minor planets visited by spacecraft
+Category:Missions to minor planets
+Category:Source attribution
+Category:Use British English from October 2020
+Category:Vague or ambiguous time from October 2018
+
+
+Categories for page 'Fiverr':
+-----------------------------
+Category:2019 initial public offerings
+Category:Companies based in Tel Aviv
+Category:Companies listed on the New York Stock Exchange
+Category:Freelance marketplace websites
+Category:Internet properties established in 2010
+Category:Israeli brands
+Category:Israeli companies established in 2010
+Category:Online marketplaces of Israel
+Category:Pages with non-numeric formatnum arguments
+Category:Telecommuting
+
+
+Categories for page 'Message_broker':
+-------------------------------------
+Category:Message-oriented middleware
+Category:Middleware
+Category:Software design patterns
+
+
+Categories for page 'Sequential_algorithm':
+-------------------------------------------
+Category:Algorithms
+Category:Algorithms and data structures stubs
+
+
+Categories for page 'Master–slave_(technology)':
+------------------------------------------------
+Category:1900s neologisms
+Category:AT Attachment
+Category:African-American-related controversies
+Category:All pages needing factual verification
+Category:Connotation
+Category:Distributed computing architecture
+Category:Linguistic controversies
+Category:Metaphors referring to people
+Category:Network protocols
+Category:Pages displaying wikidata descriptions as a fallback via Module:Annotated link
+Category:Politics and race in the United States
+Category:Race-related controversies
+
+
+Categories for page 'List_of_HTTP_status_codes':
+------------------------------------------------
+Category:Hypertext Transfer Protocol status codes
+Category:Internet-related lists
+Category:Use British English from July 2013
+
+
+Categories for page 'UNI/O':
+----------------------------
+Category:Serial buses
+
+
+Categories for page 'PCI_Express':
+----------------------------------
+Category:Computer-related introductions in 2004
+Category:Computer standards
+Category:Motherboard expansion slot
+Category:Peripheral Component Interconnect
+Category:Serial buses
+
+
+Categories for page 'IEEE_802.11':
+----------------------------------
+Category:Computer-related introductions in 1997
+Category:IEEE 802.11
+Category:Local area networks
+Category:Use Oxford spelling from November 2019
+Category:Wireless networking standards
+
+
+Categories for page 'DNP3':
+---------------------------
+Category:Network protocols
+
+
+Categories for page 'C-Bus_(protocol)':
+---------------------------------------
+Category:Building automation
+Category:Home automation
+Category:Network protocols
+
+
+Categories for page 'Modbus':
+-----------------------------
+Category:Building automation
+Category:Industrial Ethernet
+Category:Industrial computing
+Category:Network protocols
+
+
+Categories for page 'OBIX':
+---------------------------
+Category:Building automation
+Category:Standards
+
+
+Categories for page 'Token_Ring':
+---------------------------------
+Category:IBM PC compatibles
+Category:IEEE 802
+Category:IEEE standards
+Category:Link protocols
+Category:Local area networks
+Category:Network topology
+Category:Serial buses
+Category:Systems Network Architecture
+Category:Use American English from December 2024
+
+
+Categories for page 'IEEE_802.11bb':
+------------------------------------
+Category:Computer network stubs
+Category:IEEE 802.11
+Category:Networking standards
+Category:Optical communications
+Category:Wireless communication systems
+
+
+Categories for page '10_Gigabit_Ethernet':
+------------------------------------------
+Category:Ethernet standards
+Category:Use American English from January 2019
+
+
+Categories for page 'Printed_circuit_board':
+--------------------------------------------
+Category:Electrical engineering
+Category:Electronic engineering
+Category:Electronics manufacturing
+Category:Electronics substrates
+Category:Printed circuit board manufacturing
+Category:Use American English from November 2024
+
+
+Categories for page 'Gracemont_(microarchitecture)':
+----------------------------------------------------
+Category:Computer-related introductions in 2021
+Category:Computer hardware stubs
+Category:Intel microarchitectures
+Category:Intel x86 microprocessors
+Category:X86 microarchitectures
+
+
+Categories for page 'Comparison_of_CPU_microarchitectures':
+-----------------------------------------------------------
+Category:Computer architecture
+Category:Computing comparisons
+Category:Microarchitectures
+
+
+Categories for page 'Processor_design':
+---------------------------------------
+Category:Central processing unit
+Category:Computer engineering
+Category:Design engineering
+
+
+Categories for page 'List_of_data_structures':
+----------------------------------------------
+Category:Computing-related lists
+Category:Data structures
+
+
+Categories for page 'List_of_algorithms':
+-----------------------------------------
+Category:Algorithms
+Category:Mathematics-related lists
+Category:Optimization algorithms and methods
+Category:Pages with French IPA
+
+
+Categories for page 'List_of_terms_relating_to_algorithms_and_data_structures':
+-------------------------------------------------------------------------------
+Category:Algorithms and data structures
+Category:Lists of computer terms
+Category:Mathematics-related lists
+
+
+Categories for page 'Active_data_structure':
+--------------------------------------------
+Category:Data structures
+
+
+Categories for page 'Computer_configuration':
+---------------------------------------------
+Category:Computer configuration
+Category:Computing stubs
+
+
+Categories for page 'Configuration_management':
+-----------------------------------------------
+Category:Computer occupations
+Category:Configuration management
+Category:Method engineering
+Category:Software engineering
+Category:Systems engineering
+Category:Technical communication
+Category:Vague or ambiguous time from August 2021
+Category:Version control systems
+
+
+Categories for page 'ITIL':
+---------------------------
+Category:ITIL
+Category:Information technology consulting
+Category:Method engineering
+Category:Use British English from July 2012
+
+
+Categories for page 'IT_service_management':
+--------------------------------------------
+Category:Customer service
+Category:IT service management
+Category:Services marketing
+Category:Telephony
+Category:Use British English from December 2014
+
+
+Categories for page 'Data_center_management':
+---------------------------------------------
+Category:Asset management
+Category:Cloud storage
+Category:Computer data storage
+Category:Data centers
+Category:Data management
+Category:Help desk
+Category:Workflow technology
+
+
+Categories for page 'Data_centre_tiers':
+----------------------------------------
+Category:Computing stubs
+Category:Data centers
+Category:Engineering stubs
+Category:Reliability engineering
+
+
+Categories for page 'Availability_zone':
+----------------------------------------
+Category:Cloud computing
+Category:Computing stubs
+Category:Disaster management
+Category:Distributed computing
+Category:Fault-tolerant computer systems
+Category:Reliability engineering
+
+
+Categories for page 'RAID':
+---------------------------
+Category:RAID
+
+
+Categories for page 'JavaScript_graphics_library':
+--------------------------------------------------
+Category:Computing stubs
+Category:JavaScript libraries
+
+
+Categories for page 'Right-to-left_mark':
+-----------------------------------------
+Category:Control characters
+Category:Digital typography
+Category:Digital typography stubs
+Category:Unicode formatting code points
+
+
+Categories for page 'Wikipedia:Size_of_Wikipedia':
+--------------------------------------------------
+Category:Pages with disabled graphs
+
+
+Categories for page 'Treemapping':
+----------------------------------
+Category:Infographics
+Category:Rectangular subdivisions
+Category:Statistical charts and diagrams
+Category:Trees (data structures)
+Category:User interface techniques
+Category:Visualization (graphics)
+
+
+Categories for page 'File:Lattice_v4.png':
+------------------------------------------
+Category:All free media
+Category:Copy to Wikimedia Commons (bot-assessed)
+Category:Diagram images that should be in SVG format
+Category:Diagrams
+Category:Files with no machine-readable author
+Category:Files with no machine-readable description
+Category:Files with no machine-readable source
+Category:Self-published work
+Category:User-created public domain files
+
+
+Categories for page 'Map_of_lattices':
+--------------------------------------
+Category:Lattice theory
+
+
+Categories for page 'RAM_image':
+--------------------------------
+Category:Computer engineering stubs
+Category:Embedded systems
+
+
+Categories for page 'Patent_visualisation':
+-------------------------------------------
+Category:Computer graphics
+Category:Infographics
+Category:Patent law
+Category:Visualization (graphics)
+
+
+Categories for page 'Pango':
+----------------------------
+Category:1999 software
+Category:C (programming language) libraries
+Category:Free computer libraries
+Category:Free software programmed in C
+Category:Freedesktop.org libraries
+Category:GNOME libraries
+Category:GTK
+Category:Software that uses Meson
+Category:Text rendering libraries
+
+
+Categories for page 'Systemd':
+------------------------------
+Category:Freedesktop.org
+Category:Linux-only free software
+Category:Linux kernel-related software
+Category:Network time-related software
+Category:Software that uses Meson
+Category:Unix process- and task-management-related software
+
+
+Categories for page 'File:Systemd_components.svg':
+--------------------------------------------------
+No categories found.
+
+
+Categories for page 'List_of_JavaScript_libraries':
+---------------------------------------------------
+Category:JavaScript libraries
+Category:Lists of software
+
+
+Categories for page 'Comparison_of_instruction_set_architectures':
+------------------------------------------------------------------
+Category:Computer architecture
+Category:Computing comparisons
+Category:Instruction set architectures
+
+
+Categories for page 'Nested_Context_Language':
+----------------------------------------------
+Category:Broadcast engineering
+Category:Computer file formats
+Category:Digital television
+Category:ISDB
+Category:Markup languages
+Category:Technical communication
+Category:XML-based standards
+
+
+Categories for page 'SATA':
+---------------------------
+Category:Computer-related introductions in 2003
+Category:Computer connectors
+Category:Serial ATA
+Category:Serial buses
+Category:Use American English from February 2024
+
+
+Categories for page 'Multi-level_cell':
+---------------------------------------
+Category:Computer memory
+Category:Non-volatile memory
+Category:Solid-state computer storage media
+
+
+Categories for page 'Multi-frequency_time-division_multiple_access':
+--------------------------------------------------------------------
+Category:Media access control
+Category:Radio resource management
+Category:Telecommunications stubs
+
+
+Categories for page 'Circuit_switching':
+----------------------------------------
+Category:Network architecture
+Category:Physical layer protocols
+Category:Teletraffic
+Category:Use British English from May 2022
+
+
+Categories for page 'Physical_layer':
+-------------------------------------
+Category:OSI model
+
+
+Categories for page 'Data_link_layer':
+--------------------------------------
+Category:Link protocols
+Category:OSI model
+Category:Use American English from March 2019
+
+
+Categories for page 'Network_layer':
+------------------------------------
+Category:OSI model
+
+
+Categories for page 'Transport_layer':
+--------------------------------------
+Category:OSI model
+Category:Use American English from March 2019
+
+
+Categories for page 'Session_layer':
+------------------------------------
+Category:OSI model
+Category:Use American English from March 2019
+
+
+Categories for page 'Presentation_layer':
+-----------------------------------------
+Category:OSI model
+Category:Use American English from March 2019
+
+
+Categories for page 'Application_layer':
+----------------------------------------
+Category:OSI model
+Category:Use American English from March 2019
+
+
+Categories for page 'OSI_model':
+--------------------------------
+Category:Computer-related introductions in 1977
+Category:ISO/IEC 7498
+Category:ISO standards
+Category:ITU-T X Series Recommendations
+Category:ITU-T recommendations
+Category:OSI model
+Category:Reference models
+Category:Use British English from March 2020
+
+
+Categories for page 'List_of_information_technology_initialisms':
+-----------------------------------------------------------------
+Category:Lists of acronyms
+Category:Lists of computer terms
+
+
+Categories for page 'Lists_of_network_protocols':
+-------------------------------------------------
+Category:Lists of network protocols
+Category:Lists of technology lists
+
+
+Categories for page 'List_of_TCP_and_UDP_port_numbers':
+-------------------------------------------------------
+Category:All pages needing factual verification
+Category:Computing-related lists
+Category:Dynamic lists
+Category:Internet-related lists
+Category:Internet protocols
+Category:Lists of network protocols
+Category:Transmission Control Protocol
+Category:Vague or ambiguous time from August 2016
+Category:Vague or ambiguous time from September 2015
+
+
+Categories for page 'List_of_IP_protocol_numbers':
+--------------------------------------------------
+Category:Internet-related lists
+Category:Internet Protocol
+Category:Lists of network protocols
+
+
+Categories for page 'List_of_automation_protocols':
+---------------------------------------------------
+Category:Control engineering
+Category:Industrial Ethernet
+Category:Lists of network protocols
+
+
+Categories for page 'Comparison_of_file_transfer_protocols':
+------------------------------------------------------------
+Category:File transfer protocols
+Category:Lists of network protocols
+Category:Lists of software
+Category:Network software comparisons
+
+
+Categories for page 'List_of_network_protocols_(OSI_model)':
+------------------------------------------------------------
+Category:Computing-related lists
+Category:Lists of network protocols
+Category:Network protocols
+
+
+Categories for page 'CAN_bus':
+------------------------------
+Category:Bosch (company)
+Category:CAN bus
+Category:Computer networks engineering
+Category:Industrial automation
+Category:Industrial computing
+Category:Serial buses
+Category:Use American English from May 2023
+
+
+Categories for page 'List_of_network_protocol_stacks':
+------------------------------------------------------
+Category:Communications protocols
+Category:Computing-related lists
+Category:Lists of network protocols
+Category:Network protocols
+
+
+Categories for page 'List_of_ad_hoc_routing_protocols':
+-------------------------------------------------------
+Category:Ad hoc routing protocols
+Category:Lists of network protocols
+Category:Wireless networking
+
+
+Categories for page 'Dynamic_routing':
+--------------------------------------
+Category:Routing
+
+
+Categories for page 'Hierarchical_state_routing':
+-------------------------------------------------
+Category:Computer network stubs
+Category:Routing algorithms
+
+
+Categories for page 'Optimized_Link_State_Routing_Protocol':
+------------------------------------------------------------
+Category:Ad hoc routing protocols
+Category:Routing
+Category:Routing algorithms
+Category:Routing protocols
+Category:Wireless networking
+
+
+Categories for page 'B.A.T.M.A.N.':
+-----------------------------------
+Category:Ad hoc routing protocols
+Category:Mesh networking
+
+
+Categories for page 'ZHLS-GF':
+------------------------------
+Category:Ad hoc routing protocols
+Category:Wireless networking
+
+
+Categories for page 'List_of_web_service_protocols':
+----------------------------------------------------
+Category:Application layer protocols
+Category:Lists of network protocols
+Category:Web services
+
+
+Categories for page 'List_of_web_service_frameworks':
+-----------------------------------------------------
+Category:Web services
+
+
+Categories for page 'Java_view_technologies_and_frameworks':
+------------------------------------------------------------
+Category:Java (programming language)
+Category:Java APIs
+
+
+Categories for page 'Comparison_of_web_frameworks':
+---------------------------------------------------
+Category:Monitored short pages
+
+
+Categories for page 'Comparison_of_JavaScript-based_web_frameworks':
+--------------------------------------------------------------------
+Category:Ajax (programming)
+Category:JavaScript libraries
+Category:JavaScript web frameworks
+Category:Software comparisons
+Category:Web development
+Category:Web frameworks
+
+
+Categories for page 'Node.js':
+------------------------------
+Category:2009 software
+Category:Free software programmed in C++
+Category:Free software programmed in JavaScript
+Category:JavaScript libraries
+Category:Joyent
+Category:Linux Foundation projects
+Category:Software using the MIT license
+
+
+Categories for page 'Comparison_of_server-side_web_frameworks':
+---------------------------------------------------------------
+Category:Network software comparisons
+Category:Web frameworks
+
+
+Categories for page 'Communicating_sequential_processes':
+---------------------------------------------------------
+Category:1978 in computing
+Category:Computer-related introductions in 1978
+Category:Concurrent computing
+Category:Process calculi
+
+
+Categories for page 'Concurrent_hash_table':
+--------------------------------------------
+Category:Concurrent computing
+Category:Hash-based data structures
+
+
+Categories for page 'Timeline_of_programming_languages':
+--------------------------------------------------------
+Category:Computing timelines
+Category:Dynamic lists
+Category:History of computer science
+Category:Lists of programming languages
+
+
+Categories for page 'History_of_programming_languages':
+-------------------------------------------------------
+Category:History of computer science
+Category:History of computing
+
+
+Categories for page 'List_of_JVM_languages':
+--------------------------------------------
+Category:JVM programming languages
+Category:Lists of programming languages
+
+
+Categories for page 'Vvvv':
+---------------------------
+Category:Creative coding
+Category:Live video software
+Category:Pages with German IPA
+Category:Visual programming languages
+
+
+Categories for page 'VHDL':
+---------------------------
+Category:Ada programming language family
+Category:Domain-specific programming languages
+Category:Hardware description languages
+Category:IEC standards
+Category:IEEE standards
+Category:Programming languages created in 1983
+
+
+Categories for page 'Handel-C':
+-------------------------------
+Category:C programming language family
+Category:Electronic design automation
+Category:Hardware description languages
+
+
+Categories for page 'Four-valued_logic':
+----------------------------------------
+Category:Hardware description languages
+Category:Many-valued logic
+
+
+Categories for page 'Graphics_processing_unit':
+-----------------------------------------------
+Category:Application-specific integrated circuits
+Category:Artificial intelligence
+Category:Digital electronics
+Category:Electronic design
+Category:Electronic design automation
+Category:GPGPU
+Category:Graphics hardware
+Category:Graphics processing units
+Category:Hardware acceleration
+Category:OpenCL compute devices
+Category:Virtual reality
+
+
+Categories for page 'Pipeline_(computing)':
+-------------------------------------------
+Category:Instruction processing
+
+
+Categories for page 'DOS_API':
+------------------------------
+Category:DOS technology
+Category:Interrupts
+Category:Operating system APIs
+Category:X86 architecture
+
+
+Categories for page 'Coprocessor':
+----------------------------------
+Category:Central processing unit
+Category:Coprocessors
+Category:Heterogeneous computing
+Category:OpenCL compute devices
+
+
+Categories for page 'SystemVerilog_DPI':
+----------------------------------------
+Category:Application programming interfaces
+Category:Hardware verification languages
+Category:Use American English from April 2019
+
+
+Categories for page 'E_(programming_language)':
+-----------------------------------------------
+Category:1997 software
+Category:Capability systems
+Category:Concurrent programming languages
+Category:Dynamic programming languages
+Category:Dynamically typed programming languages
+Category:High-level programming languages
+Category:JVM programming languages
+Category:Object-oriented programming languages
+Category:Programming languages
+Category:Programming languages created in 1997
+Category:Secure programming languages
+
+
+Categories for page 'List_of_web_service_specifications':
+---------------------------------------------------------
+Category:Computing-related lists
+Category:Incomplete lists from August 2008
+Category:Web service specifications
+Category:Web services
+
+
+Categories for page 'Web_service':
+----------------------------------
+Category:Web services
+
+
+Categories for page 'List_of_Java_frameworks':
+----------------------------------------------
+Category:Java (programming language) libraries
+Category:Java platform software
+
+
+Categories for page 'Apache_Mesos':
+-----------------------------------
+Category:Apache Software Foundation
+Category:Apache Software Foundation projects
+Category:Cloud infrastructure
+Category:Free software for cloud computing
+Category:Linux containerization
+Category:Software using the Apache license
+
+
+Categories for page 'Infinispan':
+---------------------------------
+Category:Cache (computing)
+Category:Cross-platform free software
+Category:Free memory management software
+Category:Free software programmed in Java (programming language)
+Category:Red Hat software
+
+
+Categories for page 'Ehcache':
+------------------------------
+Category:Cache (computing)
+Category:Computer programming tool stubs
+Category:Cross-platform free software
+Category:Free memory management software
+Category:Free software programmed in Java (programming language)
+Category:Java enterprise platform
+
+
+Categories for page 'Memcached':
+--------------------------------
+Category:2003 software
+Category:Cross-platform software
+Category:Database caching
+Category:Free memory management software
+Category:Key-value databases
+Category:Software using the BSD license
+Category:Structured storage
+
+
+Categories for page 'Java_collections_framework':
+-------------------------------------------------
+Category:Data structures libraries and frameworks
+Category:JDK components
+
+
+Categories for page 'Jackson_(API)':
+------------------------------------
+Category:Cross-platform free software
+Category:JSON
+Category:Java (programming language) libraries
+Category:Java platform
+
+
+Categories for page 'Jetty_(web_server)':
+-----------------------------------------
+Category:Free software programmed in Java (programming language)
+Category:Free web server software
+Category:Software using the Apache license
+Category:Software using the Eclipse Public License
+Category:Web server software programmed in Java
+
+
+Categories for page 'JHipster':
+-------------------------------
+Category:Agile software development
+Category:Free software programmed in Java (programming language)
+Category:Java platform
+Category:Software using the Apache license
+Category:Web frameworks
+
+
+Categories for page 'List_of_Ajax_frameworks':
+----------------------------------------------
+Category:Lists of software
+Category:Web frameworks
+
+
+Categories for page 'List_of_server-side_JavaScript_implementations':
+---------------------------------------------------------------------
+Category:JavaScript
+Category:Lists of software
+Category:Software comparisons
+
+
+Categories for page 'Netty_(software)':
+---------------------------------------
+Category:Java platform
+Category:Message-oriented middleware
+
+
+Categories for page 'OpenCV':
+-----------------------------
+Category:C++ libraries
+Category:Computer vision software
+Category:Gesture recognition
+Category:Image processing software
+Category:Software using the Apache license
+
+
+Categories for page 'Oracle_WebLogic_Server':
+---------------------------------------------
+Category:BEA Systems
+Category:Java enterprise platform
+Category:Oracle software
+Category:Service-oriented architecture-related products
+Category:Web server software
+
+
+Categories for page 'Selenium_(software)':
+------------------------------------------
+Category:Graphical user interface testing
+Category:Load testing tools
+Category:Open source projects
+Category:Software testing tools
+Category:Unit testing frameworks
+Category:Web development software
+
+
+Categories for page 'SLF4J':
+----------------------------
+Category:Java (programming language) libraries
+Category:Log file formats
+Category:Software using the MIT license
+
+
+Categories for page 'SonarQube':
+--------------------------------
+Category:Free software testing tools
+Category:Static program analysis tools
+
+
+Categories for page 'List_of_tools_for_static_code_analysis':
+-------------------------------------------------------------
+Category:Lists of software
+Category:Static program analysis tools
+
+
+Categories for page 'Dynamic_program_analysis':
+-----------------------------------------------
+Category:Dynamic program analysis
+Category:Program analysis
+Category:Software testing
+
+
+Categories for page 'Spring_Integration':
+-----------------------------------------
+Category:Free and open-source software stubs
+Category:Java enterprise platform
+
+
+Categories for page 'Web_server':
+---------------------------------
+Category:English inventions
+Category:Pages with disabled graphs
+Category:Servers (computing)
+Category:Web server software
+Category:Website management
+
+
+Categories for page 'Application_server':
+-----------------------------------------
+Category:Servers (computing)
+Category:Software architecture
+
+
+Categories for page 'Internet_Protocol_version_4':
+--------------------------------------------------
+Category:Redirects from moves
+Category:Redirects to initialisms
+
+
+Categories for page 'IPv6':
+---------------------------
+Category:IPv6
+Category:Internet layer protocols
+Category:Internet properties established in 1996
+Category:Network layer protocols
+Category:Pages with timeline metadata
+
+
+Categories for page 'Comparison_of_IPv6_support_in_operating_systems':
+----------------------------------------------------------------------
+Category:Computing comparisons
+Category:IPv6
+Category:Operating system comparisons
+
+
+Categories for page 'Comparison_of_IPv6_support_in_common_applications':
+------------------------------------------------------------------------
+Category:Computing comparisons
+Category:IPv6
+
+
+Categories for page 'Internet_Protocol':
+----------------------------------------
+Category:Internet
+Category:Internet Protocol
+Category:Internet layer protocols
+Category:Pages with timeline metadata
+
+
+Categories for page 'TightVNC':
+-------------------------------
+Category:Cross-platform software
+Category:Free network-related software
+Category:Free software programmed in C
+Category:Free software programmed in C++
+Category:Free software programmed in Java (programming language)
+Category:Portable software
+Category:Remote desktop
+Category:Remote desktop software for Linux
+Category:Virtual Network Computing
+
+
+Categories for page 'Commercial_off-the-shelf':
+-----------------------------------------------
+Category:Engineering management
+Category:Procurement
+Category:Use American English from March 2019
+
+
+Categories for page 'Database-centric_architecture':
+----------------------------------------------------
+Category:Data management
+Category:Distributed computing architecture
+Category:Software architecture
+
+
+Categories for page 'Dynamic_programming_language':
+---------------------------------------------------
+Category:Dynamic programming languages
+Category:Evaluation strategy
+
+
+Categories for page 'Parallel_programming_model':
+-------------------------------------------------
+Category:Concurrent programming languages
+Category:Parallel computing
+Category:Programming paradigms
+
+
+Categories for page 'Degree_of_parallelism':
+--------------------------------------------
+Category:Computer science stubs
+Category:Instruction processing
+Category:Parallel computing
+
+
+Categories for page 'Explicit_parallelism':
+-------------------------------------------
+Category:Computer science stubs
+Category:Parallel computing
+Category:Use American English from February 2024
+
+
+Categories for page 'List_of_concurrent_and_parallel_programming_languages':
+----------------------------------------------------------------------------
+Category:Concurrent programming languages
+Category:Lists of programming languages
+
+
+Categories for page 'Optical_Multi-Tree_with_Shuffle_Exchange':
+---------------------------------------------------------------
+Category:Parallel computing
+
+
+Categories for page 'Model_of_computation':
+-------------------------------------------
+Category:Computability theory
+Category:Computational complexity theory
+Category:Models of computation
+
+
+Categories for page 'ENEA_AB':
+------------------------------
+Category:ARM operating systems
+Category:Companies based in Stockholm
+Category:Companies listed on Nasdaq Stockholm
+Category:Embedded operating systems
+Category:Information technology companies of Sweden
+Category:Microkernel-based operating systems
+Category:Real-time operating systems
+
+
+Categories for page 'ENEA_AB#Products':
+---------------------------------------
+Category:ARM operating systems
+Category:Companies based in Stockholm
+Category:Companies listed on Nasdaq Stockholm
+Category:Embedded operating systems
+Category:Information technology companies of Sweden
+Category:Microkernel-based operating systems
+Category:Real-time operating systems
+
+
+Categories for page 'List_of_URI_schemes':
+------------------------------------------
+Category:Request for Comments
+Category:URI schemes
+
+
+Categories for page 'Computer_network_programming':
+---------------------------------------------------
+Category:Computer networks engineering
+Category:Computer programming
+Category:Inter-process communication
+
+
+Categories for page 'Database-as-IPC':
+--------------------------------------
+Category:Anti-patterns
+Category:Computer science stubs
+Category:Databases
+
+
+Categories for page 'Parallel_external_memory':
+-----------------------------------------------
+Category:Algorithms
+Category:Analysis of parallel algorithms
+Category:Cache (computing)
+Category:External memory algorithms
+Category:Models of computation
+
+
+Categories for page 'Cache_coherence':
+--------------------------------------
+Category:Cache coherency
+Category:Concurrent computing
+Category:Consistency models
+Category:Parallel computing
+
+
+Categories for page 'Shared-disk_architecture':
+-----------------------------------------------
+Category:Data partitioning
+Category:Distributed computing architecture
+Category:Software architecture
+
+
+Categories for page 'Software_bus':
+-----------------------------------
+Category:Software architecture
+Category:Software engineering stubs
+
+
+Categories for page 'Software_architecture':
+--------------------------------------------
+Category:Software architecture
+
+
+Categories for page 'Outline_of_software_development':
+------------------------------------------------------
+Category:Outlines
+Category:Outlines of computing and engineering
+Category:Software development
+
+
+Categories for page 'CD-R':
+---------------------------
+Category:Audio storage
+Category:Audiovisual introductions in 1988
+Category:Compact disc
+Category:Dutch inventions
+Category:Information technology in Japan
+Category:Information technology in the Netherlands
+Category:Japanese inventions
+Category:Optical computer storage media
+Category:Science and technology in Japan
+Category:Science and technology in the Netherlands
+Category:Video storage
+
+
+Categories for page 'CD-ROM':
+-----------------------------
+Category:Compact disc
+Category:Ecma standards
+Category:Optical computer storage
+Category:Optical computer storage media
+Category:Rainbow Books
+Category:Rotating disc computer storage media
+Category:Video game distribution
+
+
+Categories for page 'DVD':
+--------------------------
+Category:120 mm discs
+Category:Audiovisual introductions in 1996
+Category:Consumer electronics
+Category:DVD
+Category:Digital audio storage
+Category:Digital media
+Category:Dutch inventions
+Category:Home video
+Category:Home video distributors
+Category:Information technology in Japan
+Category:Information technology in the Netherlands
+Category:Japanese inventions
+Category:Joint ventures
+Category:Optical computer storage media
+Category:Products introduced in 1996
+Category:Rotating disc computer storage media
+Category:Science and technology in Japan
+Category:Science and technology in the Netherlands
+Category:Video game distribution
+Category:Video storage
+
+
+Categories for page 'DVD_recordable':
+-------------------------------------
+Category:Audiovisual introductions in 1997
+Category:Computer-related introductions in 1997
+Category:DVD
+Category:Optical computer storage
+Category:Optical computer storage media
+Category:Use American English from March 2019
+Category:Vague or ambiguous time from July 2020
+
+
+Categories for page 'DVD-RAM':
+------------------------------
+Category:Audio storage
+Category:DVD
+Category:Optical computer storage
+Category:Optical computer storage media
+Category:Use American English from March 2019
+Category:Video storage
+
+
+Categories for page 'MiniDVD':
+------------------------------
+Category:80 mm discs
+Category:DVD
+Category:Optical computer storage media
+Category:Video storage
+
+
+Categories for page 'HD_DVD':
+-----------------------------
+Category:Audio storage
+Category:Audiovisual introductions in 2006
+Category:Consumer electronics
+Category:DVD
+Category:Discontinued media formats
+Category:HD DVD
+Category:High-definition television
+Category:Optical computer storage media
+Category:Products and services discontinued in 2008
+Category:Rotating disc computer storage media
+
+
+Categories for page 'Blu-ray':
+------------------------------
+Category:2006 in technology
+Category:21st-century inventions
+Category:Audio storage
+Category:Audiovisual introductions in 2006
+Category:Blu-ray Disc
+Category:Computer-related introductions in 2006
+Category:Consumer electronics
+Category:Dutch inventions
+Category:High-definition television
+Category:High dynamic range
+Category:Home video
+Category:Japanese inventions
+Category:Java platform
+Category:Optical computer storage media
+Category:Products introduced in 2006
+Category:Rotating disc computer storage media
+Category:Sony hardware
+Category:Television terminology
+Category:Vague or ambiguous time from May 2021
+Category:Video game distribution
+Category:Video storage
+
+
+Categories for page 'Wikipedia:Contents/Outlines':
+--------------------------------------------------
+No matching categories found.
+
+
+Categories for page 'Wikipedia:Contents/Technology_and_applied_sciences':
+-------------------------------------------------------------------------
+Category:Applied sciences
+Category:Technology
+
+
+Categories for page 'Outline_of_software_engineering':
+------------------------------------------------------
+Category:Computing-related lists
+Category:Outlines
+Category:Outlines of applied sciences
+Category:Software engineering
+
+
+Categories for page 'Outline_of_web_design_and_web_development':
+----------------------------------------------------------------
+Category:Computing-related lists
+Category:Outlines
+Category:Web design
+Category:Web development
+
+
+Categories for page 'GNU_parallel':
+-----------------------------------
+Category:Free software programmed in Perl
+Category:GNU Project software
+Category:Linux process- and task-management-related software
+
+
+Categories for page 'Parallel_all-pairs_shortest_path_algorithm':
+-----------------------------------------------------------------
+Category:Graph algorithms
+
+
+Categories for page 'Parallel_breadth-first_search':
+----------------------------------------------------
+Category:Graph algorithms
+Category:Parallel computing
+
+
+Categories for page 'Intel_Parallel_Building_Blocks':
+-----------------------------------------------------
+Category:C programming language family
+Category:Computer programming stubs
+Category:Concurrent programming languages
+Category:Intel software
+
+
+Categories for page 'Unified_Parallel_C':
+-----------------------------------------
+Category:C programming language family
+Category:Concurrent programming languages
+Category:Parallel computing
+
+
+Categories for page 'Parallel_computation_thesis':
+--------------------------------------------------
+Category:Parallel computing
+Category:Theory of computation
+
+
+Categories for page 'Parallel_constraint_satisfaction_processes':
+-----------------------------------------------------------------
+Category:Computational neuroscience
+
+
+Categories for page 'Connectionism':
+------------------------------------
+Category:Cognitive science
+Category:Computational neuroscience
+Category:Emergence
+Category:Learning
+Category:Philosophy of artificial intelligence
+Category:Theory of mind
+
+
+Categories for page 'Parallel_Element_Processing_Ensemble':
+-----------------------------------------------------------
+Category:Massively parallel computers
+Category:Missile defense
+Category:Parallel computing
+
+
+Categories for page 'Parallel_Extensions':
+------------------------------------------
+Category:.NET terminology
+Category:Concurrent programming libraries
+
+
+Categories for page 'Persistent_memory':
+----------------------------------------
+Category:Computer file systems
+Category:Persistence frameworks
+
+
+Categories for page 'Source-to-source_compiler':
+------------------------------------------------
+Category:Incomplete lists from August 2020
+Category:Pages displaying wikidata descriptions as a fallback via Module:Annotated link
+Category:Source-to-source compilers
+Category:Use list-defined references from January 2022
+Category:Utility software types
+
+
+Categories for page 'Porting':
+------------------------------
+Category:Interoperability
+Category:Source code
+
+
+Categories for page 'MinGW':
+----------------------------
+Category:1998 software
+Category:C++ compilers
+Category:C (programming language) compilers
+Category:Cross-compilers
+Category:Fortran compilers
+Category:Free and open source compilers
+Category:Public-domain software
+
+
+Categories for page 'Windows_Vista_networking_technologies':
+------------------------------------------------------------
+Category:Computer networking
+Category:Windows Server
+Category:Windows Vista
+
+
+Categories for page 'Windows_API':
+----------------------------------
+Category:Microsoft application programming interfaces
+Category:Pages displaying wikidata descriptions as a fallback via Module:Annotated link
+Category:Use American English from November 2023
+Category:Windows APIs
+
+
+Categories for page 'Xlib':
+---------------------------
+Category:Application programming interfaces
+Category:C (programming language) libraries
+Category:X Window System
+
+
+Categories for page 'XCB':
+--------------------------
+Category:C (programming language) libraries
+Category:Freedesktop.org
+Category:Freedesktop.org libraries
+Category:Software using the MIT license
+Category:X Window System
+
+
+Categories for page 'GNU_GLOBAL':
+---------------------------------
+Category:Code comprehension tools
+Category:Code navigation tools
+Category:Free computer programming tools
+Category:GNU Project software
+Category:Unix programming tools
+
+
+Categories for page 'Prototype-based_programming':
+--------------------------------------------------
+Category:Object-oriented programming
+Category:Programming paradigms
+Category:Prototype-based programming
+Category:Type theory
+
+
+Categories for page 'Class-based_programming':
+----------------------------------------------
+Category:Object-oriented programming
+
+
+Categories for page 'Chkrootkit':
+---------------------------------
+Category:Computer security software
+Category:Rootkit detection software
+Category:Unix security-related software
+
+
+Categories for page 'Rootkit':
+------------------------------
+Category:Cryptographic attacks
+Category:Cyberwarfare
+Category:Privilege escalation exploits
+Category:Rootkits
+Category:Types of malware
+
+
+Categories for page 'System_Management_Mode':
+---------------------------------------------
+Category:ARM architecture
+Category:BIOS
+Category:Rootkits
+Category:X86 operating modes
+
+
+Categories for page 'Devicetree':
+---------------------------------
+Category:ARM architecture
+Category:Data structures by computing platform
+Category:Embedded systems
+Category:Firmware
+Category:Operating system technology
+
+
+Categories for page 'SHA-2':
+----------------------------
+Category:Checksum algorithms
+Category:Cryptographic hash functions
+Category:National Security Agency cryptography
+
+
+Categories for page 'Yield_(multithreading)':
+---------------------------------------------
+Category:Compiler optimizations
+Category:Computing platforms
+Category:Concurrent computing
+Category:Java platform
+Category:Method (computer programming)
+Category:Operating system technology
+Category:Software optimization
+Category:Threads (computing)
+
+
+Categories for page 'Root_Cause_Analysis_Solver_Engine':
+--------------------------------------------------------
+Category:Analytics
+Category:Business intelligence software
+Category:Statistical classification
+
+
+Categories for page 'Hierarchical_model–view–controller':
+---------------------------------------------------------
+Category:Software analysis patterns
+
+
+Categories for page 'List_of_optimization_software':
+----------------------------------------------------
+Category:Lists of software
+Category:Mathematical optimization software
+
+
+Categories for page 'K-server_problem':
+---------------------------------------
+Category:Online algorithms
+Category:Unsolved problems in computer science
+
+
+Categories for page 'Ski_rental_problem':
+-----------------------------------------
+Category:Online algorithms
+
+
+Categories for page 'Embarrassingly_parallel':
+----------------------------------------------
+Category:Applications of distributed computing
+Category:Distributed computing problems
+Category:Parallel computing
+
+
+Categories for page 'Java_Heterogeneous_Distributed_Computing':
+---------------------------------------------------------------
+Category:Distributed computing projects
+Category:Free and open-source software stubs
+Category:Software using the GNU General Public License
+
+
+Categories for page 'Rackspace_Technology':
+-------------------------------------------
+Category:1998 establishments in Texas
+Category:2008 initial public offerings
+Category:2016 mergers and acquisitions
+Category:2020 initial public offerings
+Category:American companies established in 1998
+Category:Apollo Global Management companies
+Category:Cloud computing providers
+Category:Companies based in San Antonio
+Category:Companies formerly listed on the New York Stock Exchange
+Category:Companies listed on the Nasdaq
+Category:Computer companies established in 1998
+Category:Internet technology companies of the United States
+Category:Pages with non-numeric formatnum arguments
+Category:Web hosting
+
+
+Categories for page 'Comparison_of_file_hosting_services':
+----------------------------------------------------------
+Category:Cloud storage
+Category:Companies' terms of service
+Category:File hosting
+Category:File hosting for Linux
+Category:File hosting for Windows
+Category:File hosting for macOS
+Category:Online services comparisons
+
+
+Categories for page 'File-hosting_service':
+-------------------------------------------
+Category:File hosting
+Category:Records management
+Category:Social software
+
+
+Categories for page 'OverlayFS':
+--------------------------------
+Category:Free special-purpose file systems
+Category:Linux kernel features
+Category:Special-purpose file systems supported by the Linux kernel
+Category:Union file systems
+Category:Unix file system technology
+
+
+Categories for page 'Tmpfs':
+----------------------------
+Category:Computer-related introductions in 1987
+Category:Linux kernel features
+Category:Special-purpose file systems
+Category:Special-purpose file systems supported by the Linux kernel
+
+
+Categories for page 'Largest_known_prime_number':
+-------------------------------------------------
+Category:Great Internet Mersenne Prime Search
+Category:Large integers
+Category:Largest things
+Category:Mersenne primes
+Category:Prime numbers
+Category:World records
+
+
+Categories for page 'Origin_of_water_on_Earth':
+-----------------------------------------------
+Category:Beginnings
+Category:Earth
+Category:Hadean
+Category:Hadean events
+Category:Origins
+Category:Scientific problems
+Category:Water
+
+
+Categories for page 'Outline_of_computer_programming':
+------------------------------------------------------
+Category:Computer programming
+Category:Computing-related lists
+Category:Outlines
+Category:Outlines of sciences
+
+
+Categories for page 'Integrated_Software_for_Imagers_and_Spectrometers':
+------------------------------------------------------------------------
+Category:Graphics software stubs
+Category:Image processing software
+Category:Public-domain software
+Category:Science software
+Category:United States Geological Survey
+Category:Works about astronomy
+
+
+Categories for page 'Banner_grabbing':
+--------------------------------------
+Category:Computer network security
+Category:Computer security stubs
+
+
+Categories for page 'SPSS':
+---------------------------
+Category:Business intelligence software
+Category:Data mining and machine learning software
+Category:Data warehousing
+Category:Econometrics software
+Category:Extract, transform, load tools
+Category:IBM software
+Category:Java platform software
+Category:Mathematical optimization software
+Category:Numerical software
+Category:Proprietary commercial software for Linux
+Category:Proprietary cross-platform software
+Category:Science software for Linux
+Category:Statistical programming languages
+Category:Statistical software
+Category:Time series software
+
+
+Categories for page 'Generative_adversarial_network':
+-----------------------------------------------------
+Category:Cognitive science
+Category:Generative artificial intelligence
+Category:Neural network architectures
+Category:Unsupervised learning
+
+
+Categories for page 'Synchronous_programming_language':
+-------------------------------------------------------
+Category:Programming language classification
+Category:Synchronous programming languages
+
+
+Categories for page 'Asynchrony_(computer_programming)':
+--------------------------------------------------------
+Category:Computer programming
+Category:Computer science stubs
+Category:Inter-process communication
+Category:Middleware
+
+
+Categories for page 'Programming_tool':
+---------------------------------------
+Category:Pages displaying wikidata descriptions as a fallback via Module:Annotated link
+Category:Programming tools
+
+
+Categories for page 'Text_editor':
+----------------------------------
+Category:Technical communication tools
+Category:Text editors
+
+
+Categories for page 'Source-code_editor':
+-----------------------------------------
+Category:Programming tools
+Category:Text editors
+Category:Types of tools used in software development
+
+
+Categories for page 'Message-oriented_middleware':
+--------------------------------------------------
+Category:Enterprise application integration
+Category:Message-oriented middleware
+Category:Middleware
+Category:Systems engineering
+
+
+Categories for page 'Enterprise_service_bus':
+---------------------------------------------
+Category:Enterprise application integration
+Category:Message-oriented middleware
+Category:Service-oriented (business computing)
+Category:Software architecture
+
+
+Categories for page 'Service_abstraction':
+------------------------------------------
+Category:Service-oriented (business computing)
+
+
+Categories for page 'Service_Component_Architecture':
+-----------------------------------------------------
+Category:Enterprise application integration
+Category:Service-oriented (business computing)
+
+
+Categories for page 'Parallel_Virtual_File_System':
+---------------------------------------------------
+Category:Distributed file systems
+Category:Distributed file systems supported by the Linux kernel
+Category:Network file systems
+
+
+Categories for page 'StorNext_File_System':
+-------------------------------------------
+Category:Shared disk file systems
+
+
+Categories for page 'Hierarchical_File_System_(Apple)':
+-------------------------------------------------------
+Category:Apple Inc. file systems
+Category:Computer file systems
+Category:Disk file systems
+Category:Macintosh operating systems
+
+
+Categories for page 'NetBoot':
+------------------------------
+Category:MacOS
+Category:Network booting
+
+
+Categories for page 'Comparison_of_file_systems':
+-------------------------------------------------
+Category:Computer file systems
+Category:Incomplete lists from July 2015
+Category:Software comparisons
+
+
+Categories for page 'Comparison_of_distributed_file_systems':
+-------------------------------------------------------------
+Category:Computer storage stubs
+Category:Network file systems
+Category:Software comparisons
+
+
+Categories for page 'Unix_filesystem':
+--------------------------------------
+Category:File system management
+Category:Unix file system technology
+
+
+Categories for page 'Unix_file_types':
+--------------------------------------
+Category:Unix file system technology
+
+
+Categories for page 'File-system_permissions':
+----------------------------------------------
+Category:File system permissions
+Category:Use American English from January 2019
+
+
+Categories for page 'Linux_Assigned_Names_and_Numbers_Authority':
+-----------------------------------------------------------------
+Category:Linux organizations
+Category:Standards organizations
+
+
+Categories for page 'Access-control_list':
+------------------------------------------
+Category:Computer access control
+
+
+Categories for page 'Data_masking':
+-----------------------------------
+Category:Data protection
+Category:Database management systems
+Category:Databases
+Category:Obfuscation
+
+
+Categories for page 'Transformation_of_text':
+---------------------------------------------
+Category:Constrained writing
+Category:Encodings
+Category:Leet
+Category:Obfuscation
+
+
+Categories for page 'File:CIAJMK1209-en.svg':
+---------------------------------------------
+No categories found.
+
+
+Categories for page 'Security-focused_operating_system':
+--------------------------------------------------------
+Category:Computer security
+Category:Operating system security
+
+
+Categories for page 'Data-centric_security':
+--------------------------------------------
+Category:Big data
+Category:Computer security
+
+
+Categories for page 'Syllable_Desktop#Features':
+------------------------------------------------
+Category:Free software operating systems
+Category:Hobbyist operating systems
+Category:Software using the GNU General Public License
+Category:Unix variants
+Category:X86 operating systems
+
+
+Categories for page 'Kernel_debugger':
+--------------------------------------
+Category:Debuggers
+Category:Operating system kernels
+
+
+Categories for page 'Kernel_panic':
+-----------------------------------
+Category:Computer errors
+Category:Operating system kernels
+Category:Screens of death
+
+
+Categories for page 'Kernel_preemption':
+----------------------------------------
+Category:Operating system kernels
+Category:Scheduling (computing)
+
+
+Categories for page 'Comparison_of_operating_system_kernels':
+-------------------------------------------------------------
+Category:Computing platforms
+Category:Operating system comparisons
+Category:Operating system kernels
+
+
+Categories for page 'Comparison_of_command_shells':
+---------------------------------------------------
+Category:Command shells
+Category:Software comparisons
+Category:Unix shells
+
+
+Categories for page 'Comparison_of_operating_systems':
+------------------------------------------------------
+Category:Comparisons
+Category:Operating system comparisons
+Category:Operating systems
+
+
+Categories for page 'Touchscreen':
+----------------------------------
+Category:American inventions
+Category:Electronic display devices
+Category:European inventions
+Category:Touchscreens
+Category:Vague or ambiguous time from November 2018
+
+
+Categories for page 'Personal_digital_assistant':
+-------------------------------------------------
+Category:Information appliances
+Category:Mobile computers
+Category:Personal digital assistants
+Category:Time management
+
+
+Categories for page 'Abstract_machine':
+---------------------------------------
+Category:Abstract machines
+Category:Automata (computation)
+Category:Models of computation
+Category:Pages displaying wikidata descriptions as a fallback via Module:Annotated link
+
+
+Categories for page 'Dependency_inversion_principle':
+-----------------------------------------------------
+Category:Programming principles
+Category:Software design patterns
+
+
+Categories for page 'The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code':
+---------------------------------------------------------------------------------
+Category:C (programming language)
+Category:Programming principles
+
+
+Categories for page 'Telnet':
+-----------------------------
+Category:Application layer protocols
+Category:History of the Internet
+Category:Internet Protocol based network software
+Category:Internet Standards
+Category:Internet protocols
+Category:Telnet
+Category:URI schemes
+Category:Unix network-related software
+
+
+Categories for page 'WebSocket':
+--------------------------------
+Category:2011 in computing
+Category:Application layer protocols
+Category:HTML5
+Category:Internet terminology
+Category:Network socket
+Category:Real-time web
+Category:Web development
+
+
+Categories for page 'Android_(operating_system)':
+-------------------------------------------------
+Category:2008 software
+Category:ARM operating systems
+Category:Alphabet Inc.
+Category:Android (operating system)
+Category:Cloud clients
+Category:Companies based in Mountain View, California
+Category:Computing platforms
+Category:Embedded Linux distributions
+Category:Free mobile software
+Category:Google acquisitions
+Category:Google software
+Category:IA-32 operating systems
+Category:Independent Linux distributions
+Category:Linux distributions
+Category:Linux distributions without systemd
+Category:Mobile Linux
+Category:Operating system families
+Category:Operating systems based on the Linux kernel
+Category:Pages containing links to subscription-only content
+Category:Pages with non-numeric formatnum arguments
+Category:Smartphone operating systems
+Category:Software using the Apache license
+Category:Tablet operating systems
+Category:Use American English from June 2024
+Category:Vague or ambiguous time from November 2019
+Category:X86-64 operating systems
+
+
+Categories for page 'Battery_management_system':
+------------------------------------------------
+Category:Battery charging
+Category:Embedded operating systems
+Category:Energy conversion
+Category:Rechargeable batteries
+
+
+Categories for page 'Function_(computer_programming)':
+------------------------------------------------------
+Category:Holism
+Category:Programming constructs
+Category:Source code
+Category:Subroutines
+
+
+Categories for page 'Plack_(software)#PSGI':
+--------------------------------------------
+Category:Free web server software
+Category:Perl software
+
+
+Categories for page 'Apache_HTTP_Server':
+-----------------------------------------
+Category:1995 software
+Category:Apache Software Foundation projects
+Category:Cross-platform free software
+Category:Free software programmed in C
+Category:Free web server software
+Category:Reverse proxy
+Category:Software using the Apache license
+Category:Unix network-related software
+Category:Web server software for Linux
+
+
+Categories for page 'Event_loop':
+---------------------------------
+Category:Control flow
+Category:Events (computing)
+
+
+Categories for page 'Overlay_network':
+--------------------------------------
+Category:Anonymity networks
+Category:Computer networking
+Category:Network architecture
+Category:Overlay networks
+
+
+Categories for page 'Software_patent':
+--------------------------------------
+Category:Software patent law
+
+
+Categories for page 'Comparison_of_free_and_open-source_software_licenses':
+---------------------------------------------------------------------------
+Category:Companies' terms of service
+Category:Debian
+Category:Free Software Foundation
+Category:Free and open-source software licenses
+Category:Free software lists and comparisons
+Category:Software comparisons
+
+
+Categories for page 'Comparison_of_file_comparison_tools':
+----------------------------------------------------------
+Category:Data missing from November 2023
+Category:File comparison tools
+Category:Software comparisons
+
+
+Categories for page 'List_of_filename_extensions':
+--------------------------------------------------
+Category:Filename extensions
+Category:Lists of file formats
+Category:Lists of lists with listcat specified
+Category:Lists of technology lists
+
+
+Categories for page 'List_of_filename_extensions_(0–9)':
+--------------------------------------------------------
+Category:Filename extensions
+Category:Lists of file formats
+
+
+Categories for page 'List_of_filename_extensions_(A–E)':
+--------------------------------------------------------
+Category:Filename extensions
+Category:Lists of file formats
+
+
+Categories for page 'List_of_filename_extensions_(F–L)':
+--------------------------------------------------------
+Category:Filename extensions
+Category:Lists of file formats
+
+
+Categories for page 'List_of_filename_extensions_(M–R)':
+--------------------------------------------------------
+Category:Filename extensions
+Category:Lists of file formats
+
+
+Categories for page 'List_of_filename_extensions_(S–Z)':
+--------------------------------------------------------
+Category:Filename extensions
+Category:Lists of file formats
+
+
+Categories for page 'Subtitles':
+--------------------------------
+Category:Assistive technology
+Category:Subtitling
+Category:Teletext
+Category:Translation
+Category:Vague or ambiguous geographic scope from December 2014
+
+
+Categories for page 'Nesting_(computing)':
+------------------------------------------
+Category:Computer data
+Category:Computer programming
+
+
+Categories for page 'Boot_sector':
+----------------------------------
+Category:BIOS
+Category:Booting
+Category:Computer file systems
+
+
+Categories for page 'Disk_sector':
+----------------------------------
+Category:Computer file systems
+Category:Units of information
+Category:Use American English from March 2019
+
+
+Categories for page 'Fragmentation_(computing)':
+------------------------------------------------
+Category:File system management
+Category:Memory management
+
+
+Categories for page 'File_system_fragmentation':
+------------------------------------------------
+Category:File system management
+
+
+Categories for page 'Hierarchical_storage_management':
+------------------------------------------------------
+Category:Business software
+Category:Computer data storage
+Category:Management frameworks
+
+
+Categories for page 'Alluxio':
+------------------------------
+Category:Distributed file systems
+Category:Free and open-source software
+Category:Free software programmed in Java (programming language)
+Category:Software using the Apache license
+
+
+Categories for page 'Runtime_library':
+--------------------------------------
+Category:Computer libraries
+Category:Run-time systems
+
+
+Categories for page 'Runtime_system':
+-------------------------------------
+Category:Computing platforms
+Category:Run-time systems
+
+
+Categories for page 'Program_Files':
+------------------------------------
+Category:File system directories
+Category:Microsoft Windows
+
+
+Categories for page 'NTFS_links':
+---------------------------------
+Category:Disk file systems
+Category:Use American English from October 2024
+Category:Windows administration
+Category:Windows commands
+Category:Windows disk file systems
+
+
+Categories for page 'List_of_file_copying_software':
+----------------------------------------------------
+Category:Data synchronization
+Category:File copy utilities
+Category:Lists of software
+Category:Storage software
+Category:Unix software
+Category:Windows administration
+
+
+Categories for page '.exe':
+---------------------------
+Category:DOS files
+Category:DOS technology
+Category:Executable file formats
+Category:Filename extensions
+Category:Windows administration
+
+
+Categories for page 'Executable':
+---------------------------------
+Category:Computer file systems
+Category:Programming language implementation
+Category:Use list-defined references from December 2021
+
+
+Categories for page 'Comparison_of_executable_file_formats':
+------------------------------------------------------------
+Category:Computing comparisons
+Category:Executable file formats
+
+
+Categories for page 'Apple_Disk_Image':
+---------------------------------------
+Category:Apple Inc. file systems
+Category:Archive formats
+Category:Compression file systems
+Category:Disk images
+Category:MacOS
+Category:Year of introduction missing
+
+
+Categories for page 'Clustered_file_system':
+--------------------------------------------
+Category:Computer file systems
+Category:Data management
+Category:Distributed data storage
+Category:Distributed file systems
+Category:Network file systems
+Category:Shared disk file systems
+Category:Storage area networks
+
+
+Categories for page 'Parallel_communication':
+---------------------------------------------
+Category:Data transmission
+
+
+Categories for page 'Embedded_system':
+--------------------------------------
+Category:Embedded systems
+Category:Use American English from December 2017
+
+
+Categories for page 'Comparison_of_lightweight_web_browsers':
+-------------------------------------------------------------
+Category:Web browser comparisons
+
+
+Categories for page 'Comparison_of_web_browsers':
+-------------------------------------------------
+Category:Dynamic lists
+Category:Online services comparisons
+Category:Web browser comparisons
+Category:Web browsers
+
+
+Categories for page 'List_of_web_browsers_for_Unix_and_Unix-like_operating_systems':
+------------------------------------------------------------------------------------
+Category:Lists of software
+Category:Web browsers
+
+
+Categories for page 'Text-based_user_interface':
+------------------------------------------------
+Category:Text user interface
+Category:User interfaces
+
+
+Categories for page 'Text_mode':
+--------------------------------
+Category:Display technology
+Category:Text mode
+Category:Text user interface
+
+
+Categories for page 'Avionics':
+-------------------------------
+Category:Aircraft instruments
+Category:Avionics
+Category:Electronic engineering
+Category:Spacecraft components
+Category:Use American English from November 2018
+
+
+Categories for page 'Astrionics':
+---------------------------------
+Category:Spacecraft components
+
+
+Categories for page 'Peer-to-peer_file_sharing':
+------------------------------------------------
+Category:Intellectual property law
+Category:Internet terminology
+Category:Peer-to-peer file sharing
+
+
+Categories for page 'Line_code':
+--------------------------------
+Category:Coding theory
+Category:Line codes
+Category:Physical layer protocols
+
+
+Categories for page 'Scancode':
+-------------------------------
+Category:Computer keyboards
+Category:Data transmission
+Category:Encodings
+
+
+Categories for page 'Ternary_signal':
+-------------------------------------
+Category:Line codes
+Category:Telecommunications stubs
+Category:Ternary computers
+
+
+Categories for page 'File:Digital_signal_encoding_formats-en.svg':
+------------------------------------------------------------------
+No categories found.
+
+
+Categories for page 'ASP.NET':
+------------------------------
+Category:2002 software
+Category:ASP.NET
+Category:Free and open-source software
+Category:Microsoft Visual Studio
+Category:Microsoft application programming interfaces
+Category:Microsoft free software
+Category:Software using the Apache license
+Category:Template engines
+Category:Web frameworks
+
+
+Categories for page 'Nested_word':
+----------------------------------
+Category:Automata (computation)
+Category:Formal languages
+Category:Harv and Sfn no-target errors
+Category:Words
+
+
+Categories for page 'Basic_English':
+------------------------------------
+Category:1930 introductions
+Category:All pages needing factual verification
+Category:Constructed languages introduced in the 1930s
+Category:Controlled English
+Category:English language
+Category:International auxiliary languages
+Category:Technical communication
+
+
+Categories for page 'Signal_(IPC)':
+-----------------------------------
+Category:Control flow
+Category:Inter-process communication
+
+
+Categories for page 'Emulator':
+-------------------------------
+Category:Computer hardware
+Category:Emulation software
+
+
+Categories for page 'Lmctfy':
+-----------------------------
+Category:Free software programmed in C++
+Category:Google software
+Category:Google stubs
+Category:Linux-only free software
+Category:Software using the Apache license
+Category:Virtualization software for Linux
+
+
+Categories for page 'LXC':
+--------------------------
+Category:Free virtualization software
+Category:Linux-only free software
+Category:Linux kernel features
+Category:Operating system security
+Category:Virtualization software for Linux
+
+
+Categories for page 'Vkernel':
+------------------------------
+Category:2006 software
+Category:BSD software
+Category:Computer architecture
+Category:Computer performance
+Category:DragonFly BSD
+Category:Free software programmed in C
+Category:Free virtualization software
+Category:Operating system kernels
+Category:Operating system security
+Category:Operating system technology
+Category:Software using the BSD license
+Category:System administration
+Category:Virtual machines
+Category:Virtualization software
+
+
+Categories for page 'Comparison_of_platform_virtualization_software':
+---------------------------------------------------------------------
+Category:Platform virtualization software
+Category:Software comparisons
+Category:Virtualization software
+
+
+Categories for page 'Comparison_of_application_virtualization_software':
+------------------------------------------------------------------------
+Category:Software comparisons
+Category:Virtualization software
+
+
+Categories for page 'QNX':
+--------------------------
+Category:1980 establishments in Ontario
+Category:ARM operating systems
+Category:All pages needing factual verification
+Category:BlackBerry Limited
+Category:Computing platforms
+Category:Distributed operating systems
+Category:Embedded operating systems
+Category:Information technology companies of Canada
+Category:Lightweight Unix-like systems
+Category:Microkernel-based operating systems
+Category:Microkernels
+Category:Mobile operating systems
+Category:Proprietary operating systems
+Category:Real-time operating systems
+Category:Software companies established in 1980
+Category:Tablet operating systems
+Category:X86-64 operating systems
+Category:X86 operating systems
+
+
+Categories for page 'Live_migration':
+-------------------------------------
+Category:Virtualization
+
+
+Categories for page 'Oracle_VM_Server_for_SPARC':
+-------------------------------------------------
+Category:Hardware partitioning
+Category:Sun Microsystems software
+Category:Virtualization software
+
+
+Categories for page 'SLUB_(software)':
+--------------------------------------
+Category:Linux kernel
+Category:Linux stubs
+Category:Memory management algorithms
+
+
+Categories for page 'Netlink':
+------------------------------
+Category:Interfaces of the Linux kernel
+Category:Linux kernel features
+
+
+Categories for page 'Configfs':
+-------------------------------
+Category:Free special-purpose file systems
+Category:Interfaces of the Linux kernel
+Category:Linux stubs
+Category:Pseudo file systems supported by the Linux kernel
+
+
+Categories for page 'CRIU':
+---------------------------
+Category:Linux-only free software
+Category:Linux software
+Category:Pages with plain IPA
+
+
+Categories for page 'I/O_virtualization':
+-----------------------------------------
+Category:Computer networking
+Category:Virtualization software
+
+
+Categories for page 'Linux_kernel_interfaces':
+----------------------------------------------
+Category:Interfaces of the Linux kernel
+
+
+Categories for page 'Direct_Rendering_Manager':
+-----------------------------------------------
+Category:Direct Rendering Infrastructure
+Category:Interfaces of the Linux kernel
+Category:Linux kernel features
+
+
+Categories for page 'Modern_Operating_Systems':
+-----------------------------------------------
+Category:1992 non-fiction books
+Category:Books on operating systems
+Category:Computer book stubs
+Category:Computer science books
+
+
+Categories for page 'Qt_(software)':
+------------------------------------
+Category:1995 software
+Category:Application programming interfaces
+Category:C++ libraries
+Category:Cross-platform desktop-apps development
+Category:Cross-platform software
+Category:Formerly proprietary software
+Category:Free computer libraries
+Category:Free software programmed in C++
+Category:KDE
+Category:Pages with plain IPA
+Category:Qt (software)
+Category:Software using the GNU Lesser General Public License
+Category:Widget toolkits
+Category:X-based libraries
+
+
+Categories for page 'QML':
+--------------------------
+Category:Declarative programming languages
+Category:Qt (software)
+Category:User interface markup languages
+
+
+Categories for page 'KDE_Software_Compilation':
+-----------------------------------------------
+Category:1998 software
+Category:Free desktop environments
+Category:KDE Software Compilation
+Category:KDE software
+Category:Unix windowing system-related software
+Category:Utilities for Linux
+Category:Utilities for Windows
+Category:Utilities for macOS
+
+
+Categories for page 'List_of_disk_partitioning_software':
+---------------------------------------------------------
+Category:Disk partitioning software
+Category:Lists of software
+
+
+Categories for page 'GStreamer':
+--------------------------------
+Category:Collabora
+Category:Free multimedia software
+Category:Free software programmed in C
+Category:Freedesktop.org libraries
+Category:GNOME libraries
+Category:GStreamer
+Category:Multimedia frameworks
+Category:Software that uses Meson
+
+
+Categories for page 'HAProxy':
+------------------------------
+Category:Free software programmed in C
+Category:Free web server software
+Category:Lua (programming language)-scriptable software
+Category:Proxy server software for Linux
+Category:Reverse proxy
+Category:Unix network-related software
+
+
+Categories for page 'Noop_scheduler':
+-------------------------------------
+Category:Disk scheduling algorithms
+
+
+Categories for page 'Elevator_algorithm':
+-----------------------------------------
+Category:Disk scheduling algorithms
+Category:Sorting algorithms
+
+
+Categories for page 'Foreground-background':
+--------------------------------------------
+Category:Processor scheduling algorithms
+
+
+Categories for page 'Gang_scheduling':
+--------------------------------------
+Category:Processor scheduling algorithms
+
+
+Categories for page '80_Million_Tiny_Images':
+---------------------------------------------
+Category:Datasets in computer vision
+Category:Machine learning
+
+
+Categories for page 'Local_ternary_patterns':
+---------------------------------------------
+Category:Computer science stubs
+Category:Computer vision
+
+
+Categories for page 'Local_binary_patterns':
+--------------------------------------------
+Category:Feature detection (computer vision)
+
+
+Categories for page 'Histogram':
+--------------------------------
+Category:Estimation of densities
+Category:Frequency distribution
+Category:Nonparametric statistics
+Category:Quality control tools
+Category:Statistical charts and diagrams
+
+
+Categories for page 'Seven_basic_tools_of_quality':
+---------------------------------------------------
+Category:Pages displaying wikidata descriptions as a fallback via Module:Annotated link
+Category:Quality
+Category:Quality control tools
+Category:Use Oxford spelling from October 2018
+
+
+Categories for page 'Contextual_image_classification':
+------------------------------------------------------
+Category:Applications of computer vision
+Category:Computer vision
+Category:Image processing
+
+
+Categories for page 'User_interface':
+-------------------------------------
+Category:Human communication
+Category:Human–machine interaction
+Category:User interface techniques
+Category:User interfaces
+Category:Virtual reality
+
+
+Categories for page 'Xfce':
+---------------------------
+Category:1997 software
+Category:Compositing window managers
+Category:Desktop environments based on GTK
+Category:Free desktop environments
+Category:X Window System
+Category:Xfce
+
+
+Categories for page 'List_of_Java_keywords':
+--------------------------------------------
+Category:Java (programming language)
+Category:Programming language syntax
+
+
+Categories for page 'Virtual':
+------------------------------
+Category:All article disambiguation pages
+Category:All disambiguation pages
+Category:Disambiguation pages
+
+
+Categories for page 'Special:PrefixIndex/Virtual':
+--------------------------------------------------
+No categories found.
+
+
+Categories for page 'Special:PrefixIndex/Parallel':
+---------------------------------------------------
+No categories found.
+
+
+Categories for page 'Special:PrefixIndex/Distribute':
+-----------------------------------------------------
+No categories found.
+
+
+Categories for page 'Special:PrefixIndex?prefix=Distribute&namespace=0':
+------------------------------------------------------------------------
+No categories found.
+
+
+Categories for page 'Digital_currency':
+---------------------------------------
+Category:Digital currencies
+Category:Use American English from July 2020
+Category:Vague or ambiguous time from June 2023
+Category:Vague or ambiguous time from May 2021
+
+
+Categories for page 'Keyword':
+------------------------------
+Category:All article disambiguation pages
+Category:All disambiguation pages
+Category:Disambiguation pages
+
+
+Categories for page 'Index_term':
+---------------------------------
+Category:Information retrieval techniques
+Category:Thesauri
+
+
+Categories for page 'List_of_digital_forensics_tools':
+------------------------------------------------------
+Category:Digital forensics software
+Category:Lists of software
+
+
+Categories for page 'Data_recovery':
+------------------------------------
+Category:Backup
+Category:Computer data
+Category:Data management
+Category:Data recovery
+Category:Hard disk software
+Category:Transaction processing
+
+
+Categories for page 'Big_memory':
+---------------------------------
+Category:Big data
+Category:Data management
+Category:Distributed computing problems
+Category:Technology forecasting
+Category:Transaction processing
+
+
+Categories for page 'List_of_in-memory_databases':
+--------------------------------------------------
+Category:Database management systems
+Category:Lists of database management software
+Category:Lists of software
+
+
+Categories for page 'Kernel_Transaction_Manager':
+-------------------------------------------------
+Category:Transaction processing
+Category:Windows NT kernel
+Category:Windows Server 2008
+Category:Windows Vista
+
+
+Categories for page 'Hybrid_kernel':
+------------------------------------
+Category:Operating system kernels
+Category:Windows NT kernel
+
+
+Categories for page 'Dd_(Unix)':
+--------------------------------
+Category:Data erasure software
+Category:Data recovery software
+Category:Disk cloning
+Category:Hard disk software
+Category:Inferno (operating system) commands
+Category:Plan 9 commands
+Category:Standard Unix programs
+Category:Unix SUS2008 utilities
+
+
+Categories for page 'Search_engine_optimization':
+-------------------------------------------------
+Category:Digital marketing
+Category:Internet terminology
+Category:Online advertising
+Category:Promotion and marketing communications
+Category:Search engine optimization
+Category:Web analytics
+
+
+Categories for page 'Open_Virtualization_Format':
+-------------------------------------------------
+Category:Computer standards
+Category:DMTF standards
+Category:ISO/IEC standards
+Category:Open standards
+Category:Virtualization
+
+
+Categories for page 'Master–slave_(technology)':
+------------------------------------------------
+Category:1900s neologisms
+Category:AT Attachment
+Category:African-American-related controversies
+Category:All pages needing factual verification
+Category:Connotation
+Category:Distributed computing architecture
+Category:Linguistic controversies
+Category:Metaphors referring to people
+Category:Network protocols
+Category:Pages displaying wikidata descriptions as a fallback via Module:Annotated link
+Category:Politics and race in the United States
+Category:Race-related controversies
+
+
+Categories for page 'Bus_mastering':
+------------------------------------
+Category:Computer buses
+Category:Computer hardware stubs
+Category:Motherboard
+
+
+Categories for page 'Execution_model':
+--------------------------------------
+Category:Computing platforms
+
+
+Categories for page 'Nvidia_Tesla_Personal_Supercomputer':
+----------------------------------------------------------
+Category:Computer hardware stubs
+Category:Computer workstations
+Category:Nvidia products
+
+
+Categories for page 'Overlay_keyboard':
+---------------------------------------
+Category:Computer hardware stubs
+Category:Computer keyboard types
+
+
+Categories for page 'Keyboard_layout':
+--------------------------------------
+Category:Keyboard layouts
+Category:Pages with Khmer IPA
+
+
+Categories for page 'Help:Special_page':
+----------------------------------------
+No matching categories found.
+
+
+Categories for page 'Special:Search':
+-------------------------------------
+No categories found.
+
+
+Categories for page 'Wikipedia:Categories,_lists,_and_navigation_templates':
+----------------------------------------------------------------------------
+No matching categories found.
+
+
+Categories for page 'Libusb':
+-----------------------------
+Category:C (programming language) libraries
+Category:Free computer libraries
+Category:USB
+Category:Unix stubs
+
+
+Categories for page 'Zeero':
+----------------------------
+Category:Data erasure software
+Category:Unix stubs
+
+
+Categories for page 'Wicd':
+---------------------------
+Category:Applications using D-Bus
+Category:Free network-related software
+Category:Free software programmed in Python
+Category:Free software that uses ncurses
+Category:Linux stubs
+Category:Software that uses PyGTK
+
+
+Categories for page 'SciPy':
+----------------------------
+Category:Cite Q - cites a work with an erratum
+Category:Cross-platform software
+Category:Free science software
+Category:Numerical analysis software for Linux
+Category:Numerical analysis software for Windows
+Category:Numerical analysis software for macOS
+Category:Numerical programming languages
+Category:Python (programming language) scientific libraries
+Category:Software using the BSD license
+
+
+Categories for page 'BareMetal':
+--------------------------------
+Category:Assembly language software
+Category:Free software operating systems
+Category:Hobbyist operating systems
+Category:Microkernels
+Category:Operating system stubs
+Category:Software using the BSD license
+Category:X86-64 operating systems
+
+
+Categories for page 'SASOS':
+----------------------------
+No categories found.
+
+
+Categories for page 'Exokernel':
+--------------------------------
+Category:Microkernels
+Category:Operating system kernels
+
+
+Categories for page 'Java_bytecode':
+------------------------------------
+Category:Assembly languages
+Category:Bytecodes
+Category:Java platform
+Category:Use American English from November 2023
+
+
+Categories for page 'CPU_shielding':
+------------------------------------
+Category:Operating system stubs
+Category:Operating system technology
+Category:Real-time computing
+
+
+Categories for page 'Data_Control_Block':
+-----------------------------------------
+Category:IBM file systems
+Category:IBM mainframe operating systems
+Category:Mainframe computer stubs
+Category:Operating system stubs
+
+
+Categories for page 'Group_Control_System':
+-------------------------------------------
+Category:IBM mainframe operating systems
+Category:Mainframe computer stubs
+Category:Operating system stubs
+Category:VM (operating system)
+
+
+Categories for page 'Semantic_Web':
+-----------------------------------
+Category:Internet ages
+Category:Knowledge engineering
+Category:Semantic Web
+Category:Use American English from December 2021
+Category:Web services
+
+
+Categories for page 'Processor_Control_Region':
+-----------------------------------------------
+Category:Data structures by computing platform
+Category:Microsoft Windows stubs
+Category:Windows NT kernel
+
+
+Categories for page 'DEAP_(software)':
+--------------------------------------
+Category:Evolutionary computation
+Category:Free science software
+Category:Python (programming language) scientific libraries
+
+
+Categories for page 'Deeplearning4j':
+-------------------------------------
+Category:Cluster computing
+Category:Deep learning software
+Category:Free data analysis software
+Category:Free science software
+Category:Free software programmed in Java (programming language)
+Category:Free software programmed in Scala
+Category:Free statistical software
+Category:Hadoop
+Category:Image processing
+Category:Information technology companies of the United States
+Category:Java (programming language) libraries
+Category:Java (programming language) software
+Category:Java platform
+Category:Java programming language family
+Category:Natural language processing
+Category:Numerical programming languages
+Category:Open-source artificial intelligence
+Category:Scala (programming language)
+Category:Software using the Apache license
+Category:Technology companies based in the San Francisco Bay Area
+
+
+Categories for page 'Smartphone_patent_wars':
+---------------------------------------------
+Category:Apple Inc. litigation
+Category:Discovery and invention controversies
+Category:Google litigation
+Category:Incomplete lists from November 2013
+Category:Smartphone patent wars
+Category:Smartphones
+
+
+Categories for page 'Booting_process_of_Android_devices':
+---------------------------------------------------------
+Category:Android (operating system)
+Category:Boot loaders
+Category:Booting processes
+
+
+Categories for page 'Booting_process_of_Linux':
+-----------------------------------------------
+Category:Booting processes
+Category:Linux
+Category:Linux kernel
+
+
+Categories for page 'Runlevel':
+-------------------------------
+Category:Unix
+Category:Unix process- and task-management-related software
+
+
+Categories for page 'Computational_mathematics':
+------------------------------------------------
+Category:Applied mathematics
+Category:Computational mathematics
+Category:Computational science
+
+
+Categories for page 'Extract,_transform,_load':
+-----------------------------------------------
+Category:Data warehousing
+Category:Extract, transform, load tools
+
+
+Categories for page 'Bus_(computing)':
+--------------------------------------
+Category:Communication interfaces
+Category:Computer buses
+Category:Digital electronics
+Category:Motherboard
+Category:Use American English from March 2016
+
+

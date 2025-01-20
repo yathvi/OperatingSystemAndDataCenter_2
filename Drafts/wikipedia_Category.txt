@@ -1,0 +1,9098 @@
+============================================
+<==>	Category:Container categories	<==>
+============================================
+https://en.wikipedia.org/wiki/Category:Container_categories
+
+The main page for this category is Wikipedia:Container category.
+
+Container categories are categories intended to be populated entirely by subcategories. {{Container category}}, {{Maintenance category|container=yes}}, and {{Tracking category|container=yes}} will also add a category to this category. See the category pages for possible further details of their contents.
+
+
+See also
+--------
+Category:Wikipedia categorization
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 200 subcategories, out of 46,419 total.
+
+
+
+
+
+
+============================================
+<==>	Category:Wikipedia categories	<==>
+============================================
+https://en.wikipedia.org/wiki/Category:Wikipedia_categories
+
+Not to be confused with Category:Wikipedia or Category:Categories in category theory.
+For the overall top-level category, see Category:Contents.
+This category is for types of categories and subcategories of pages about Wikipedia categories.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 15 subcategories, out of 15 total.
+
+
+Categories by parameter‎ (25 C)
+
+ -------
+|	C	|
+ -------
+Wikipedia categories that should not contain articles‎ (8 C)
+Container categories‎ (46,419 C)
+
+ -------
+|	D	|
+ -------
+Disambiguation categories‎ (2,447 C)
+
+ -------
+|	E	|
+ -------
+Eponymous categories‎ (14 C)
+
+ -------
+|	H	|
+ -------
+Hidden categories‎ (35,828 C)
+
+ -------
+|	M	|
+ -------
+Maintenance categories‎ (14 C)
+
+ -------
+|	N	|
+ -------
+Namespace-specific categories‎ (8 C)
+Wikipedia non-diffusing subcategories‎ (19,606 C)
+Wikipedia non-diffusing parent categories‎ (755 C, 2 P)
+
+ -------
+|	R	|
+ -------
+All redirect categories‎ (3,949 C)
+
+ -------
+|	S	|
+ -------
+Set categories‎ (36,410 C)
+Wikipedia soft redirected categories‎ (111,797 C)
+Wikipedia categories sorted by month‎ (1 C)
+
+ -------
+|	T	|
+ -------
+Tracking categories‎ (24,378 C)
+
+
+
+
+
+
+================================================
+<==>	Category:Wikipedia categorization	<==>
+================================================
+https://en.wikipedia.org/wiki/Category:Wikipedia_categorization
+
+This category contains project pages which deal with categorization on Wikipedia.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 13 subcategories, out of 13 total.
+
+
+Wikipedia categories‎ (15 C)
+Wikipedia categorization by topic‎ (1 C, 40 P)
+Wikipedia category maintenance‎ (5 C)
+
+ -------
+|	C	|
+ -------
+Wikipedia classification templates‎ (34 P)
+
+ -------
+|	D	|
+ -------
+Categories for discussion‎ (16 C, 2 P)
+
+ -------
+|	E	|
+ -------
+Wikipedia essays about categorization‎ (1 C, 23 P)
+
+ -------
+|	I	|
+ -------
+Inactive Wikipedia categorization pages‎ (5 P)
+
+ -------
+|	M	|
+ -------
+Multiple namespace templates‎ (1 C)
+
+ -------
+|	N	|
+ -------
+Category namespace templates‎ (9 C, 156 P)
+
+ -------
+|	T	|
+ -------
+Temporary maintenance holdings‎ (2 C, 190 P)
+Too many categories‎ (4 P)
+Wikipedia categorization tools‎ (7 P)
+
+ -------
+|	W	|
+ -------
+WikiProject Categories‎ (5 C, 7 P)
+
+
+ ----------------------------------------------------
+||	Pages in category "Wikipedia categorization"	||
+ ----------------------------------------------------
+The following 49 pages are in this category, out of 49 total. This list may not reflect recent changes.
+
+
+Wikipedia:Categorization
+Help:Category
+
+ -------
+|	*	|
+ -------
+Help:Categories
+Wikipedia:Categorization dos and don'ts
+Wikipedia:Template index/Category namespace
+
+ -------
+|	A	|
+ -------
+Wikipedia:Article wizard/version1/Category
+User:AvicBot
+
+ -------
+|	C	|
+ -------
+Wikipedia:Categories for discussion/Speedy
+Wikipedia:Categories, lists, and navigation templates
+Template:Categorization essay
+Wikipedia:WikiProject Categories/Current subprojects
+Wikipedia:Categorizing redirects
+Wikipedia:Category combinatorics
+Wikipedia:Category names
+Wikipedia:Category suppression
+Wikipedia:Category classification templates
+Wikipedia:Container category
+
+ -------
+|	D	|
+ -------
+Wikipedia:Defining
+Wikipedia:WikiProject Category sorting
+User:DexDor/Categorization of organisms by geography
+Wikipedia:Categories for discussion
+Wikipedia:Categories for discussion/Log/Today
+
+ -------
+|	F	|
+ -------
+Wikipedia:FAQ/Categorization
+Wikipedia:FAQ/Categories
+
+ -------
+|	G	|
+ -------
+Wikipedia:Guidelines for user categories
+
+ -------
+|	I	|
+ -------
+Template:If in category
+Wikipedia:Category intersection
+
+ -------
+|	L	|
+ -------
+Wikipedia:List of country categories
+Wikipedia:List of Wikipedia categories that should not contain articles
+
+ -------
+|	M	|
+ -------
+Wikipedia:Manual of Style/Category pages
+
+ -------
+|	O	|
+ -------
+Wikipedia:Overcategorization
+Wikipedia:Overcategorization/User categories
+
+ -------
+|	P	|
+ -------
+Wikipedia:People by year
+Wikipedia:Categorizing articles about people
+Wikipedia:Categorizing portals
+
+ -------
+|	Q	|
+ -------
+Wikipedia:Quick cat index
+
+ -------
+|	S	|
+ -------
+Wikipedia:Categorization/Sorting names
+
+ -------
+|	T	|
+ -------
+Template:The Categorisation Barnstar
+
+ -------
+|	U	|
+ -------
+Wikipedia:WikiProject Categories/uncategorized
+Wikipedia:Understanding the English Wikipedia Category System
+Wikipedia:UPMERGE
+Wikipedia:User categories
+Wikipedia:User categorisation
+
+ -------
+|	W	|
+ -------
+Help:Wikipedia: The Missing Manual/Building a stronger encyclopedia/Categorizing articles
+Wikipedia:WikiProject Categories
+
+ -------
+|	T	|
+ -------
+Template:Draft categories
+User:Mathglot/sandbox/Templates/Draft projects
+Template:No article categories in userspace
+Template:Suppress categories
+
+
+
+
+
+============================================
+<==>	Category:Wikipedia namespaces	<==>
+============================================
+https://en.wikipedia.org/wiki/Category:Wikipedia_namespaces
+
+For more information, see Wikipedia:Namespace
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 9 subcategories, out of 9 total.
+
+ -------
+|	A	|
+ -------
+Articles‎ (13 C, 6 P)
+
+ -------
+|	C	|
+ -------
+Wikipedia categories‎ (15 C)
+
+ -------
+|	D	|
+ -------
+Wikipedia drafts‎ (11 C, 18 P)
+
+ -------
+|	F	|
+ -------
+Wikipedia files‎ (18 C, 4 P)
+
+ -------
+|	H	|
+ -------
+Help‎ (2 C, 4 P)
+
+ -------
+|	M	|
+ -------
+Wikipedia modules‎ (27 C, 25 P)
+
+ -------
+|	P	|
+ -------
+Portals‎ (21 C, 3 P)
+
+ -------
+|	T	|
+ -------
+Wikipedia templates‎ (25 C)
+
+ -------
+|	U	|
+ -------
+Wikipedia user space‎ (10 C, 20 P)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================
+<==>	Category:Knowledge-oriented systems	<==>
+================================================
+https://en.wikipedia.org/wiki/Category:Knowledge-oriented_systems
+
+The main article for this category is Knowledge-based systems.
+
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 6 subcategories, out of 6 total.
+
+ -------
+|	A	|
+ -------
+Artificial intelligence‎ (39 C, 200 P)
+
+ -------
+|	B	|
+ -------
+Big data‎ (3 C, 66 P)
+
+ -------
+|	I	|
+ -------
+Information retrieval‎ (12 C, 9 P)
+
+ -------
+|	K	|
+ -------
+Knowledge bases‎ (1 C, 23 P)
+Knowledge engineering‎ (1 C, 35 P)
+Knowledge representation‎ (18 C, 202 P)
+
+
+ ----------------------------------------------------
+||	Pages in category "Knowledge-oriented systems"	||
+ ----------------------------------------------------
+This category contains only the following page. This list may not reflect recent changes.
+
+ -------
+|	K	|
+ -------
+Knowledge retrieval
+
+
+
+
+
+
+
+
+
+
+============================================
+<==>	Category:Knowledge management	<==>
+============================================
+https://en.wikipedia.org/wiki/Category:Knowledge_management
+
+The main article for this category is Knowledge management.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 10 subcategories, out of 10 total.
+
+ -------
+|	E	|
+ -------
+Evidence-based practices‎ (6 C, 49 P)
+
+ -------
+|	I	|
+ -------
+Industrial engineering‎ (12 C, 70 P)
+Knowledge industry‎ (10 C, 6 P)
+Intellectual capital‎ (6 C, 12 P)
+
+ -------
+|	K	|
+ -------
+Knowledge bases‎ (1 C, 23 P)
+Knowledge economy‎ (5 C, 26 P)
+Knowledge management journals‎ (1 C, 9 P)
+Knowledge-oriented systems‎ (6 C, 1 P)
+
+ -------
+|	P	|
+ -------
+Peer-to-peer‎ (8 C, 42 P)
+
+ -------
+|	R	|
+ -------
+Research‎ (26 C, 129 P)
+
+
+ ------------------------------------------------
+||	Pages in category "Knowledge management"	||
+ ------------------------------------------------
+The following 69 pages are in this category, out of 69 total. This list may not reflect recent changes.
+
+
+Knowledge management
+Knowledge management software
+
+ -------
+|	*	|
+ -------
+Archives management
+Ignorance management
+
+ -------
+|	A	|
+ -------
+ApexKB
+
+ -------
+|	B	|
+ -------
+Battle command
+
+ -------
+|	C	|
+ -------
+Harlan Cleveland
+Concept Searching Limited
+Corporate amnesia
+Corporate history
+Cynefin framework
+
+ -------
+|	D	|
+ -------
+Digital collaboration
+DIKW pyramid
+Duality (CoPs)
+
+ -------
+|	E	|
+ -------
+Elium
+
+ -------
+|	F	|
+ -------
+Flow (software)
+
+ -------
+|	H	|
+ -------
+Human Terrain System
+
+ -------
+|	I	|
+ -------
+I-Space (conceptual framework)
+Institutional memory
+Integration Objects
+Intellectual capital management
+
+ -------
+|	J	|
+ -------
+Anthony Judge
+
+ -------
+|	K	|
+ -------
+Knowledge ark
+Knowledge-based decision making
+Knowledge-based theory of the firm
+Knowledge broker
+Knowledge ecosystem
+Knowledge equity
+Knowledge inertia
+Knowledge balance sheet
+Knowledge market
+Knowledge organization (management)
+Knowledge organization system
+Knowledge policy
+Knowledge regime
+Knowledge spillover
+Knowledge value
+Knowledge-based engineering
+
+ -------
+|	L	|
+ -------
+Legal case management
+Legal matter management
+
+ -------
+|	M	|
+ -------
+Battle command knowledge system
+Multiple-classification ripple-down rules
+
+ -------
+|	N	|
+ -------
+National Centre for Science Information
+NGenera CIM
+Nuclear knowledge management
+NUSAP
+
+ -------
+|	O	|
+ -------
+Open Semantic Framework
+Oral debriefing
+Organizational memory
+
+ -------
+|	P	|
+ -------
+Personal knowledge management
+Personal wiki
+PolyAnalyst
+Process development execution system
+
+ -------
+|	q	|
+ -------
+Quality engineering
+
+ -------
+|	R	|
+ -------
+Records management taxonomy
+RIBA Knowledge Communities
+Ripple-down rules
+
+ -------
+|	S	|
+ -------
+SECI model of knowledge dimensions
+Semantic heterogeneity
+Dave Snowden
+Social forecasting
+Success trap
+
+ -------
+|	T	|
+ -------
+Tacit knowledge
+Tag management
+Tephritid Workers Database
+Teragram Corporation
+
+ -------
+|	V	|
+ -------
+VCX score
+
+ -------
+|	W	|
+ -------
+World café (conversation)
+
+ -------
+|	Z	|
+ -------
+Zettelkasten
+
+
+
+
+
+
+
+================================
+<==>	Category:Knowledge	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Knowledge
+
+The main article for this category is Knowledge.
+This category is often contrasted with Ignorance.
+See also the categories Belief and Justification (epistemology)
+
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 8 subcategories, out of 8 total.
+
+
+ -------
+|	D	|
+ -------
+Knowledge deities‎ (2 C, 5 P)
+
+ -------
+|	E	|
+ -------
+Epistemology‎ (13 C, 54 P)
+
+ -------
+|	I	|
+ -------
+Inquiry‎ (5 C, 20 P)
+
+ -------
+|	M	|
+ -------
+Knowledge management‎ (10 C, 69 P)
+
+ -------
+|	P	|
+ -------
+Procedural knowledge‎ (2 C, 11 P)
+
+ -------
+|	S	|
+ -------
+Sociology of knowledge‎ (9 C, 26 P)
+
+ -------
+|	T	|
+ -------
+Trivia‎ (2 C, 9 P)
+
+ -------
+|	W	|
+ -------
+Wisdom‎ (2 C, 15 P)
+
+
+ ------------------------------------
+||	Pages in category "Knowledge"	||
+ ------------------------------------
+The following 52 pages are in this category, out of 52 total. This list may not reflect recent changes.
+
+
+Knowledge
+
+ -------
+|	*	|
+ -------
+History of knowledge
+Outline of knowledge
+
+ -------
+|	C	|
+ -------
+Cognitive closure (philosophy)
+
+ -------
+|	D	|
+ -------
+Dispersed knowledge
+
+ -------
+|	E	|
+ -------
+Empirical knowledge
+Encyclopedic knowledge
+Episteme
+Epistemic privilege
+Experiential knowledge
+Expert
+Explicit knowledge
+
+ -------
+|	F	|
+ -------
+Faith literate
+Forbidden knowledge
+Functional illiteracy
+
+ -------
+|	G	|
+ -------
+General knowledge
+Gnosis
+Growth of knowledge
+
+ -------
+|	H	|
+ -------
+Half-life of knowledge
+
+ -------
+|	I	|
+ -------
+Inert knowledge
+Interactional expertise
+Interdisciplinarity
+Internet science
+Intertwingularity
+
+ -------
+|	J	|
+ -------
+Jñāna
+
+ -------
+|	K	|
+ -------
+Know thyself
+Knowledge environment
+
+ -------
+|	M	|
+ -------
+Manda (Mandaeism)
+Meta-functional expertise
+Metaknowledge
+Multidisciplinarity
+
+ -------
+|	N	|
+ -------
+Network of practice
+Non-science
+Noogony
+Numeracy
+
+ -------
+|	O	|
+ -------
+Obscurantism
+Observation
+Omniscience
+Open knowledge
+
+ -------
+|	P	|
+ -------
+Pantomath
+
+ -------
+|	R	|
+ -------
+Reason
+Remember versus know judgements
+
+ -------
+|	S	|
+ -------
+Sapiens dominabitur astris
+Scholar
+Scientia potentia est
+Self-knowledge (psychology)
+Skill
+Subject-matter expert
+Surprisingly popular
+
+ -------
+|	U	|
+ -------
+Understanding
+Unknowability
+
+ -------
+|	V	|
+ -------
+Vidya (philosophy)
+
+
+
+
+
+
+
+====================================
+<==>	Category:Mental content	<==>
+====================================
+https://en.wikipedia.org/wiki/Category:Mental_content
+
+The main article for this category is Mental content.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 6 subcategories, out of 6 total.
+
+
+ -------
+|	D	|
+ -------
+Dream‎ (8 C, 54 P)
+
+ -------
+|	K	|
+ -------
+Knowledge‎ (8 C, 52 P)
+
+ -------
+|	M	|
+ -------
+Memory‎ (9 C, 204 P)
+
+ -------
+|	P	|
+ -------
+Psyche‎ (1 C, 2 P)
+Psychological attitude‎ (16 C, 57 P)
+
+ -------
+|	S	|
+ -------
+Subjective experience‎ (1 C, 36 P)
+
+
+ ----------------------------------------
+||	Pages in category "Mental content"	||
+ ----------------------------------------
+The following 18 pages are in this category, out of 18 total. This list may not reflect recent changes.
+
+
+Mental content
+
+ -------
+|	C	|
+ -------
+Cartesian theater
+Cognitive module
+Concept
+
+ -------
+|	D	|
+ -------
+Declarative knowledge
+
+ -------
+|	E	|
+ -------
+Ecstasy (emotion)
+
+ -------
+|	I	|
+ -------
+Intellect
+Intuition
+
+ -------
+|	K	|
+ -------
+Knowledge
+
+ -------
+|	M	|
+ -------
+Mana (Mandaeism)
+Memetics
+Mental lexicon
+Mental operations
+Mental state
+Mental substance
+
+ -------
+|	N	|
+ -------
+Nous
+
+ -------
+|	T	|
+ -------
+Tabula rasa
+Thought
+
+
+
+
+
+============================
+<==>	Category:Mind	<==>
+============================
+https://en.wikipedia.org/wiki/Category:Mind
+
+Pages in this category should be moved to subcategories where applicable.
+This category may require frequent maintenance to avoid becoming too large.
+It should directly contain very few, if any, pages and should mainly contain subcategories.
+
+The main article for this category is Mind.
+This category is often contrasted with Brain.
+
+A mind is the set of cognitive faculties that enables consciousness, perception, thinking, judgement, and memory—a characteristic of humans, but which also may apply to other life forms.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 7 subcategories, out of 7 total.
+
+
+ -------
+|	C	|
+ -------
+Cognitive science‎ (23 C, 181 P)
+Mental content‎ (6 C, 18 P)
+
+ -------
+|	M	|
+ -------
+Mental health‎ (18 C, 54 P)
+Mental processes‎ (8 C, 32 P)
+Mental states‎ (6 C, 50 P)
+
+ -------
+|	P	|
+ -------
+Philosophy of mind‎ (12 C, 6 P)
+Psychology‎ (24 C, 15 P)
+
+
+ --------------------------------
+||	Pages in category "Mind"	||
+ --------------------------------
+This category contains only the following page. This list may not reflect recent changes.
+
+Mind
+
+
+
+
+
+
+
+============================
+<==>	Category:Brain	<==>
+============================
+https://en.wikipedia.org/wiki/Category:Brain
+
+The main article for this category is Brain.
+This category is often contrasted with Mind.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 12 subcategories, out of 12 total.
+
+
+ -------
+|	A	|
+ -------
+Brainstem‎ (4 C, 47 P)
+Ventricular system‎ (39 P)
+Cerebrum‎ (13 C, 81 P)
+
+ -------
+|	B	|
+ -------
+Brain asymmetry‎ (7 P)
+Brain disorders‎ (10 C, 63 P)
+
+ -------
+|	C	|
+ -------
+Cerebellum‎ (2 C, 41 P)
+
+ -------
+|	D	|
+ -------
+Brain dishes‎ (9 P)
+
+ -------
+|	F	|
+ -------
+Fiction about brain transplantation‎ (3 C, 17 P)
+
+ -------
+|	I	|
+ -------
+Individual human heads, skulls and brains‎ (28 P)
+People with brain injuries‎ (4 C, 11 P)
+
+ -------
+|	L	|
+ -------
+Limbic system‎ (5 C, 34 P)
+
+ -------
+|	M	|
+ -------
+Mind‎ (7 C, 1 P)
+
+
+ --------------------------------
+||	Pages in category "Brain"	||
+ --------------------------------
+The following 79 pages are in this category, out of 79 total. This list may not reflect recent changes.
+
+
+Outline of the human brain
+
+ -------
+|	A	|
+ -------
+ABCD Study
+Aging brain
+Artery of Percheron
+Artificial brain
+
+ -------
+|	B	|
+ -------
+Blood–brain barrier
+Brain
+Brain balls
+Brain death
+Outline of brain mapping
+Brain morphometry
+Brain simulation
+Brain size
+Brain–body interaction
+Brain-specific homeobox
+Brainwave entrainment
+
+ -------
+|	C	|
+ -------
+Cavum veli interpositi
+Cavum Vergae
+Cerebral blood volume
+Cerebral hemisphere
+Composition of the protocerebrum
+Corpora amylacea
+Critical brain hypothesis
+Czech Brain Ageing Study
+
+ -------
+|	D	|
+ -------
+Dorsal attention network
+Dorsal nexus
+Drosophila connectome
+
+ -------
+|	E	|
+ -------
+Effects of nicotine on human brain development
+Excerebration
+
+ -------
+|	F	|
+ -------
+False tagging theory
+Frontal lobe
+Frontoparietal network
+Functional specialization (brain)
+
+ -------
+|	G	|
+ -------
+Grid cell
+Gut–brain axis
+
+ -------
+|	H	|
+ -------
+Holonomic brain theory
+How to Create a Mind
+Human brain
+Human intelligence
+Hyperpallium
+
+ -------
+|	I	|
+ -------
+I-BrainTech
+INAH 3
+Brain damage
+The Institutes for the Achievement of Human Potential
+Interactive specialization
+Isolated brain
+
+ -------
+|	J	|
+ -------
+Jungian neuroscience
+
+ -------
+|	L	|
+ -------
+Large-scale brain network
+Lateralization of brain function
+List of regions in the human brain
+Lobes of the brain
+
+ -------
+|	M	|
+ -------
+Modality effect
+Models of consciousness
+Mouse brain
+
+ -------
+|	N	|
+ -------
+Nanoparticles for drug delivery to the brain
+Neomammalian brain
+Neural circuit reconstruction
+Neurogliaform cell
+Neuronal sprouting
+Neuroplasticity
+
+ -------
+|	O	|
+ -------
+Occipital face area
+
+ -------
+|	P	|
+ -------
+Parental brain
+Phonetotopy
+Pons
+Posterior commissure
+
+ -------
+|	R	|
+ -------
+Reissner's fiber
+
+ -------
+|	S	|
+ -------
+Salience network
+Sensorimotor network
+Septum verum
+Split-brain
+Subarachnoidal lymphatic-like membrane
+
+ -------
+|	T	|
+ -------
+Talairach coordinates
+Temporal lobe
+Ten percent of the brain myth
+Tentorial notch
+
+ -------
+|	V	|
+ -------
+Ventricular system
+Visual word form area
+
+ -------
+|	W	|
+ -------
+Wetware (brain)
+
+ -------
+|	Y	|
+ -------
+Yakovlevian torque
+
+
+
+
+
+
+================================
+<==>	Category:Cognition	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Cognition
+
+The main article for this category is Cognition.
+
+Cognition is "the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses".
+It encompasses processes such as knowledge, attention, memory and working memory, judgment and evaluation, reasoning and "computation",
+problem solving and decision making, comprehension and production of language.
+
+Human cognition is conscious and unconscious, concrete or abstract, as well as intuitive (like knowledge of a language) and conceptual (like a model of a language).
+Cognitive processes use existing knowledge and generate new knowledge.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 29 subcategories, out of 29 total.
+
+ -------
+|	A	|
+ -------
+Animal cognition‎ (7 C, 38 P)
+Attention‎ (2 C, 77 P)
+
+ -------
+|	B	|
+ -------
+Books about cognition‎ (21 P)
+
+ -------
+|	C	|
+ -------
+Cognitive biases‎ (2 C, 254 P)
+Cognitive disorders‎ (4 C, 38 P)
+Cognitive dissonance‎ (1 C, 18 P)
+Cognitive ergonomics‎ (3 P)
+Creativity‎ (16 C, 40 P)
+
+ -------
+|	E	|
+ -------
+Enactive cognition‎ (26 P)
+
+ -------
+|	F	|
+ -------
+Fiction about sentient objects‎ (7 C, 27 P)
+
+ -------
+|	H	|
+ -------
+Heuristics‎ (4 C, 76 P)
+
+ -------
+|	I	|
+ -------
+Intelligence‎ (10 C, 70 P)
+Interest (psychology)‎ (5 P)
+
+ -------
+|	K	|
+ -------
+Knowledge sharing‎ (8 C, 14 P)
+
+ -------
+|	L	|
+ -------
+Learning‎ (20 C, 168 P)
+
+ -------
+|	M	|
+ -------
+Mental content‎ (6 C, 18 P)
+Mental processes‎ (8 C, 32 P)
+Motivation‎ (9 C, 112 P)
+Music cognition‎ (2 C, 24 P)
+
+ -------
+|	N	|
+ -------
+Neural circuitry‎ (1 C, 35 P)
+
+ -------
+|	O	|
+ -------
+Observation‎ (16 C, 22 P)
+
+ -------
+|	P	|
+ -------
+Plant cognition‎ (29 P)
+Problem solving‎ (9 C, 47 P)
+Psycholinguistics‎ (10 C, 79 P)
+
+ -------
+|	R	|
+ -------
+Reasoning‎ (4 C, 69 P)
+
+ -------
+|	S	|
+ -------
+Spatial cognition‎ (1 C, 24 P)
+Strategy‎ (8 C, 32 P)
+Synesthesia‎ (31 P)
+
+ -------
+|	V	|
+ -------
+Visual thinking‎ (1 C, 13 P)
+
+
+ ------------------------------------
+||	Pages in category "Cognition"	||
+ ------------------------------------
+The following 200 pages are in this category, out of approximately 244 total. This list may not reflect recent changes.
+
+
+Cognition
+
+ -------
+|	A	|
+ -------
+A-not-B error
+Abstract and concrete
+Activist knowledge
+Adaptive reasoning
+Affect regulation
+Alexithymia
+Amodal perception
+Analysis of competing hypotheses
+Anecdotal cognitivism
+Anschauung
+Aphantasia
+Apperception
+Apprehension (understanding)
+Approach-avoidance conflict
+Augmented cognition
+Autonomous agent
+Awareness
+
+ -------
+|	B	|
+ -------
+Basic category
+Basking in reflected glory
+Behavioral script
+Ben Franklin effect
+Binaural fusion
+Binding problem
+Biological motion perception
+Bouma
+Bridge locus
+Business activity monitoring
+
+ -------
+|	C	|
+ -------
+Categorization
+The Centipede's Dilemma
+Certainty
+Chunking (psychology)
+Cognitive bias
+Cognitive biology
+Cognitive city
+Cognitive dissonance
+Cognitive ergonomics
+Cognitive holding power
+Cognitive impairment
+Cognitive load
+Cognitive miser
+Cognitive neuropsychology
+Cognitive polyphasia
+Cognitive psychology
+Cognitive shifting
+Cognitive shuffle
+Cognitive skill
+Cognitive strategy
+Cognitive style
+Cognitive styles analysis
+Cognitive synonymy
+Cognitivism (ethics)
+Comparative cognition
+Compartmentalization (psychology)
+Complex event processing
+Computational thinking
+Concept-driven strategy
+Conceptual space
+Conflict continuum
+Congruence bias
+Constructive developmental framework
+Constructive perception
+Contrast effect
+Countersignaling
+Covert facial recognition
+Creativity
+Cue validity
+Culture and social cognition
+
+ -------
+|	D	|
+ -------
+Dehaene–Changeux model
+Depressive realism
+Derailment (thought disorder)
+Diagrammatic reasoning
+Dichotic listening
+Dichotic listening test
+Discovery (observation)
+Dot-probe paradigm
+Dual process theory
+Duplex perception
+
+ -------
+|	E	|
+ -------
+East Pole–West Pole divide
+Ecstasy (emotion)
+Eidetic memory
+Embodied language processing
+Enclothed cognition
+Epistemic privilege
+État second
+Evolution of cognition
+Executive functions
+Experimental language
+Exploration-exploitation dilemma
+Eye contact effect
+
+ -------
+|	F	|
+ -------
+Face inversion effect
+Face perception
+Feature integration theory
+Field dependence
+Fragmentalism
+Functional fixedness
+Functionalism (philosophy of mind)
+
+ -------
+|	G	|
+ -------
+The Game (mind game)
+Generic views
+Gestaltzerfall
+Getting lost
+Global precedence
+Gnosology
+Graphical perception
+Gratitude trap
+
+ -------
+|	H	|
+ -------
+Hard–easy effect
+Hempel's dilemma
+Richards Heuer
+Hot and cold cognition
+Hyperphantasia
+
+ -------
+|	I	|
+ -------
+Idea
+Idea networking
+Ideasthesia
+Ideation (creative process)
+IKEA effect
+Illusory truth effect
+Imagination
+Infinity Walk
+Information integration theory
+Inhibitory control
+The Institute for Cultural Research
+Intellectual humility
+Intelligence (journal)
+Intelligence-based design
+Intentionality
+Interindividual differences in perception
+International Cognitive Linguistics Association
+International Social Cognition Network
+Interobject
+Introspection
+Intrusive thought
+Intuition
+Intuition and decision-making
+Ironic process theory
+
+ -------
+|	K	|
+ -------
+Kindness priming (psychology)
+Knowledge space
+
+ -------
+|	L	|
+ -------
+Language and spatial cognition
+Language and thought
+Language of thought hypothesis
+LC4MP
+Linguistic relativity
+Listening
+
+ -------
+|	M	|
+ -------
+Magical thinking
+Meaning (philosophy)
+Mental age
+Mental chronometry
+Mind–body problem
+Mind-wandering
+Model of hierarchical complexity
+Models of consciousness
+Modularity of mind
+Molecular cellular cognition
+Monotropism
+Motion perception
+Motivation
+Motivational salience
+Motor learning
+Motor planning
+
+ -------
+|	N	|
+ -------
+Negative priming
+Neural circuit
+Neural correlates of consciousness
+Neurobiological effects of physical exercise
+Neurocognition
+Neuroenhancement
+Neuroheuristics
+Non-Instrumental Movement Inhibition
+Numerical cognition
+Numerosity adaptation effect
+Nutrition and cognition
+
+ -------
+|	O	|
+ -------
+Object co-segmentation
+Object of the mind
+Object permanence
+Observation
+Orientation (mental)
+
+ -------
+|	P	|
+ -------
+Paradigm shift
+Parallel thinking
+Pattern recognition (psychology)
+Pavlovian-instrumental transfer
+Perspective-taking
+Polish Cognitive Linguistics Association
+Positivity effect
+Pre-attentive processing
+Predication (philosophy)
+Pretext
+Priming (psychology)
+Problem of universals
+Proportionality bias
+Psychology of programming
+Psychology of reasoning
+
+ -------
+|	Q	|
+ -------
+Qualia
+
+ -------
+|	R	|
+ -------
+Rational animal
+Recognition failure of recallable words
+Recognition-by-components theory
+Recognition-primed decision
+Reductionism
+Relational mobility
+Repetition blindness
+Representational momentum
+Role-taking theory
+
+ -------
+|	S	|
+ -------
+Sensory processing
+Sex differences in cognition
+Similarity (psychology)
+Situation awareness
+Size–weight illusion
+Social cognition
+Social cognitive theory
+Social information processing (cognition)
+Social thinking
+Spatial cognition
+Speech perception
+Speech shadowing
+State (computer science)
+Steering cognition
+Stream of consciousness (psychology)
+Structural functionalism
+
+ -------
+|	T	|
+ -------
+Target fixation
+Terror management theory
+Theory of narrative thought
+Thinking, Fast and Slow
+THOG problem
+Thought suppression
+Time perception
+Train of thought
+Transcognition
+
+ -------
+|	U	|
+ -------
+Uncertainty
+Unconscious cognition
+Understanding
+Unidirectional Data Flow (computer science)
+Universal law of generalization
+
+ -------
+|	V	|
+ -------
+Vantage theory
+Visual reasoning
+Visual temporal attention
+Visual temporal integration
+Visual thinking
+Visuospatial function
+Vividness of Visual Imagery Questionnaire
+Volition (psychology)
+
+ -------
+|	W	|
+ -------
+Wakefulness
+Wason selection task
+Watching-eye effect
+Westmead Post-Traumatic Amnesia Scale
+Wetware computer
+Wicked problem
+
+ -------
+|	Z	|
+ -------
+Zero-sum thinking
+
+
+
+
+
+
+
+================================
+<==>	Category:Thought	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Thought
+
+Thought is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Concepts akin to thought are cognition, sentience, consciousness, idea, and imagination.
+The main article for this category is Thought.
+See also: Functional neuroimaging
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 12 subcategories, out of 12 total.
+
+ -------
+|	*	|
+ -------
+Ignorance‎ (8 C, 38 P)
+
+ -------
+|	A	|
+ -------
+Abstraction‎ (8 C, 55 P)
+
+ -------
+|	C	|
+ -------
+Cognition‎ (29 C, 244 P)
+Critical thinking‎ (2 C, 21 P)
+
+ -------
+|	G	|
+ -------
+Games of mental skill‎ (15 C, 52 P)
+
+ -------
+|	I	|
+ -------
+Intellectualism‎ (4 C, 12 P)
+Intention‎ (4 C, 38 P)
+
+ -------
+|	M	|
+ -------
+Magical thinking‎ (12 P)
+
+ -------
+|	S	|
+ -------
+Schools of thought‎ (6 C, 7 P)
+
+ -------
+|	T	|
+ -------
+Thought disorders‎ (1 C, 8 P)
+Thought experiments‎ (3 C, 98 P)
+
+ -------
+|	V	|
+ -------
+Visual thinking‎ (1 C, 13 P)
+
+
+ --------------------------------
+||	Pages in category "Thought"	||
+ --------------------------------
+The following 41 pages are in this category, out of 41 total. This list may not reflect recent changes.
+
+
+Thought
+
+ -------
+|	.	|
+ -------
+Outline of thought
+
+ -------
+|	*	|
+ -------
+Wikipedia:Contents/Philosophy and thinking
+
+ -------
+|	A	|
+ -------
+Abstraction
+
+ -------
+|	C	|
+ -------
+Cognition
+Collective thinking
+Concept
+Creativity
+Critical thinking
+
+ -------
+|	D	|
+ -------
+Dianoia
+
+ -------
+|	E	|
+ -------
+Educational assessment
+Expectation (epistemic)
+
+ -------
+|	F	|
+ -------
+Figure of thought
+Freedom of thought
+Freethought
+
+ -------
+|	I	|
+ -------
+Ideosphere
+Imagined speech
+Inference
+Intellect
+Intellectual
+Intellectualism
+Intention
+Introspection
+
+ -------
+|	J	|
+ -------
+Judgement
+
+ -------
+|	L	|
+ -------
+Lateral thinking
+
+ -------
+|	N	|
+ -------
+Noosphere
+
+ -------
+|	P	|
+ -------
+Paradox
+Permanent brain
+Phonemic imagery
+Practical reason
+
+ -------
+|	Q	|
+ -------
+Qualia
+
+ -------
+|	R	|
+ -------
+Rethinking
+
+ -------
+|	S	|
+ -------
+Scholar
+Statistical thinking
+
+ -------
+|	T	|
+ -------
+Thinking, Fast and Slow
+Thought-action fusion
+Time perception
+Transcendence (philosophy)
+Trick question
+
+ -------
+|	U	|
+ -------
+Understanding
+
+ -------
+|	V	|
+ -------
+Vertical thinking
+
+
+
+
+
+
+========================================
+<==>	Category:Mental processes	<==>
+========================================
+https://en.wikipedia.org/wiki/Category:Mental_processes
+
+The main article for this category is Mental process.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 8 subcategories, out of 8 total.
+
+ -------
+|	C	|
+ -------
+Consciousness‎ (8 C, 119 P)
+Creativity‎ (16 C, 40 P)
+
+ -------
+|	G	|
+ -------
+Guessing‎ (1 C, 2 P)
+
+ -------
+|	I	|
+ -------
+Imagination‎ (5 C, 40 P)
+
+ -------
+|	M	|
+ -------
+Memory‎ (9 C, 204 P)
+
+ -------
+|	P	|
+ -------
+Perception‎ (19 C, 226 P)
+
+ -------
+|	T	|
+ -------
+Thought‎ (12 C, 41 P)
+
+ -------
+|	U	|
+ -------
+Unconscious‎ (1 C, 14 P)
+
+
+ --------------------------------------------
+||	Pages in category "Mental processes"	||
+ --------------------------------------------
+The following 32 pages are in this category, out of 32 total. This list may not reflect recent changes.
+
+ -------
+|	A	|
+ -------
+Ambidexterity
+Attention
+
+ -------
+|	C	|
+ -------
+Cognition
+Conatus
+Conceptual blending
+Consciousness
+Creativity
+
+ -------
+|	E	|
+ -------
+Ecstasy (emotion)
+État second
+
+ -------
+|	G	|
+ -------
+Guessing
+
+ -------
+|	H	|
+ -------
+Handedness
+Higher nervous activity
+Homeostatic feeling
+
+ -------
+|	I	|
+ -------
+Imagination
+Impulse (psychology)
+Intellect
+Intention
+Introspection
+
+ -------
+|	L	|
+ -------
+Lateral thinking
+Laterality
+
+ -------
+|	M	|
+ -------
+Meaning (philosophy)
+Memory
+Memory and retention in learning
+Models of consciousness
+
+ -------
+|	P	|
+ -------
+Point of view (philosophy)
+
+ -------
+|	Q	|
+ -------
+Qualia
+
+ -------
+|	S	|
+ -------
+Semantics (psychology)
+Social thinking
+Somnolence
+
+ -------
+|	T	|
+ -------
+Theory of narrative thought
+
+ -------
+|	U	|
+ -------
+Unconscious mind
+
+ -------
+|	W	|
+ -------
+Will (philosophy)
+
+
+
+
+
+
+
+================================================
+<==>	Category:Main topic classifications	<==>
+================================================
+https://en.wikipedia.org/wiki/Category:Main_topic_classifications
+
+This is a list of Wikipedia's major topic classifications.
+They are used throughout Wikipedia to organize the presentation of links to articles in its various reference systems, including Wikipedia's overviews, outlines, glossaries, lists, portals, indices, and categories.
+
+Overviews
+Outlines
+Lists
+Portals
+Glossaries
+Categories
+Vital articles
+Featured content
+Good articles
+Indices
+A–Z index
+Reference
+Culture
+Geography
+Health
+History
+Human activities
+Mathematics
+Nature
+People
+Philosophy
+Religion
+Society
+Technology
+
+
+The top level of Wikipedia's overall category system, including both articles and other project pages, is Category:Contents.
+
+NOTE: The purpose of this category is to group major topic classifications in one place, for greater ease and for reference of users and editors of Wikipedia.
+This category is not intended to adhere to some strictly hierarchical structure.
+
+Therefore, please do not remove entries from this category merely because they are subtopics of other entries here. Thank you.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 41 subcategories, out of 41 total.
+
+
+Main topic articles‎ (39 P)
+
+ -------
+|	A	|
+ -------
+Academic disciplines‎ (36 C, 50 P)
+
+ -------
+|	B	|
+ -------
+Business‎ (36 C, 20 P)
+
+ -------
+|	C	|
+ -------
+Communication‎ (12 C, 147 P)
+Concepts‎ (9 C, 7 P)
+Culture‎ (50 C, 50 P)
+
+ -------
+|	E	|
+ -------
+Economy‎ (21 C, 1 P)
+Education‎ (53 C, 16 P)
+Energy‎ (34 C, 39 P)
+Engineering‎ (22 C, 26 P)
+Entertainment‎ (50 C, 51 P)
+Entities‎ (8 C, 1 P)
+Ethics‎ (16 C, 13 P)
+
+ -------
+|	F	|
+ -------
+Food and drink‎ (49 C, 16 P)
+
+ -------
+|	G	|
+ -------
+Geography‎ (33 C, 55 P)
+Government‎ (72 C, 48 P)
+
+ -------
+|	H	|
+ -------
+Health‎ (42 C, 20 P)
+History‎ (25 C, 24 P)
+Human behavior‎ (40 C, 99 P)
+Humanities‎ (37 C, 38 P)
+
+ -------
+|	I	|
+ -------
+Information‎ (29 C, 40 P)
+Internet‎ (27 C, 19 P)
+
+ -------
+|	K	|
+ -------
+Knowledge‎ (8 C, 52 P)
+
+ -------
+|	L	|
+ -------
+Language‎ (35 C, 56 P)
+Law‎ (38 C, 5 P)
+Life‎ (16 C, 6 P)
+Lists‎ (33 C, 3 P)
+
+ -------
+|	M	|
+ -------
+Mass media‎ (47 C, 57 P)
+Mathematics‎ (25 C, 4 P)
+Military‎ (40 C, 14 P)
+
+ -------
+|	N	|
+ -------
+Nature‎ (21 C, 21 P)
+
+ -------
+|	P	|
+ -------
+People‎ (34 C, 3 P)
+Philosophy‎ (14 C, 2 P)
+Politics‎ (47 C, 84 P)
+
+ -------
+|	R	|
+ -------
+Religion‎ (35 C, 31 P)
+
+ -------
+|	S	|
+ -------
+Science‎ (36 C, 2 P)
+Society‎ (51 C, 22 P)
+Sports‎ (52 C, 5 P)
+
+ -------
+|	T	|
+ -------
+Technology‎ (39 C, 27 P)
+Time‎ (46 C, 56 P)
+
+ -------
+|	U	|
+ -------
+Universe‎ (5 C, 2 P)
+
+
+
+
+
+
+
+================================
+<==>	Category:Articles	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Articles
+
+For articles outside of Wikipedia, see Category:Academic journal articles, Category:Magazine articles, and Category:Headlines.
+
+This is a maintenance category, used for maintenance of the Wikipedia project. It is not part of the encyclopedia and contains non-article pages, or groups articles by status rather than subject.
+Do not include this category in content categories.
+This is a container category. Due to its scope, it should only contain subcategories.
+
+This is the highest-level category for all articles in Wikipedia. Articles do not appear in this category directly, but at lower levels in its hierarchy of subcategories.
+
+It should be possible to reach any article or category through this system under Category:Main topic classifications.
+This begins with a large number of thematic classifications, reflecting different fields of knowledge.
+
+For alternative top-level entry points for browsing Wikipedia, see Wikipedia:Contents.
+For pages under construction that are not yet articles, see Category:Wikipedia workpages.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 13 subcategories, out of 13 total.
+
+
+Main topic classifications‎ (41 C)
+
+ -------
+|	A	|
+ -------
+Articles created by bots‎ (1 C)
+
+ -------
+|	B	|
+ -------
+Broad-concept articles‎ (102 P)
+
+ -------
+|	C	|
+ -------
+Wikipedia controversial topics‎ (3 C, 3,777 P)
+
+ -------
+|	F	|
+ -------
+Featured articles‎ (6,498 P)
+
+ -------
+|	G	|
+ -------
+Good articles‎ (39,694 P)
+
+ -------
+|	L	|
+ -------
+Articles linked from high traffic sites‎ (495 P)
+Wikipedia article lists‎ (9 C, 67 P)
+Lists of popular pages by WikiProject‎ (1,027 P)
+
+ -------
+|	P	|
+ -------
+Wikipedia articles published in peer-reviewed literature‎ (10 C, 79 P)
+
+ -------
+|	R	|
+ -------
+Wikipedia requested articles‎ (6 C, 201 P)
+
+ -------
+|	T	|
+ -------
+Article talk namespace‎ (1 C)
+
+ -------
+|	W	|
+ -------
+WikiProject Short descriptions‎ (9 C, 41 P)
+
+ ------------------------------------
+||	Pages in category "Articles"	||
+ ------------------------------------
+The following 6 pages are in this category, out of 6 total. This list may not reflect recent changes.
+
+ -------
+|	*	|
+ -------
+Wikipedia:What is an article?
+
+ -------
+|	A	|
+ -------
+Wikipedia:Articles with the most references
+
+ -------
+|	F	|
+ -------
+Wikipedia:Featured articles
+
+ -------
+|	M	|
+ -------
+Wikipedia:Milestone articles
+
+ -------
+|	P	|
+ -------
+Wikipedia:Popular pages
+
+ -------
+|	W	|
+ -------
+Wikipedia:Wikipedia's oldest articles
+
+
+
+
+
+================================
+<==>	Category:Contents	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Contents
+
+This is a maintenance category, used for maintenance of the Wikipedia project.
+It is not part of the encyclopedia and contains non-article pages, or groups articles by status rather than subject.
+Do not include this category in content categories.
+
+This is a container category. Due to its scope, it should only contain subcategories.
+
+
+For an overview of the content of Wikipedia, see Wikipedia:Contents.
+See also: Category:Wikipedia pageviews, Category:Wikipedia navigation, and Category:Wikipedia administration
+
+This is the top level of Wikipedia's category system (which is why it has no parent category).
+Its subcategories contain various types of encyclopaedic content (i.e. articles), content that assists with the navigation of the encyclopaedia (e.g. portals), as well as pages related to maintaining and collaborating on the encyclopaedia (e.g. Wikipedia administration and WikiProjects).
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 6 subcategories, out of 6 total.
+
+ -------
+|	A	|
+ -------
+Wikipedia administration‎ (31 C, 9 P)
+Articles‎ (13 C, 6 P)
+
+ -------
+|	D	|
+ -------
+Wikipedia drafts‎ (11 C, 18 P)
+
+ -------
+|	F	|
+ -------
+Featured content‎ (5 C)
+
+ -------
+|	H	|
+ -------
+Help‎ (2 C, 4 P)
+
+ -------
+|	N	|
+ -------
+Wikipedia navigation‎ (10 C, 3 P)
+
+
+
+
+
+
+
+================================
+<==>	Category:Reality	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Reality
+
+The main article for this category is Reality.
+Articles related to reality, the sum or aggregate of all that is real or existent, as opposed to that which is only imaginary.
+The term is also used to refer to the ontological status of things, indicating their existence.
+
+Reality is often contrasted with language, concepts, and qualia.
+
+ "reality | Definition of reality in English by Oxford Dictionaries". Oxford Dictionaries | English. Retrieved 2017-10-28.
+
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 3 subcategories, out of 3 total.
+
+
+Reality by type‎ (4 C, 6 P)
+
+ -------
+|	N	|
+ -------
+Nonexistent things‎ (5 C, 5 P)
+
+ -------
+|	R	|
+ -------
+Realism‎ (2 C, 3 P)
+
+ --------------------------------
+||	Pages in category "Reality"	||
+ --------------------------------
+
+Reality
+
+ -------
+|	A	|
+ -------
+Abstract object theory
+
+ -------
+|	B	|
+ -------
+Blind men and an elephant
+Reality in Buddhism
+
+ -------
+|	C	|
+ -------
+Consensus reality
+
+ -------
+|	D	|
+ -------
+Decoding Reality
+Dream argument
+
+ -------
+|	E	|
+ -------
+Existence
+
+ -------
+|	I	|
+ -------
+Interpretations of quantum mechanics
+
+ -------
+|	L	|
+ -------
+Lila (Hinduism)
+
+ -------
+|	M	|
+ -------
+Many-worlds interpretation
+Metaphysical necessity
+
+ -------
+|	N	|
+ -------
+Nonexistent objects
+
+ -------
+|	R	|
+ -------
+Real life
+Reality tunnel
+
+ -------
+|	S	|
+ -------
+State of affairs (philosophy)
+
+ -------
+|	T	|
+ -------
+Time
+Truth
+
+ -------
+|	V	|
+ -------
+Virtuality (philosophy)
+
+
+ -----------------------------------------------------------
+|	Category: Ontology										|
+|	Hidden category: Commons category link is on Wikidata	|
+ -----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+============================================
+<==>	Category:Human communication	<==>
+============================================
+https://en.wikipedia.org/wiki/Category:Human_communication
+
+The main article for this category is Human communication.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 39 subcategories, out of 39 total.
+
+ -------
+|	C	|
+ -------
+Collaboration‎ (26 C, 122 P)
+Communication theory‎ (6 C, 113 P)
+Communication with dead people‎ (1 C, 1 P)
+Communications by continent‎ (11 C)
+Communications by country‎ (214 C, 3 P)
+Confession‎ (3 C, 2 P)
+
+ -------
+|	D	|
+ -------
+Communication disorders‎ (9 C, 49 P)
+
+ -------
+|	E	|
+ -------
+Error‎ (22 C, 113 P)
+Exhibitions‎ (15 C, 44 P)
+
+ -------
+|	G	|
+ -------
+General semantics‎ (27 P)
+
+ -------
+|	H	|
+ -------
+Human voice‎ (11 C, 62 P)
+Human–computer interaction‎ (25 C, 254 P)
+Human–machine interaction‎ (4 C, 25 P)
+
+ -------
+|	I	|
+ -------
+Interactivity‎ (7 C, 4 P)
+Interpersonal communication‎ (2 C, 62 P)
+Interrogative words and phrases‎ (2 C, 12 P)
+Intrapersonal communication‎ (2 P)
+Irony‎ (2 C, 16 P)
+
+ -------
+|	J	|
+ -------
+Journalism‎ (29 C, 94 P)
+
+ -------
+|	L	|
+ -------
+Language‎ (34 C, 57 P)
+Language disorders‎ (1 C, 22 P)
+
+ -------
+|	M	|
+ -------
+Mass media‎ (47 C, 58 P)
+Meetings‎ (20 C, 89 P)
+
+ -------
+|	N	|
+ -------
+Neuro-linguistic programming‎ (2 C, 5 P)
+Nonverbal communication‎ (6 C, 55 P)
+
+ -------
+|	O	|
+ -------
+Oral communication‎ (15 C, 53 P)
+
+ -------
+|	P	|
+ -------
+Parting traditions‎ (2 C, 12 P)
+People in communication occupations‎ (7 C)
+Prayer‎ (13 C, 69 P)
+Propaganda‎ (13 C, 55 P)
+
+ -------
+|	S	|
+ -------
+Sign systems‎ (5 C, 15 P)
+Social networks‎ (16 C, 125 P)
+Speech‎ (11 C, 29 P)
+Human communication by subject‎ (6 C)
+
+ -------
+|	T	|
+ -------
+Teaching‎ (7 C, 88 P)
+Telepathy‎ (3 C, 13 P)
+Time capsules‎ (2 C, 45 P)
+Tradition‎ (8 C, 14 P)
+
+ -------
+|	W	|
+ -------
+Writing‎ (39 C, 186 P)
+
+
+ --------------------------------------------
+||	Pages in category "Human communication"	||
+ --------------------------------------------
+The following 152 pages are in this category, out of 152 total. This list may not reflect recent changes.
+
+
+Human communication
+
+ -------
+|	A	|
+ -------
+A-not-A question
+Adaptive autonomy
+Adjacency pairs
+Ambiguity tolerance–intolerance
+Anade
+Apology (act)
+Applause
+Articulatory gestures
+Audience reception
+
+ -------
+|	B	|
+ -------
+Barnlund's model of communication
+Basic interpersonal communicative skills
+Behavioral communication
+Bias-free communication
+BLUF (communication)
+Body-to-body communication
+Booing
+Bottling (concert abuse)
+Branding national myths and symbols
+Business communication
+
+ -------
+|	C	|
+ -------
+Calculus of concepts
+Care perspective
+Cascade Model of Relational Dissolution
+Chew the fat
+Clapping
+Closed-loop communication
+Cluttering
+Code-mixing
+Cognitive complexity
+Collapsing sequence
+Committee
+Communibiology
+Communication ethics
+Communication for Development
+Communication for social change
+Communication in small groups
+Communication noise
+Communication quotient
+Communication rights
+Complaining
+Comprehensive model of information seeking
+Concreteness
+Confession
+Council circle
+Cross-cultural communication
+Cued speech
+Cultural competence
+Cultural learning
+Cursor (user interface)
+
+ -------
+|	D	|
+ -------
+Difference theory
+Discussion group
+Diversity Icebreaker
+Double empathy problem
+Double-swing model
+
+ -------
+|	E	|
+ -------
+Echo answer
+Echo subject
+Ecolinguistics
+Emotional competence
+Error
+Ethical persuasion
+Expatriate social capital
+
+ -------
+|	F	|
+ -------
+Face (sociological concept)
+Filled pause
+Filler (linguistics)
+Functional attitude theory
+Fundamental interpersonal relations orientation
+
+ -------
+|	G	|
+ -------
+Gatekeeping (communication)
+Gaze
+Gibb categories
+Global Language Monitor
+Gossip
+Grounding in communication
+Group development
+
+ -------
+|	H	|
+ -------
+Head bobble
+Heckler
+Hockett's design features
+Holding hands
+Human–machine system
+Human–robot interaction
+
+ -------
+|	I	|
+ -------
+I-message
+Intercomprehension
+Intercultural communication
+Intercultural communication principles
+International auxiliary language
+International communication
+Interpersonal communication
+Intrapersonal communication
+
+ -------
+|	J	|
+ -------
+Jewish-Palestinian Living Room Dialogue Group
+
+ -------
+|	K	|
+ -------
+Kentish fire
+
+ -------
+|	L	|
+ -------
+Language
+Large-group communication
+Linguistic ecology
+Lip reading
+LogoVisual thinking
+Lombard effect
+
+ -------
+|	M	|
+ -------
+Manual communication
+Mee-mawing
+Message stick
+Meta-discussion
+Milieu control
+Mirroring
+Miscommunication
+Models of communication
+Mondialogo
+
+ -------
+|	N	|
+ -------
+Namaste
+Narrative communication
+News
+Nonviolent Communication
+
+ -------
+|	O	|
+ -------
+Omotenashi
+Ostension
+Othello error
+Outline of communication
+
+ -------
+|	P	|
+ -------
+Paralanguage
+Perspective-taking
+Persuasive technology
+Pickup artist
+Point of contact
+Poole's multiple sequence model
+Public
+
+ -------
+|	Q	|
+ -------
+Qualitative Research Reports in Communication
+Question
+Quotation
+
+ -------
+|	R	|
+ -------
+Rapport
+Reflective listening
+Relevance theory
+Rumor
+
+ -------
+|	S	|
+ -------
+Schramm's model of communication
+Shrug
+Simple task-actor protocol
+Social constructionism
+Social skills
+Source–message–channel–receiver model of communication
+Standing ovation
+Structural differential
+Subvocal recognition
+Subvocalization
+Supportive communication
+Symbolic behavior
+
+ -------
+|	T	|
+ -------
+Tadoma
+Thinking environment
+Touching heads
+Two-way communication
+
+ -------
+|	U	|
+ -------
+U and non-U English
+Unconscious communication
+Unsaid
+User interface
+
+ -------
+|	V	|
+ -------
+Visual language
+
+ -------
+|	W	|
+ -------
+Wallflower (people)
+Welcome
+World Congress on Communication for Development
+Writing
+
+ -------
+|	Y	|
+ -------
+Yale attitude change approach
+
+
+
+
+
+
+====================================
+<==>	Category:Human behavior	<==>
+====================================
+https://en.wikipedia.org/wiki/Category:Human_behavior
+
+The main article for this category is Human behavior.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 40 subcategories, out of 40 total.
+
+
+People by behavior‎ (40 C, 1 P)
+
+ -------
+|	A	|
+ -------
+Abuse‎ (22 C, 169 P)
+Anti-social behaviour‎ (6 C, 44 P)
+Applied ethics‎ (9 C, 29 P)
+
+ -------
+|	B	|
+ -------
+Behavior modification‎ (10 C, 69 P)
+Behavioral finance‎ (1 C, 68 P)
+
+ -------
+|	C	|
+ -------
+Communication theory‎ (6 C, 113 P)
+Competition‎ (8 C, 27 P)
+Conflict (process)‎ (20 C, 43 P)
+Consumer behaviour‎ (6 C, 83 P)
+Creativity‎ (16 C, 40 P)
+
+ -------
+|	D	|
+ -------
+Deception‎ (42 C, 256 P)
+Man-made disasters‎ (32 C, 7 P)
+
+ -------
+|	E	|
+ -------
+Eating behaviors of humans‎ (11 C, 32 P)
+Eccentricity (behavior)‎ (1 C, 13 P)
+Emotion‎ (13 C, 137 P)
+Etiquette‎ (12 C, 91 P)
+
+ -------
+|	H	|
+ -------
+Habits‎ (5 C, 30 P)
+Human activities‎ (38 C, 8 P)
+Human communication‎ (39 C, 152 P)
+Human sexuality‎ (40 C, 113 P)
+Human–machine interaction‎ (4 C, 25 P)
+
+ -------
+|	I	|
+ -------
+Incompetence‎ (13 P)
+Interpersonal relationships‎ (22 C, 255 P)
+
+ -------
+|	K	|
+ -------
+Kindness‎ (21 P)
+Kinship and descent‎ (17 C, 115 P)
+
+ -------
+|	M	|
+ -------
+Mental disorders‎ (12 C, 32 P)
+Motivation‎ (9 C, 112 P)
+
+ -------
+|	N	|
+ -------
+Narcissism‎ (7 C, 121 P)
+
+ -------
+|	O	|
+ -------
+Opportunism‎ (1 C, 11 P)
+Organizational behavior‎ (5 C, 76 P)
+
+ -------
+|	P	|
+ -------
+Personal development‎ (19 C, 94 P)
+Personality‎ (11 C, 54 P)
+Human positions‎ (15 C, 60 P)
+Problem behavior‎ (8 C, 22 P)
+
+ -------
+|	R	|
+ -------
+Religious practices‎ (25 C, 69 P)
+Ritual‎ (9 C, 39 P)
+Role-playing‎ (3 C, 16 P)
+
+ -------
+|	S	|
+ -------
+Spirituality‎ (35 C, 89 P)
+
+ -------
+|	V	|
+ -------
+Violence‎ (50 C, 100 P)
+
+
+ ----------------------------------------
+||	Pages in category "Human behavior"	||
+ ----------------------------------------
+The following 99 pages are in this category, out of 99 total. This list may not reflect recent changes.
+
+
+Human behavior
+
+ -------
+|	A	|
+ -------
+Adaptive behavior
+Alloplastic adaptation
+Animal spirits (Keynes)
+Antilocution
+Assertiveness
+Attention seeking
+Attitude change
+Autoplastic adaptation
+Avoidance coping
+
+ -------
+|	B	|
+ -------
+Behavior change (individual)
+Behavior change (public health)
+Behavioral change support system
+Behavioral confirmation
+Behavioral contagion
+Behavioral ethics
+Behavioral urbanism
+Behavioural archaeology
+
+ -------
+|	C	|
+ -------
+Chocoholic
+Civil inattention
+Communal coping
+Competence (polyseme)
+Coping
+Coping planning
+
+ -------
+|	D	|
+ -------
+Deception
+Denunciation
+Description error
+Civilian victimization
+Disinhibition
+Distraction
+Dropping out
+Dual loyalty
+
+ -------
+|	E	|
+ -------
+Eccentricity (behavior)
+The Elephant in the Brain
+Entomophagy in humans
+
+ -------
+|	F	|
+ -------
+Functional Ensemble of Temperament
+
+ -------
+|	G	|
+ -------
+Gunslinger's gait
+
+ -------
+|	H	|
+ -------
+Hawthorne effect
+Health action process approach
+Human nature
+
+ -------
+|	I	|
+ -------
+Idleness
+Information behavior
+Intelligent disobedience
+Interactionism (nature versus nurture)
+Irrationality
+
+ -------
+|	J	|
+ -------
+Jeitinho
+User:JRBusk/sandbox
+
+ -------
+|	L	|
+ -------
+Laziness
+Loner
+
+ -------
+|	M	|
+ -------
+Misanthropy
+Mockery
+Behavioral modernity
+
+ -------
+|	N	|
+ -------
+Nature Human Behaviour
+Nature versus nurture
+Neanderthal behavior
+Neophobia
+Normality (behavior)
+Normative social influence
+
+ -------
+|	O	|
+ -------
+Obedience (human behavior)
+Obfuscation
+Obstructionism
+Opportunism
+
+ -------
+|	P	|
+ -------
+Passive-aggressive behavior
+Pedant
+Personal advertisement
+Personal initiative
+Pet humanization
+Pet peeve
+Popularity
+
+ -------
+|	R	|
+ -------
+Respect
+
+ -------
+|	S	|
+ -------
+Sadfishing
+Safety behaviors (anxiety)
+Selective eating
+Self-actualization
+Social constructionism
+Social contagion
+Social influences on fitness behavior
+Social loafing
+Social proof
+Spotlight effect
+Staring
+Stonewalling
+Superficial charm
+Sycophancy
+
+ -------
+|	T	|
+ -------
+Taunting
+Teasing
+Tend and befriend
+Token resistance
+Turncoat
+
+ -------
+|	U	|
+ -------
+Uncle Tom syndrome
+
+ -------
+|	V	|
+ -------
+Venality
+Victim blaming
+Violence
+
+ -------
+|	W	|
+ -------
+Widowhood effect
+Witching hour
+Work behavior
+Working memory
+Workplace deviance
+
+ -------
+|	Y	|
+ -------
+Yale attitude change approach
+
+
+ ---------------------------------------------------------------------------------------------------------------------------------------------------
+|	Categories: Main topic classifications	|	Primate behavior	|	Humans	|	Behavior														|
+|	Hidden categories: Commons category link from Wikidata	|	Template Category TOC via Automatic category TOC on category with 101–200 pages		|
+|	|	Automatic category TOC generates standard Category TOC																						|
+ ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+============================
+<==>	Category:Tools	<==>
+============================
+https://en.wikipedia.org/wiki/Category:Tools
+
+The category of tools includes physical tools such as hammers, as well as tools for more abstract processes, e.g., Category:Mathematical tools.
+Most of the articles will reside in subcategories for the different classes of tools.
+
+The main article for this category is Tool.
+See also: Category:Mechanisms (engineering)
+
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 53 subcategories, out of 53 total.
+
+Tools by location‎ (5 C)
+Tools by power‎ (3 C)
+
+ -------
+|	*	|
+ -------
+Tool manufacturers‎ (16 C, 5 P)
+
+ -------
+|	A	|
+ -------
+Adhesive tape‎ (1 C, 37 P)
+Advertising tools‎ (2 C, 22 P)
+Alchemical tools‎ (11 P)
+Assistive technology‎ (22 C, 160 P)
+Automotive tools‎ (1 C, 7 P)
+
+ -------
+|	B	|
+ -------
+Bicycle tools‎ (1 C, 10 P)
+Biological techniques and tools‎ (15 C, 83 P)
+
+ -------
+|	C	|
+ -------
+Checklists‎ (1 C, 13 P)
+Cleaning tools‎ (3 C, 62 P)
+Containers‎ (33 C, 225 P)
+Cutting tools‎ (11 C, 55 P)
+
+ -------
+|	D	|
+ -------
+Domestic implements‎ (22 C, 86 P)
+
+ -------
+|	E	|
+ -------
+Educational devices‎ (7 P)
+Electrical construction tools‎ (3 P)
+Electronics work tools‎ (21 P)
+
+ -------
+|	F	|
+ -------
+Farming tools‎ (4 C, 25 P)
+Filters‎ (4 C, 55 P)
+Firefighter tools‎ (14 P)
+Food preparation utensils‎ (9 C, 115 P)
+Forestry tools‎ (2 C, 42 P)
+
+ -------
+|	G	|
+ -------
+Gardening tools‎ (5 C, 66 P)
+Glazier's tools‎ (2 P)
+
+ -------
+|	H	|
+ -------
+Home appliances‎ (14 C, 68 P)
+Human–machine interaction‎ (4 C, 25 P)
+
+ -------
+|	I	|
+ -------
+Instruments of torture‎ (6 C, 15 P)
+
+ -------
+|	K	|
+ -------
+Kitchenware‎ (12 C, 56 P)
+
+ -------
+|	L	|
+ -------
+Tool libraries‎ (12 P)
+Lifting equipment‎ (1 C, 27 P)
+Lithics‎ (5 C, 116 P)
+
+ -------
+|	M	|
+ -------
+Mathematical tools‎ (4 C, 39 P)
+Measuring instruments‎ (49 C, 374 P)
+Mechanisms (engineering)‎ (24 C, 77 P)
+Metalworking tools‎ (7 C, 49 P)
+
+ -------
+|	N	|
+ -------
+Nets (devices)‎ (2 C, 15 P)
+
+ -------
+|	P	|
+ -------
+Portable tools‎ (4 C, 3 P)
+Positioning instruments‎ (1 C, 11 P)
+Power tools‎ (4 C, 15 P)
+
+ -------
+|	S	|
+ -------
+Scientific instruments‎ (8 C, 35 P)
+Simple machines‎ (3 C, 19 P)
+Spinning tools‎ (1 C, 1 P)
+Stonemasonry tools‎ (1 C, 14 P)
+Surgical instruments‎ (7 C, 76 P)
+
+ -------
+|	T	|
+ -------
+Technical drawing tools‎ (22 P)
+Test equipment‎ (5 C, 20 P)
+Tools manufactured in the United States‎ (1 P)
+
+ -------
+|	W	|
+ -------
+Weapons‎ (58 C, 22 P)
+Whaling implements‎ (1 C, 6 P)
+Woodworking tools‎ (13 C, 25 P)
+Writing implements‎ (7 C, 51 P)
+
+ -------
+|	Σ	|
+ -------
+Tool stubs‎ (2 C, 298 P)
+
+ --------------------------------
+||	Pages in category "Tools"	||
+ --------------------------------
+The following 120 pages are in this category, out of 120 total. This list may not reflect recent changes.
+
+
+ -------
+|	A	|
+ -------
+Adaptive equipment
+Air line
+Antique tool
+
+ -------
+|	B	|
+ -------
+Bead breaker
+Bellows
+Blowtorch
+Butane torch
+
+ -------
+|	C	|
+ -------
+Car ramp
+Carpet stretcher
+Carrick Hill
+Chimney starter
+Churn drill
+Clipboard
+College Navigator
+Come-along
+Compactor
+Composing stick
+Concrete float
+Condensate polisher
+Corrosion monitoring
+
+ -------
+|	D	|
+ -------
+Damped machining tools
+Dog (engineering)
+Dredge drag head
+Drill
+Dry box
+
+ -------
+|	E	|
+ -------
+Electric charcoal starter
+Electrochemical cell
+ELITE SHARP CTT
+Emiran
+
+ -------
+|	F	|
+ -------
+Fid
+Fire iron
+Fixture (tool)
+Flat spline
+Flatbed trolley
+Flexible shaft
+Fourth hand (tool)
+
+ -------
+|	G	|
+ -------
+Gadget
+Gang box
+Gas burner
+Gin pole
+Glass breaker
+Grab (tool)
+Grapple (tool)
+Grattoir de côté
+Growler (electrical device)
+
+ -------
+|	H	|
+ -------
+Hakapik
+Hammer tacker
+Handle
+Heat torch
+Helping hand (tool)
+Hinge bender
+Hook
+Household hardware
+
+ -------
+|	I	|
+ -------
+In-water surface cleaning
+
+ -------
+|	J	|
+ -------
+Jim crow (tool)
+
+ -------
+|	K	|
+ -------
+Ksar Akil flake
+
+ -------
+|	L	|
+ -------
+Lesbian rule
+List of earliest tools
+Lithic technology
+Loggerhead (tool)
+Lunellum
+
+ -------
+|	M	|
+ -------
+Machine tool
+Melting tank
+Microblade technology
+
+ -------
+|	N	|
+ -------
+Nano-suction technology
+Needle threader
+
+ -------
+|	P	|
+ -------
+Pattern notcher
+Persian drill
+Photochemical action plots
+Pipe tool
+Plumett AL-52
+Pointing machine
+Post pounder
+Pottery gauge
+Pugmill
+
+ -------
+|	R	|
+ -------
+Reach extender
+Rotary transfer machine
+
+ -------
+|	S	|
+ -------
+Sand box (civil engineering)
+Scoubidou (tool)
+Scrubber (brush)
+Seam ripper
+Self-sealing suction cup
+Shadoof
+Shadow board
+Shell tools in the Philippines
+Shoulder dolly
+Siphon
+Sleep–wake activity inventory
+Spin disk
+Stepped stone adze
+Stone tool
+Storey pole
+Suction cup
+Suction trap
+Sylphon
+
+ -------
+|	T	|
+ -------
+Tamper (tool)
+Time pressure gauge
+Tine (structural)
+Tongs
+Tool
+Tool board
+Tools and Trades History Society
+Top (tool)
+Tracing wheel
+Tree planting bar
+Tripod
+
+ -------
+|	U	|
+ -------
+Ultrasonic nozzle
+Upholstery regulator
+
+ -------
+|	V	|
+ -------
+Vogelheimer Klinge
+
+ -------
+|	W	|
+ -------
+Walking stick
+Wallpaper steamer
+Water thief
+Webbing stretcher
+Wedge
+Wells light
+Wheel chock
+Whiskey thief
+Wire brush
+Wireline (cabling)
+Wrecking ball
+
+
+
+
+
+
+
+
+================================
+<==>	Category:Machines	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Machines
+
+The main article for this category is Machines.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 27 subcategories, out of 27 total.
+
+ -------
+|	A	|
+ -------
+Amusement rides‎ (15 C, 56 P)
+
+ -------
+|	C	|
+ -------
+Clocks‎ (15 C, 82 P)
+Commercial machines‎ (4 C, 23 P)
+Cutting machines‎ (21 P)
+
+ -------
+|	E	|
+ -------
+Electrical generators‎ (6 C, 71 P)
+Engines‎ (33 C, 68 P)
+Euthanasia device‎ (4 P)
+
+ -------
+|	H	|
+ -------
+Hardware (mechanical)‎ (16 C, 42 P)
+Home appliances‎ (14 C, 68 P)
+Human–machine interaction‎ (4 C, 25 P)
+
+ -------
+|	K	|
+ -------
+Karakuri‎ (4 P)
+Kinematics‎ (5 C, 38 P)
+
+ -------
+|	L	|
+ -------
+Lifting equipment‎ (1 C, 27 P)
+
+ -------
+|	M	|
+ -------
+Machinery‎ (8 C, 11 P)
+Mechanical computers‎ (2 C, 34 P)
+Mechanical musical instruments‎ (4 C, 34 P)
+Mechanical toys‎ (2 C, 17 P)
+Molecular machines‎ (1 C, 18 P)
+
+ -------
+|	P	|
+ -------
+Printing devices‎ (4 C, 21 P)
+
+ -------
+|	R	|
+ -------
+Robots‎ (36 C, 41 P)
+Rotating machines‎ (11 C, 10 P)
+Rotor machines‎ (1 C, 22 P)
+
+ -------
+|	S	|
+ -------
+Self-replicating machines‎ (1 C, 10 P)
+Sewing machines‎ (1 C, 22 P)
+Machine sex‎ (1 C, 8 P)
+Simple machines‎ (3 C, 19 P)
+
+ -------
+|	W	|
+ -------
+Woodworking machines‎ (1 C, 30 P)
+
+ ------------------------------------
+||	Pages in category "Machines"	||
+ ------------------------------------
+The following 62 pages are in this category, out of 62 total. This list may not reflect recent changes.
+
+
+Machine
+
+ -------
+|	A	|
+ -------
+Air bearing
+Anaesthetic machine
+Autopen
+
+ -------
+|	B	|
+ -------
+Bagel machine
+Bicycle tree
+Bin tipper
+Block and tackle
+Brewing equipment
+
+ -------
+|	D	|
+ -------
+Delivery Bar Code Sorter
+Demaco extruder
+Digifold
+Draw twister
+Dual quaternion
+Duplicating machines
+
+ -------
+|	E	|
+ -------
+Elastic and inelastic collisions apparatus
+Electric machine
+
+ -------
+|	F	|
+ -------
+Four-slide
+
+ -------
+|	G	|
+ -------
+Gas meter prover
+Glazing jack
+Graphotype (machine)
+Gunderson Do-All Machine
+
+ -------
+|	H	|
+ -------
+Handle-o-Meter
+Hydraulic modular trailer
+
+ -------
+|	L	|
+ -------
+List of largest machines
+Laying
+Lifting equipment
+Loom
+
+ -------
+|	M	|
+ -------
+Machine Age
+Machine element
+Mechanism (engineering)
+Machine industry
+Machine shop
+Machine tool
+Mechanical network
+Mechanical paradox
+Mechanophilia
+
+ -------
+|	O	|
+ -------
+Oil skimmer
+
+ -------
+|	P	|
+ -------
+Paper machine
+Paper-ruling machine
+Photostat machine
+
+ -------
+|	R	|
+ -------
+Record press
+Roof seamer
+Rotary transfer machine
+Rotary union
+
+ -------
+|	S	|
+ -------
+Screw axis
+Self-propelled modular transporter
+Self-replicating machine
+Sendzimir mill
+Shaft (mechanical engineering)
+Stall (engine)
+Stall torque
+Stenter
+Strand jack
+Surplus Record Machinery & Equipment Directory
+
+ -------
+|	T	|
+ -------
+Tablet press
+Tortilla machine
+Tunnel finisher
+Tunnel washer
+
+ -------
+|	U	|
+ -------
+Useless machine
+
+ -------
+|	W	|
+ -------
+Weight machine
+Winding machine
+
+
+ ---------------------------------------------------------------------------------------------------------------
+|	Categories: Technology systems	|	Mechanical engineering	|	Artificial objects	|	Physical systems	|
+|	Hidden category: Commons category link from Wikidata														|
+ ---------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+========================================
+<==>	Category:Literary theory	<==>
+========================================
+https://en.wikipedia.org/wiki/Category:Literary_theory
+
+See also: Category:Literary criticism
+The main article for this category is Literary theory.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 13 subcategories, out of 13 total.
+
+
+ -------
+|	A	|
+ -------
+Academic works about literary theory‎ (2 C, 1 P)
+
+ -------
+|	C	|
+ -------
+Comparative literature‎ (1 C, 12 P)
+Literary concepts‎ (6 C, 72 P)
+
+ -------
+|	E	|
+ -------
+Essays about literature‎ (5 C, 61 P)
+
+ -------
+|	L	|
+ -------
+Literary theorists‎ (3 C, 77 P)
+Literature about literature‎ (14 C, 17 P)
+
+ -------
+|	P	|
+ -------
+Parts of the narrative structure‎ (4 C, 1 P)
+Poetic forms‎ (6 C, 140 P)
+Literature about poetry‎ (2 C, 4 P)
+Postcolonial literature‎ (4 C, 56 P)
+
+ -------
+|	R	|
+ -------
+Romance (genre)‎ (7 C, 74 P)
+
+ -------
+|	T	|
+ -------
+Literary terminology‎ (9 C, 57 P)
+Terms in literary theory‎ (7 P)
+
+
+ ----------------------------------------
+||	Pages in category "Literary theory"	||
+ ----------------------------------------
+The following 76 pages are in this category, out of 76 total. This list may not reflect recent changes.
+
+
+Literary theory
+
+ -------
+|	A	|
+ -------
+Abhimāna
+Alankara Shastra
+Always already
+Architectures of Possibility
+Author function
+Authorial intent
+
+ -------
+|	C	|
+ -------
+The Cambridge Companion to Shakespeare's Poetry
+Chivalric romance
+Chronotope
+Cognitivism (aesthetics)
+Comics studies
+Critical lens
+Crowd scene
+
+ -------
+|	D	|
+ -------
+Darwinian literary studies
+Decorum
+Defamiliarization
+Descriptive poetics
+Dialogue (Bakhtin)
+Dionysian imitatio
+Dissociation of sensibility
+
+ -------
+|	E	|
+ -------
+The Eiffel Tower and Other Mythologies
+Encoding/decoding model of communication
+English studies
+
+ -------
+|	G	|
+ -------
+Genre fiction
+
+ -------
+|	H	|
+ -------
+Horizon of expectation
+
+ -------
+|	I	|
+ -------
+Iceberg theory
+Imitation (art)
+Indian aesthetics
+Infinite monkey theorem
+Interliterary theory
+
+ -------
+|	L	|
+ -------
+Leavisism
+Leopardian poetics
+Literariness
+Literary nominalism
+
+ -------
+|	M	|
+ -------
+Manasollasa
+Morphology (folkloristics)
+Moscow linguistic circle
+Mothers of the Novel: 100 Good Women Writers Before Jane Austen
+
+ -------
+|	N	|
+ -------
+Narrative consumption
+Natya Shastra
+Neo-Aristotelianism (literature)
+New Italian Epic
+Nivola
+
+ -------
+|	O	|
+ -------
+Objective correlative
+On the Sublime
+Open text
+
+ -------
+|	P	|
+ -------
+Parable of the Sunfish
+Paratext
+Persona
+Personification
+Postcritique
+Postmodern Metanarratives: Blade Runner and Literature in the Age of Image
+The Practice of Diaspora
+Protologism
+
+ -------
+|	R	|
+ -------
+Rasa (aesthetics)
+Reader-response criticism
+Reception theory
+Repetition (rhetorical device)
+Returning to Shakespeare
+
+ -------
+|	S	|
+ -------
+Sardinian Literary Spring
+Scientific Study of Literature
+Shakespeare: The Critical Heritage
+Shanta Rasa
+Sthayibhava
+Story structure
+Subaltern (postcolonialism)
+
+ -------
+|	T	|
+ -------
+Glossary of literary terms
+Text (literary theory)
+Thing theory
+Transcendental homelessness
+Tulsa Studies in Women's Literature
+Type scene
+
+ -------
+|	U	|
+ -------
+Ut pictura poesis
+
+ -------
+|	W	|
+ -------
+White gaze
+Women's writing (literary category)
+
+
+
+
+
+
+
+================================
+<==>	Category:Literature	<==>
+================================
+The main article for this category is Literature.
+
+																 -----------------------		 -------------------------------------------
+																|	Literature portal	|		|			Library cataloging				|
+																 -----------------------		|			and classification				|
+																								|-------------------------------------------|
+																								|	main topic				literature		|
+																								|	Colon					O				| 
+																								|	Dewey Decimal			800				|
+																								|	Library of Congress		P				|
+																								|	Universal Decimal		82				|
+																								 -------------------------------------------
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 57 subcategories, out of 57 total.
+
+
+Literature by language‎ (127 C, 49 P)
+Literature by location‎ (6 C)
+Literature by source‎ (7 C)
+Literature by topic‎ (30 C, 14 P)
+Literature by ethnicity‎ (23 C, 16 P)
+Literature by form‎ (10 C)
+Literature by genre‎ (80 C, 1 P)
+Literature by medium‎ (26 C)
+Literature by period‎ (23 C)
+
+ -------
+|	_	|
+ -------
+Works by writer‎ (34 C)
+
+ -------
+|	.	|
+ -------
+Non-fiction literature‎ (22 C, 9 P)
+
+ -------
+|	*	|
+ -------
+Literature by women‎ (597 C, 96 P)
+
+ -------
+|	+	|
+ -------
+Works about literature‎ (14 C, 2 P)
+
+ -------
+|	A	|
+ -------
+Literary awards‎ (12 C, 7 P)
+
+ -------
+|	B	|
+ -------
+Books‎ (56 C, 12 P)
+
+ -------
+|	C	|
+ -------
+Literary characters‎ (26 C, 3 P)
+Literary circles‎ (5 C, 67 P)
+Literary collaborations‎ (5 C, 30 P)
+Literary concepts‎ (6 C, 72 P)
+Literary criticism‎ (27 C, 180 P)
+
+ -------
+|	D	|
+ -------
+Literature databases‎ (2 P)
+
+ -------
+|	E	|
+ -------
+Economics of the arts and literature‎ (3 C, 17 P)
+Literary education‎ (1 C, 8 P)
+Literary events‎ (4 C, 3 P)
+
+ -------
+|	F	|
+ -------
+Literature franchises‎ (23 C, 2 P)
+
+ -------
+|	G	|
+ -------
+Literary genres‎ (37 C, 227 P)
+Grey literature‎ (24 P)
+
+ -------
+|	H	|
+ -------
+History of literature‎ (28 C, 110 P)
+
+ -------
+|	L	|
+ -------
+Literature lists‎ (28 C, 109 P)
+
+ -------
+|	M	|
+ -------
+Meitei literature‎ (7 C, 43 P)
+Miscellanies‎ (11 P)
+Literary motifs‎ (7 C, 31 P)
+
+ -------
+|	N	|
+ -------
+Narratology‎ (42 C, 170 P)
+Nicknames in literature‎ (11 P)
+
+ -------
+|	O	|
+ -------
+Literary organizations‎ (10 C, 1 P)
+Occupations in literature‎ (2 C, 3 P)
+Oral literature‎ (8 C, 22 P)
+
+ -------
+|	P	|
+ -------
+People in literature‎ (19 C, 1 P)
+Literature in popular culture‎ (8 C, 11 P)
+Postcolonial literature‎ (4 C, 56 P)
+Professorships in literature‎ (10 P)
+
+ -------
+|	Q	|
+ -------
+Quotations from literature‎ (1 C, 132 P)
+
+ -------
+|	R	|
+ -------
+Literature records‎ (1 C, 10 P)
+References in literary works‎ (3 P)
+
+ -------
+|	S	|
+ -------
+Literary series‎ (6 C, 6 P)
+Stylistics‎ (9 P)
+
+ -------
+|	T	|
+ -------
+Literary terminology‎ (9 C, 57 P)
+Literary theory‎ (13 C, 76 P)
+Literature timelines‎ (10 P)
+Literary translation‎ (4 C, 1 P)
+
+ -------
+|	U	|
+ -------
+Unfinished literature‎ (5 C, 9 P)
+
+ -------
+|	V	|
+ -------
+Versions of literary works‎ (4 C, 3 P)
+
+ -------
+|	W	|
+ -------
+Wikipedia categories named after texts‎ (34 C)
+Works based on literature‎ (27 C, 3 P)
+
+ -------
+|	I	|
+ -------
+Images of literature‎ (6 C, 6 F)
+
+ -------
+|	Σ	|
+ -------
+Literature stubs‎ (24 C, 106 P)
+
+ -------
+|	Ω	|
+ -------
+Wikipedia categories named after literary texts‎ (99 C)
+
+
+ ------------------------------------
+||	Pages in category "Literature"	||
+ ------------------------------------
+The following 79 pages are in this category, out of 79 total. This list may not reflect recent changes.
+
+
+Literature
+Outline of literature
+
+ -------
+|	A	|
+ -------
+A Wanderer in the Spirit Lands
+Afterword
+Allusion
+Anecdote
+Anonymous work
+Anthropotechnic
+Aside
+
+ -------
+|	B	|
+ -------
+Petar Bilušić
+
+ -------
+|	C	|
+ -------
+Clandestine literature
+Classic book
+Comedy of menace
+Conclusion (book)
+Conte cruel
+Critical lens
+
+ -------
+|	D	|
+ -------
+Dedication (publishing)
+Domestic realism
+Dual narrative
+
+ -------
+|	E	|
+ -------
+Egotistical sublime
+Empirical study of literature
+Epigraph (literature)
+Epilogue
+Epiphany (literature)
+Epistle
+État second
+
+ -------
+|	F	|
+ -------
+Fantasy trope
+Fictional portrayals of psychopaths
+Film adaptation
+Foreword
+Futurism (literature)
+
+ -------
+|	H	|
+ -------
+Hawking Index
+
+ -------
+|	I	|
+ -------
+Identification (literature)
+Imagery
+Inclusio
+Indie literature
+Interlingue literature
+Interstitial art
+Introduction (writing)
+
+ -------
+|	L	|
+ -------
+Literary language
+Le Disciple
+Lead paragraph
+Liberature
+Literary dunce
+Literary feud
+Literary fiction
+Literary fragment
+Literary genre
+Literary space
+
+ -------
+|	M	|
+ -------
+Miscellany
+Moral
+
+ -------
+|	N	|
+ -------
+Narratology
+
+ -------
+|	O	|
+ -------
+One-letter word
+Outdoor literature
+
+ -------
+|	P	|
+ -------
+Page 99 test
+Paraliterature
+Perverse incentive
+Phoenician–Punic literature
+Poetics
+Poetry
+Popular history
+Prologue
+Proverb
+Psychologs
+
+ -------
+|	R	|
+ -------
+Resistance literature
+Review article
+
+ -------
+|	S	|
+ -------
+Sensibility
+Serial (literature)
+Sociology of literature
+Soliloquy
+Stylistics
+Subliterature
+
+ -------
+|	V	|
+ -------
+Verb displacement
+Verisimilitude (fiction)
+Vignette (literature)
+
+ -------
+|	W	|
+ -------
+Western canon
+Whitehall farce
+
+ -------
+|	P	|
+ -------
+Portal:Books
+Portal:Literature
+
+
+
+
+
+
+
+
+========================================
+<==>	Category:Critical thinking	<==>
+========================================
+https://en.wikipedia.org/wiki/Category:Critical_thinking
+
+
+ -----------
+|	Logic	|
+ -----------
+
+Philosophical logic
+Mathematical logic
+History of logic
+Critical thinking
+Proof theory
+Model theory
+Logicians
+Set theory
+Computability theory
+Logic literature
+Concepts in logic
+Theories of deduction
+
+Logic · Index of logic articles · Outline of logic 
+
+The main article for this category is Critical thinking.
+
+See also: Informal logic
+
+Wikimedia Commons has media related to Critical thinking.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 2 subcategories, out of 2 total.
+
+Barriers to critical thinking‎ (6 C, 69 P)
+Critical thinking skills‎ (7 C, 15 P)
+
+
+ --------------------------------------------
+||	Pages in category "Critical thinking"	||
+ --------------------------------------------
+The following 21 pages are in this category, out of 21 total. This list may not reflect recent changes.
+
+
+Critical thinking
+
+ -------
+|	A	|
+ -------
+The arts and politics
+Association for Informal Logic and Critical Thinking
+
+ -------
+|	D	|
+ -------
+Distinction bias
+
+ -------
+|	E	|
+ -------
+Empathism
+Explanation
+
+ -------
+|	I	|
+ -------
+Inquiry: Critical Thinking Across the Disciplines
+Insight
+Inventor's paradox
+
+ -------
+|	N	|
+ -------
+Nursing process
+
+ -------
+|	O	|
+ -------
+Opposing Viewpoints series
+
+ -------
+|	P	|
+ -------
+Paradigm shift
+Paradox
+Practical reason
+Progressivism
+Psychoanalytic infant observation
+
+ -------
+|	R	|
+ -------
+Reason
+Reason Rally
+Jacques Rousseau (secular activist)
+
+ -------
+|	S	|
+ -------
+Secular ethics
+
+ -------
+|	T	|
+ -------
+Thought experiment
+
+
+
+
+
+
+
+================================
+<==>	Category:Education	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Education
+
+Pages in this category should be moved to subcategories where applicable.
+This category may require frequent maintenance to avoid becoming too large.
+It should directly contain very few, if any, pages and should mainly contain subcategories.
+
+The main article for this category is Education.
+
+Education is the teaching or learning of knowledge, especially to develop the reasoning, judgement and skill required in adult life and professional occupations.
+
+Wikimedia Commons has media related to Education.
+
+																 -----------------------		 -------------------------------------------
+																|	Education portal	|		|			Library cataloging				|
+																 -----------------------		|			and classification				|
+																								|-------------------------------------------|
+																								|	main topic				education		|
+																								|	Colon					T				| 
+																								|	Dewey Decimal			370				|
+																								|	Library of Congress		L				|
+																								|	Universal Decimal		37				|
+																								 -------------------------------------------
+
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 53 subcategories, out of 53 total.
+
+
+Education by language‎ (24 C)
+Education by location‎ (10 C, 1 P)
+Education by method‎ (10 C, 11 P)
+Education by subject‎ (65 C, 38 P)
+Educational stages‎ (12 C, 65 P)
+
+ -------
+|	-	|
+ -------
+Learning‎ (20 C, 168 P)
+Teaching‎ (7 C, 88 P)
+
+ -------
+|	*	|
+ -------
+Education-related lists‎ (14 C, 27 P)
+Outlines of education‎ (5 P)
+Education in culture‎ (2 C)
+Educational personnel‎ (11 C, 2 P)
+
+ -------
+|	+	|
+ -------
+Works about education‎ (11 C, 2 P)
+
+ -------
+|	A	|
+ -------
+Academia‎ (28 C, 62 P)
+Education activism‎ (6 C, 14 P)
+Educational administration‎ (4 C, 50 P)
+Alternative education‎ (21 C, 107 P)
+Educational assessment and evaluation‎ (7 C, 66 P)
+Education awards‎ (9 C, 34 P)
+
+ -------
+|	C	|
+ -------
+Educational classification systems‎ (11 P)
+Curricula‎ (7 C, 87 P)
+
+ -------
+|	E	|
+ -------
+Education economics‎ (3 C, 26 P)
+Education studies‎ (2 C, 3 P)
+Educational environment‎ (3 C, 41 P)
+Education events‎ (7 C, 13 P)
+
+ -------
+|	H	|
+ -------
+Education and health‎ (2 C, 6 P)
+History of education‎ (21 C, 35 P)
+
+ -------
+|	I	|
+ -------
+Intellectual competitions‎ (17 C, 7 P)
+International education industry‎ (1 C, 23 P)
+Education issues‎ (15 C, 93 P)
+
+ -------
+|	K	|
+ -------
+Knowledge sharing‎ (8 C, 14 P)
+
+ -------
+|	L	|
+ -------
+Learning theory (education)‎ (1 C, 35 P)
+
+ -------
+|	M	|
+ -------
+Educational materials‎ (22 C, 61 P)
+Education ministries‎ (23 C, 182 P)
+
+ -------
+|	O	|
+ -------
+Open education‎ (1 C, 2 P)
+Educational organizations‎ (52 C, 5 P)
+
+ -------
+|	P	|
+ -------
+Education policy‎ (7 C, 50 P)
+Private education‎ (4 C, 2 P)
+Educational programs‎ (6 C, 59 P)
+Educational projects‎ (2 C, 52 P)
+Public education‎ (6 C, 3 P)
+
+ -------
+|	R	|
+ -------
+Education regulation‎ (3 C)
+Religion and education‎ (5 C, 44 P)
+Educational research‎ (2 C, 65 P)
+Education rights‎ (2 C, 12 P)
+
+ -------
+|	S	|
+ -------
+Special education‎ (9 C, 63 P)
+Statistics of education‎ (2 C, 25 P)
+Students‎ (21 C, 10 P)
+Education systems‎ (3 C, 5 P)
+
+ -------
+|	T	|
+ -------
+Educational technology‎ (26 C, 133 P)
+Education terminology‎ (2 C, 3 P)
+Education theory‎ (6 C, 63 P)
+Training‎ (16 C, 51 P)
+
+ -------
+|	Σ	|
+ -------
+Education stubs‎ (15 C, 319 P)
+
+
+ ------------------------------------
+||	Pages in category "Education"	||
+ ------------------------------------
+The following 14 pages are in this category, out of 14 total. This list may not reflect recent changes.
+
+
+Education
+
+ -------
+|	A	|
+ -------
+Antipedagogy
+User:Article9098
+
+ -------
+|	C	|
+ -------
+Campus climate
+
+ -------
+|	D	|
+ -------
+Definitions of education
+
+ -------
+|	E	|
+ -------
+Ecological empathy
+Education of Generation Z
+Educational consultant
+Exformation
+
+ -------
+|	N	|
+ -------
+Newcomer education
+
+ -------
+|	P	|
+ -------
+Prison education
+
+ -------
+|	S	|
+ -------
+Social work management
+Social–emotional learning
+
+ -------
+|	W	|
+ -------
+Wellbeing Literacy
+
+
+
+
+
+
+========================================
+<==>	Category:Human activities	<==>
+========================================
+https://en.wikipedia.org/wiki/Category:Human_activities
+
+Human activities – intentional, purposive, conscious and subjectively meaningful sequences of actions by people.
+
+Wikimedia Commons has media related to Human activities.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 38 subcategories, out of 38 total.
+
+ -------
+|	*	|
+ -------
+Human activities in popular culture‎ (13 C, 1 P)
+
+ -------
+|	+	|
+ -------
+Leisure activities‎ (10 C, 24 P)
+Underwater human activities‎ (5 C)
+
+ -------
+|	A	|
+ -------
+Activism‎ (13 C, 74 P)
+Agriculture‎ (44 C, 106 P)
+The arts‎ (33 C, 62 P)
+Aviation‎ (45 C, 11 P)
+
+ -------
+|	C	|
+ -------
+Commemoration‎ (21 C, 24 P)
+Communication‎ (12 C, 147 P)
+Crime‎ (30 C, 92 P)
+Culture‎ (49 C, 50 P)
+
+ -------
+|	D	|
+ -------
+Design‎ (54 C, 218 P)
+
+ -------
+|	E	|
+ -------
+Education‎ (53 C, 14 P)
+Entertainment‎ (50 C, 51 P)
+
+ -------
+|	F	|
+ -------
+Food and drink preparation‎ (13 C, 6 P)
+
+ -------
+|	G	|
+ -------
+Government‎ (72 C, 49 P)
+
+ -------
+|	H	|
+ -------
+Hunting‎ (26 C, 78 P)
+
+ -------
+|	L	|
+ -------
+Life in outer space‎ (5 C, 7 P)
+Love‎ (11 C, 116 P)
+
+ -------
+|	N	|
+ -------
+Navigation‎ (30 C, 205 P)
+
+ -------
+|	O	|
+ -------
+Observation‎ (16 C, 22 P)
+Organization‎ (8 C, 13 P)
+
+ -------
+|	P	|
+ -------
+Parenting‎ (26 C, 121 P)
+Performing arts‎ (48 C, 103 P)
+Physical fitness‎ (5 C, 15 P)
+Planning‎ (17 C, 52 P)
+
+ -------
+|	R	|
+ -------
+Reading (process)‎ (12 C, 129 P)
+Recreation‎ (15 C, 16 P)
+Religion‎ (34 C, 32 P)
+Research‎ (26 C, 129 P)
+
+ -------
+|	S	|
+ -------
+Search and rescue‎ (3 C, 12 P)
+Solo activities‎ (4 C, 3 P)
+
+ -------
+|	T	|
+ -------
+Technology‎ (39 C, 27 P)
+Trade‎ (20 C, 32 P)
+Transport‎ (33 C, 13 P)
+Travel‎ (16 C, 36 P)
+
+ -------
+|	W	|
+ -------
+War‎ (17 C, 30 P)
+Work‎ (9 C, 23 P, 2 F)
+
+
+ --------------------------------------------
+||	Pages in category "Human activities"	||
+ --------------------------------------------
+The following 8 pages are in this category, out of 8 total. This list may not reflect recent changes.
+
+
+Human activities
+
+ -------
+|	*	|
+ -------
+Wikipedia:Contents/Human activities
+
+ -------
+|	A	|
+ -------
+Anthrosol
+
+ -------
+|	D	|
+ -------
+Design
+Doctor's visit
+
+ -------
+|	E	|
+ -------
+Exploration
+
+ -------
+|	F	|
+ -------
+Friendship
+
+ -------
+|	I	|
+ -------
+Invention
+
+
+
+
+
+
+
+
+====================================
+<==>	Category:Terminology	<==>
+====================================
+https://en.wikipedia.org/wiki/Category:Terminology
+
+The main article for this category is Terminology.
+
+Articles found in this category and its subcategories are devoted in whole or in large part to a discussion of terminology, usually pertaining to a particular subject area. It should not be used as a catch-all category for general articles about those topics.
+
+See also: Category:Concepts
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 74 subcategories, out of 74 total.
+
+
+Terminology by ideology‎ (8 C, 4 P)
+
+ -------
+|	.	|
+ -------
+Terminologists‎ (8 P)
+
+ -------
+|	*	|
+ -------
+Neologisms‎ (16 C, 149 P)
+Vocabulary‎ (11 C, 21 P)
+
+ -------
+|	+	|
+ -------
+Academic terminology‎ (7 C, 97 P)
+Political terminology‎ (24 C, 414 P)
+Scientific terminology‎ (9 C, 25 P)
+Sports terminology‎ (33 C, 199 P)
+
+ -------
+|	A	|
+ -------
+Agricultural terminology‎ (50 P)
+Aircraft categories‎ (8 P)
+Archaeological terminology‎ (1 C, 23 P)
+Architectural terminology‎ (30 P)
+
+ -------
+|	B	|
+ -------
+Ballet terminology‎ (36 P)
+BDSM terminology‎ (63 P)
+Biology terminology‎ (9 C, 100 P)
+Book terminology‎ (1 C, 68 P)
+
+ -------
+|	C	|
+ -------
+Color names‎ (2 C, 10 P)
+
+ -------
+|	D	|
+ -------
+Dance terminology‎ (3 C, 18 P)
+Definitions‎ (2 C, 36 P)
+Dentistry terminology‎ (2 C, 8 P)
+
+ -------
+|	E	|
+ -------
+Education terminology‎ (2 C, 3 P)
+Environmental terminology‎ (1 C, 94 P)
+
+ -------
+|	F	|
+ -------
+Fashion terminology‎ (16 P)
+Firearm terminology‎ (75 P)
+Food and drink terminology‎ (2 C, 18 P)
+
+ -------
+|	G	|
+ -------
+Game terminology‎ (8 C, 32 P)
+Geography terminology‎ (3 C, 78 P)
+
+ -------
+|	H	|
+ -------
+Hotel terminology‎ (1 C, 31 P)
+
+ -------
+|	J	|
+ -------
+Journalism terminology‎ (1 C, 44 P)
+
+ -------
+|	K	|
+ -------
+Kinship terminology‎ (24 P)
+
+ -------
+|	L	|
+ -------
+Law enforcement terminology‎ (46 P)
+Legal terminology‎ (11 C, 311 P)
+LGBT terminology‎ (3 C, 76 P)
+Library science terminology‎ (21 P)
+Literary terminology‎ (9 C, 57 P)
+
+ -------
+|	M	|
+ -------
+Magical terminology‎ (2 C, 3 P)
+Media manipulation terminology‎ (2 C)
+Medical terminology‎ (12 C, 377 P)
+Metalworking terminology‎ (49 P)
+Military terminology‎ (10 C, 222 P)
+Mining terminology‎ (1 C, 29 P)
+Musical terminology‎ (9 C, 193 P)
+
+ -------
+|	N	|
+ -------
+Nautical terminology‎ (6 C, 315 P)
+Newspaper terminology‎ (1 C, 14 P)
+Numismatic terminology‎ (23 P)
+
+ -------
+|	O	|
+ -------
+Oilfield terminology‎ (52 P)
+Opera terminology‎ (1 C, 90 P)
+Organized crime terminology‎ (32 P)
+
+ -------
+|	P	|
+ -------
+Paranormal terminology‎ (2 C, 55 P)
+Pharmaceutical terminology‎ (1 C, 2 P)
+Philatelic terminology‎ (1 C, 241 P)
+Philosophical terminology‎ (1 C, 3 P)
+Polyamorous terminology‎ (7 P)
+Pornography terminology‎ (1 C, 38 P)
+Printing terminology‎ (2 C, 75 P)
+Professional wrestling slang‎ (34 P)
+Psychoanalytic terminology‎ (114 P)
+Publishing terminology‎ (3 C, 10 P)
+
+ -------
+|	R	|
+ -------
+Real estate terminology‎ (57 P)
+Religious terminology‎ (14 C, 79 P)
+Revolution terminology‎ (1 C, 34 P)
+
+ -------
+|	S	|
+ -------
+Science fiction terminology‎ (2 C, 7 P)
+Sexist terminology‎ (1 C, 4 P)
+Social sciences terminology‎ (3 C, 10 P)
+Stage terminology‎ (1 C, 68 P)
+Stock market terminology‎ (19 P)
+
+ -------
+|	T	|
+ -------
+Technical terminology‎ (5 C, 14 P)
+Television terminology‎ (12 C, 500 P)
+Transport terminology‎ (4 C, 4 P)
+
+ -------
+|	U	|
+ -------
+Urban studies and planning terminology‎ (2 C, 184 P)
+
+ -------
+|	V	|
+ -------
+Visual arts terminology‎ (5 C, 27 P)
+
+ -------
+|	W	|
+ -------
+Western (genre) staples and terminology‎ (17 C, 138 P)
+Wine terminology‎ (1 C, 88 P)
+
+ -------
+|	Σ	|
+ -------
+Terminology stubs‎ (4 C, 5 P)
+
+
+ ------------------------------------
+||	Pages in category "Terminology"	||
+ ------------------------------------
+The following 35 pages are in this category, out of 35 total. This list may not reflect recent changes.
+
+
+Terminology
+
+ -------
+|	A	|
+ -------
+Aeronautical phraseology
+
+ -------
+|	C	|
+ -------
+Terminology Coordination Unit of the European Parliament
+
+ -------
+|	D	|
+ -------
+Delegitimisation
+
+ -------
+|	E	|
+ -------
+Etymological calque
+European Thesaurus on International Relations and Area Studies
+EuroVoc
+
+ -------
+|	F	|
+ -------
+Template:First Nations Australians
+Flight time
+Frame-based terminology
+
+ -------
+|	G	|
+ -------
+German Terminology Association
+Gibberish
+Glossary of SCUBA diving
+Gunwale
+
+ -------
+|	I	|
+ -------
+Infoterm
+Interactive Terminology for Europe
+ISO/TC 37
+
+ -------
+|	J	|
+ -------
+Jargon
+
+ -------
+|	K	|
+ -------
+Ku Klux Klan titles and vocabulary
+
+ -------
+|	L	|
+ -------
+Linguistic categories
+
+ -------
+|	M	|
+ -------
+Terminology model
+Mooreeffoc
+Municipal association
+
+ -------
+|	N	|
+ -------
+Neologism
+
+ -------
+|	O	|
+ -------
+Orismology
+
+ -------
+|	P	|
+ -------
+Protologism
+
+ -------
+|	T	|
+ -------
+Termbase
+TERMCAT
+Terminology planning policy
+Typeface anatomy
+
+ -------
+|	U	|
+ -------
+UK mortgage terminology
+Underwater diving terminology
+Underwater diving terms
+United Nations Multilingual Terminology Database
+
+ -------
+|	V	|
+ -------
+Vibecession
+
+
+
+
+
+
+
+
+
+
+
+
+================================
+<==>	Category:Concepts	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Concepts
+
+The main article for this category is Concept.
+
+Articles found in this category are about topics which are primarily concepts, ideas, or abstractions.
+In other words, they are primarily ideas, and not a physical object which can also be "thought of" or conceptualized (such as the "idea of a table").
+
+See also: Category:Terminology
+
+Pages in this category should be moved to subcategories where applicable.
+This category may require frequent maintenance to avoid becoming too large.
+It should directly contain very few, if any, pages and should mainly contain subcategories.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 9 subcategories, out of 9 total.
+
+
+Concepts by field‎ (30 C)
+
+ -------
+|	A	|
+ -------
+Abstraction‎ (8 C, 55 P)
+
+ -------
+|	C	|
+ -------
+Change‎ (23 C, 27 P)
+Comparisons‎ (23 C, 51 P)
+
+ -------
+|	D	|
+ -------
+Conceptual distinctions‎ (2 C, 22 P)
+
+ -------
+|	M	|
+ -------
+Conceptual models‎ (19 C, 34 P)
+
+ -------
+|	P	|
+ -------
+Principles‎ (9 C, 67 P)
+
+ -------
+|	S	|
+ -------
+Symbols‎ (28 C, 118 P)
+
+ -------
+|	T	|
+ -------
+Theories‎ (12 C, 55 P)
+
+ ------------------------------------
+||	Pages in category "Concepts"	||
+ ------------------------------------
+The following 7 pages are in this category, out of 7 total. This list may not reflect recent changes.
+
+
+Concept
+
+ -------
+|	C	|
+ -------
+Concept-driven strategy
+Conceptual combination
+
+ -------
+|	F	|
+ -------
+Fuzzy concept
+
+ -------
+|	I	|
+ -------
+Imaging Blackness
+
+ -------
+|	J	|
+ -------
+Jurisprudence of concepts
+
+ -------
+|	S	|
+ -------
+Symbol
+
+
+
+
+
+
+
+================================
+<==>	Category:Language	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Language
+
+The main article for this category is Language.
+
+														 -------------------------------		 -------------------------------------------
+														|	Wikimedia Commons has media	|		|			Library cataloging				|
+														|	related to Language.		|		|			and classification				|
+														 -------------------------------		|-------------------------------------------|
+																								|	main topic				language		|
+														 -----------------------				|	Dewey Decimal			400				|
+														|	Language portal		|				|	Library of Congress		P				|
+														 -----------------------				|	Universal Decimal		8				|
+																								 -------------------------------------------
+
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 34 subcategories, out of 34 total.
+
+
+Languages‎ (20 C, 2 P)
+
+ -------
+|	*	|
+ -------
+Outlines of languages‎ (3 P)
+
+ -------
+|	A	|
+ -------
+Language acquisition‎ (7 C, 138 P)
+Language-related awards‎ (1 C, 11 P)
+
+ -------
+|	C	|
+ -------
+Language comparison‎ (9 C, 52 P)
+Language competitions‎ (4 C, 8 P)
+Natural language and computing‎ (12 C, 28 P)
+
+ -------
+|	F	|
+ -------
+Fiction about language‎ (5 C, 4 P)
+
+ -------
+|	G	|
+ -------
+Language games‎ (2 C, 34 P)
+Gender in language‎ (3 C, 14 P)
+
+ -------
+|	I	|
+ -------
+Language identifiers‎ (1 C, 14 P)
+Language interpretation‎ (6 C, 24 P)
+
+ -------
+|	L	|
+ -------
+Language reform‎ (3 C, 5 P)
+Linguistics‎ (32 C, 149 P)
+
+ -------
+|	M	|
+ -------
+Language mechanics‎ (3 C)
+Language movements‎ (6 C, 1 P)
+Language and mysticism‎ (6 C, 120 P)
+
+ -------
+|	O	|
+ -------
+Oral communication‎ (15 C, 53 P)
+
+ -------
+|	P	|
+ -------
+Personifications of languages‎ (3 P)
+Philology‎ (13 C, 25 P)
+Philosophy of language‎ (17 C, 122 P)
+Language policy‎ (24 C, 34 P)
+
+ -------
+|	S	|
+ -------
+Self-reference‎ (5 C, 26 P)
+Sign language‎ (6 C, 43 P)
+Sociology of language‎ (5 P)
+Language software‎ (9 C, 7 P)
+Speech‎ (11 C, 29 P)
+Speech and language pathology‎ (8 C, 59 P)
+Statements‎ (17 C, 42 P)
+
+ -------
+|	T	|
+ -------
+Terminology‎ (74 C, 35 P)
+
+ -------
+|	V	|
+ -------
+Vocabulary‎ (11 C, 21 P)
+
+ -------
+|	W	|
+ -------
+Works about language‎ (10 C, 6 P)
+Writing‎ (39 C, 185 P)
+
+ -------
+|	Σ	|
+ -------
+Language stubs‎ (23 C, 107 P)
+
+
+ ------------------------------------
+||	Pages in category "Language"	||
+ ------------------------------------
+The following 57 pages are in this category, out of 57 total. This list may not reflect recent changes.
+
+
+Language
+
+ -------
+|	A	|
+ -------
+Angelic tongues
+Anglicisation (linguistics)
+Artificial language
+Language attitudes
+
+ -------
+|	C	|
+ -------
+Closed-ended question
+Constructed language
+Cultural emphasis
+
+ -------
+|	D	|
+ -------
+Degree of endangerment
+Dialect
+
+ -------
+|	E	|
+ -------
+Ergative–absolutive alignment
+Evolution of languages
+Evolutionary psychology of language
+
+ -------
+|	F	|
+ -------
+Fluency
+
+ -------
+|	I	|
+ -------
+Imprecise language
+Information and media literacy
+
+ -------
+|	L	|
+ -------
+Languaculture
+Portal:Language
+Language classification
+Language complexity
+Language of mathematics
+Linguistic performance
+Linguistics
+
+ -------
+|	M	|
+ -------
+Metafunction
+Multiethnolect
+Musivisual language
+
+ -------
+|	N	|
+ -------
+Natural language
+
+ -------
+|	O	|
+ -------
+One-letter word
+Open-ended question
+Origin of speech
+Orthography
+Orthology (language)
+
+ -------
+|	P	|
+ -------
+Pivot language
+Polyglossia
+Language preservation
+Problem of religious language
+
+ -------
+|	S	|
+ -------
+Second language
+Speech
+Speech balloon
+Speech production
+Speech repetition
+Standard language
+Stratification (linguistics)
+Structural approach
+Sublanguage
+Symbolic language (art)
+Syntax
+
+ -------
+|	T	|
+ -------
+Terministic screen
+Text-to-video model
+Translation
+
+ -------
+|	U	|
+ -------
+Uncertain plural
+
+ -------
+|	V	|
+ -------
+Vernacular orientation
+Visual language
+Vocabulary
+Vulgarity
+
+ -------
+|	W	|
+ -------
+Word family
+Writing
+
+
+
+
+
+
+====================================
+<==>	Category:Lexicography	<==>
+====================================
+https://en.wikipedia.org/wiki/Category:Lexicography
+
+The main article for this category is Lexicography.
+
+																								 -------------------------------------------
+																								|			Library cataloging				|
+																								|			and classification				|
+																								|-------------------------------------------|
+																								|	main topic				lexicography	|
+																								|	Library of Congress		P327			|
+																								|	Universal Decimal		81'374			|
+																								 -------------------------------------------
+																								 -------------------------------
+																								|	Wikimedia Commons has media	|
+																								|	related to Lexicography.	|
+																								 -------------------------------
+
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 11 subcategories, out of 11 total.
+
+ -------
+|	:	|
+ -------
+Arabic lexicology and lexicography‎ (1 C, 2 P)
+English lexicology and lexicography‎ (3 C, 1 P)
+
+ -------
+|	.	|
+ -------
+Lexicographers‎ (27 C, 71 P)
+
+ -------
+|	+	|
+ -------
+Works about lexicography‎ (2 C, 1 P)
+
+ -------
+|	D	|
+ -------
+Definition‎ (35 P)
+Dictionaries‎ (7 C, 24 P)
+
+ -------
+|	G	|
+ -------
+Glossaries‎ (24 P)
+
+ -------
+|	S	|
+ -------
+Spelling‎ (7 C, 20 P)
+Spelling dictionaries‎ (6 P)
+
+ -------
+|	T	|
+ -------
+Terminology‎ (74 C, 35 P)
+
+ -------
+|	V	|
+ -------
+Vocabulary‎ (11 C, 21 P)
+
+ ----------------------------------------
+||	Pages in category "Lexicography"	||
+ ----------------------------------------
+The following 76 pages are in this category, out of 76 total. This list may not reflect recent changes.
+
+
+Lexicography
+
+ -------
+|	A	|
+ -------
+Abhidhana
+Al-Kitāb
+Al-Mukhaṣṣaṣ
+Australian National Dictionary Centre
+
+ -------
+|	B	|
+ -------
+Bilingual dictionary
+
+ -------
+|	C	|
+ -------
+Centre for Lexicography
+Character dictionary
+Chinese dictionary
+Cihai
+Ciyuan
+CJK Dictionary Institute
+Core ontology
+Corpus manager
+
+ -------
+|	D	|
+ -------
+Daijirin
+Daijisen
+Defining vocabulary
+Definition
+List of dictionaries by number of words
+Dictionary
+Dictionary of American Regional English
+Dictionary Society of North America
+Dord
+
+ -------
+|	E	|
+ -------
+EuroVoc
+Explanatory combinatorial dictionary
+
+ -------
+|	F	|
+ -------
+Fallacies of definition
+
+ -------
+|	G	|
+ -------
+Gloss (annotation)
+Glossary
+Grand dictionnaire terminologique
+Grand Ricci
+Green's Dictionary of Slang
+
+ -------
+|	H	|
+ -------
+Handwoordeboek van die Afrikaanse Taal
+Reinhard Hartmann
+
+ -------
+|	J	|
+ -------
+Japanese dictionary
+
+ -------
+|	K	|
+ -------
+Kitāb al-Istidrāk ‘alā Sībawayh
+Kodansha Kanji Learner's Dictionary
+
+ -------
+|	L	|
+ -------
+Language-for-specific-purposes dictionary
+Legal lexicography
+Leipian
+Lexical function
+Lexicographic error
+Lexicographic information cost
+Lexicographic order
+Lexicographic preferences
+Lexicographically minimal string rotation
+Name
+Lexigraf
+LexSite
+Linguistic Data Consortium
+List of Japanese dictionaries
+
+ -------
+|	M	|
+ -------
+Machine-readable dictionary
+Meanderings of Memory
+Meaning–text theory
+Miroslav Krleža Institute of Lexicography
+Mukhtaṣar al-Ayn
+
+ -------
+|	N	|
+ -------
+Nihongo Daijiten
+
+ -------
+|	O	|
+ -------
+Onomastics
+
+ -------
+|	P	|
+ -------
+Pentaglot Dictionary
+Phraseme
+Pronunciation
+
+ -------
+|	R	|
+ -------
+Roget's Thesaurus
+
+ -------
+|	S	|
+ -------
+Sanseido Kokugo Jiten
+Scottish Gaelic dictionaries
+Sketch Engine
+Specialized lexicography
+
+ -------
+|	T	|
+ -------
+Ṭabaqāt al-Naḥwīyīn wa-al-Lughawīyīn
+Termbase
+Terminology
+Tureng dictionary
+
+ -------
+|	V	|
+ -------
+Vocable (lexicography)
+Vocabulary
+Vocabulary learning
+Vukajlija
+
+ -------
+|	W	|
+ -------
+Word family
+
+ -------
+|	Z	|
+ -------
+Zilin
+Zitong (dictionary)
+
+
+ -------------------------------------------------------
+|	Categories: Applied linguistics	|	Lexicology		|
+ -------------------------------------------------------
+
+
+
+
+
+================================
+<==>	Category:Management	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Management
+
+																								 -------------------------------
+																								|	Wikimedia Commons has media	|
+																								|	related to Management.		|
+																								 -------------------------------
+
+																								 -------------------------------------------
+																								|			Library cataloging				|
+																								|			and classification				|
+																								|-------------------------------------------|
+																								|	main topic				management		|
+																								|	Library of Congress		650				|
+																								|	Universal Decimal		0 005			|
+																								 -------------------------------------------
+
+
+Pages in this category should be moved to subcategories where applicable.
+This category may require frequent maintenance to avoid becoming too large.
+It should directly contain very few, if any, pages and should mainly contain subcategories.
+
+The main article for this category is Management.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 14 subcategories, out of 14 total.
+
+
+Managers‎ (7 C, 16 P)
+Management by type‎ (36 C, 65 P)
+
+ -------
+|	*	|
+ -------
+Management organizations‎ (4 C, 15 P)
+
+ -------
+|	A	|
+ -------
+Management accounting‎ (3 C, 102 P)
+Management awards‎ (5 P)
+
+ -------
+|	E	|
+ -------
+Management education‎ (4 C, 67 P)
+Educational administration‎ (4 C, 50 P)
+
+ -------
+|	I	|
+ -------
+Incompetence‎ (13 P)
+
+ -------
+|	O	|
+ -------
+Management occupations‎ (1 C, 139 P)
+
+ -------
+|	P	|
+ -------
+Procurement‎ (4 C, 98 P)
+
+ -------
+|	S	|
+ -------
+Supply‎ (2 C, 3 P)
+Management systems‎ (7 C, 55 P)
+
+ -------
+|	W	|
+ -------
+Works about management‎ (3 C, 2 P)
+
+ -------
+|	Σ	|
+ -------
+Management stubs‎ (99 P)
+
+
+ ------------------------------------
+||	Pages in category "Management"	||
+ ------------------------------------
+The following 81 pages are in this category, out of 81 total. This list may not reflect recent changes.
+
+
+Management
+Outline of management
+
+ -------
+|	*	|
+ -------
+Index of management articles
+
+ -------
+|	A	|
+ -------
+Abilene paradox
+Action item
+
+ -------
+|	B	|
+ -------
+Business acumen
+
+ -------
+|	C	|
+ -------
+Chartered Administrator
+Cognitive inertia
+Communities of innovation
+Community of practice
+Completed staff work
+Corporate governance
+Court of assistants
+Cultural intelligence
+Customer benefit package
+
+ -------
+|	D	|
+ -------
+Decentralized decision-making
+Delegation
+Diagnostic Enterprise Method
+Disagree and commit
+Dynamic capabilities
+Dynamic enterprise modeling
+Dynaxity
+
+ -------
+|	E	|
+ -------
+Empowerment
+
+ -------
+|	F	|
+ -------
+Feminine style of management
+Foresight (psychology)
+Full range leadership model
+
+ -------
+|	G	|
+ -------
+Goal ambiguity
+
+ -------
+|	H	|
+ -------
+Hands-on management
+
+ -------
+|	I	|
+ -------
+IMA Journal of Management Mathematics
+Incremental profit
+Indian Ethos in Management
+Innovation leadership
+Instruction creep
+
+ -------
+|	J	|
+ -------
+Japanese management culture
+Joy's law (management)
+
+ -------
+|	K	|
+ -------
+Kick the cat
+Kiss up kick down
+
+ -------
+|	L	|
+ -------
+Likert's management systems
+
+ -------
+|	M	|
+ -------
+Macromanagement
+Magang Constitution
+Management buy-in
+Management buyout
+Management due diligence
+Management entrenchment
+Management process
+Management style
+Managerial economics
+Managerial hubris
+Managerial prerogative
+Managerial psychology
+Managing by wire
+Managing up and managing down
+Metric fixation
+Micromanagement
+Multidimensional organization
+Mushroom management
+
+ -------
+|	O	|
+ -------
+Operational excellence
+Organizational conflict
+Organizing (management)
+OSTO System Model
+
+ -------
+|	P	|
+ -------
+Plan
+Power to the edge
+Pre-modern forest conservation practices in Southern Nigeria
+Project executive
+
+ -------
+|	S	|
+ -------
+Salami slicing tactics
+Scaling of innovations
+Sense and respond
+Smiling curve
+Social entrepreneurship
+Social work management
+Stakeholder approach
+Stewardship theory
+Success
+Supervision
+
+ -------
+|	T	|
+ -------
+Target culture
+Technostructure
+Theory of the firm
+Tribal knowledge
+Turnaround management
+
+ -------
+|	U	|
+ -------
+Upper echelons theory
+
+ -------
+|	W	|
+ -------
+Workers' control
+
+
+
+
+
+
+
+================================
+<==>	Category:Business	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Business
+
+																								 -----------------------
+																								|	Business and		|
+																								|	economics portal	|
+																								 -----------------------
+																								 -------------------------------
+																								|	Wikimedia Commons has media	|
+																								|	related to Business.		|
+																								 -------------------------------
+
+
+Pages in this category should be moved to subcategories where applicable.
+This category may require frequent maintenance to avoid becoming too large.
+It should directly contain very few, if any, pages and should mainly contain subcategories.
+
+
+The main article for this category is Business.
+See also: Category:Capitalism
+
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 36 subcategories, out of 36 total.
+
+
+Types of business entity‎ (5 C, 166 P)
+Business by continent‎ (9 C)
+Business by country‎ (101 C)
+
+ -------
+|	.	|
+ -------
+Companies‎ (25 C, 4 P)
+Employment‎ (17 C, 49 P)
+Management‎ (14 C, 81 P)
+
+ -------
+|	*	|
+ -------
+Works about business‎ (11 C, 9 P)
+Business-related lists‎ (12 C, 30 P)
+
+ -------
+|	+	|
+ -------
+People involved in business‎ (13 C)
+
+ -------
+|	A	|
+ -------
+Business architecture‎ (5 P)
+
+ -------
+|	B	|
+ -------
+Business images‎ (13 C)
+
+ -------
+|	C	|
+ -------
+Business computing‎ (6 C, 9 P)
+Business culture‎ (5 C, 4 P)
+
+ -------
+|	D	|
+ -------
+Business districts‎ (4 C, 2 P)
+Business documents‎ (2 C, 24 P)
+
+ -------
+|	E	|
+ -------
+Business economics‎ (8 C, 35 P)
+Business education‎ (13 C, 48 P)
+Business ethics‎ (8 C, 41 P)
+Business events‎ (3 C, 8 P)
+
+ -------
+|	H	|
+ -------
+History of business‎ (7 C, 24 P)
+
+ -------
+|	I	|
+ -------
+Business indices‎ (16 P)
+International business‎ (8 C, 34 P)
+
+ -------
+|	J	|
+ -------
+Business journalism‎ (7 C, 5 P)
+
+ -------
+|	L	|
+ -------
+Business law‎ (24 C, 126 P)
+
+ -------
+|	M	|
+ -------
+Business management‎ (13 C, 18 P)
+
+ -------
+|	N	|
+ -------
+Nicknames in business‎ (4 P)
+
+ -------
+|	O	|
+ -------
+Business occupations‎ (4 C, 75 P)
+Business organizations‎ (24 C, 5 P)
+Business ownership‎ (13 C, 7 P)
+
+ -------
+|	P	|
+ -------
+Business process‎ (9 C, 46 P)
+
+ -------
+|	S	|
+ -------
+Sports business‎ (10 C, 28 P)
+
+ -------
+|	T	|
+ -------
+Business terms‎ (7 C, 520 P)
+Business travel‎ (2 C, 12 P)
+
+ -------
+|	V	|
+ -------
+Business of visual arts‎ (7 C, 22 P)
+
+ -------
+|	W	|
+ -------
+Workplace‎ (11 C, 93 P)
+
+ -------
+|	Σ	|
+ -------
+Business stubs‎ (14 C, 367 P)
+
+
+ ------------------------------------
+||	Pages in category "Business"	||
+ ------------------------------------
+The following 21 pages are in this category, out of 21 total. This list may not reflect recent changes.
+
+
+Business
+Real estate business
+
+ -------
+|	*	|
+ -------
+Portal:Business
+
+ -------
+|	0-9	|
+ -------
+3D billboard
+
+ -------
+|	A	|
+ -------
+Agribusiness
+
+ -------
+|	B	|
+ -------
+Business directory
+Business golf
+Business interaction networks
+Business partnering
+Business sector
+
+ -------
+|	C	|
+ -------
+Capitalism
+Client (business)
+Closure (business)
+Commoditization
+Company code of conduct
+Core business
+
+ -------
+|	L	|
+ -------
+Look-through earnings
+
+ -------
+|	P	|
+ -------
+Portfolio career
+
+ -------
+|	R	|
+ -------
+Registered office
+Religion and business
+
+ -------
+|	T	|
+ -------
+Tax Receivable Agreement
+
+ ---------------------------------------------------------------------------------------------------------------
+|	Categories: Economy	|	Main topic classifications	|		Organizations by type	|	Legal entities		|
+ ---------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+================================
+<==>	Category:Capitalism	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Capitalism
+
+
+																								 -------------------------------
+																								|	Wikimedia Commons has media	|
+																								|	related to Capitalism.		|
+																								 -------------------------------
+																								 -----------------------
+																								|	Capitalism portal	|
+																								 -----------------------
+
+The main article for this category is Capitalism.
+See also: Category:Business
+This category is often contrasted with Socialism.
+
+This category is for articles relating to capitalism, an economic system based on the private ownership of the means of production and their operation for profit.
+Central characteristics of capitalism include capital accumulation, competitive markets, a price system, private property and the recognition of property rights, voluntary exchange and wage labor.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 5 subcategories, out of 5 total.
+
+ -------
+|	C	|
+ -------
+Capital (economics)‎ (4 C, 53 P)
+Criticism of capitalism‎ (4 C, 28 P)
+
+ -------
+|	I	|
+ -------
+Ideologies of capitalism‎ (3 C, 20 P)
+
+ -------
+|	S	|
+ -------
+Capitalist systems‎ (4 C, 14 P)
+
+ -------
+|	W	|
+ -------
+Works about capitalism‎ (1 C, 9 P)
+
+ ------------------------------------
+||	Pages in category "Business"	||
+ ------------------------------------
+The following 118 pages are in this category, out of 118 total. This list may not reflect recent changes.
+
+
+Capitalism
+
+ -------
+|	*	|
+ -------
+Portal:Capitalism
+
+ -------
+|	A	|
+ -------
+Actually existing capitalism
+American School (economics)
+Anarchism and capitalism
+Anti-communism
+Austerity
+Authoritarian capitalism
+
+ -------
+|	B	|
+ -------
+Fulgencio Batista
+Black capitalism
+Brenner debate
+Bull (stock market speculator)
+Business cycle
+
+ -------
+|	C	|
+ -------
+Capital (economics)
+Capital accumulation
+Capitalism without growth
+Capitalist mode of production (Marxist theory)
+Capitalist peace
+Capitalist propaganda
+Capitalist realism
+Capitalist republic
+Capitalist state
+Capitalocene
+Caravan capitalism
+Cognitive-cultural economy
+Collective capitalism
+Commercialism
+Comprador Colonialism
+Conscious business
+Consumer capitalism
+Corporate capitalism
+Corporate raid
+Corporatization
+Criticism of welfare
+Crony capitalism
+Crony-capitalism index
+Culture of capitalism
+
+ -------
+|	D	|
+ -------
+Data capitalism
+Democratic capitalism
+Differential accumulation
+Dirigisme
+
+ -------
+|	E	|
+ -------
+Eco-capitalism
+Ersatz capitalism (Southeast Asia)
+Extensive stage
+
+ -------
+|	F	|
+ -------
+Fame and Fortune Weekly
+Finance capitalism
+Fiscal conservatism
+Free market
+Free price system
+
+ -------
+|	G	|
+ -------
+Gentlemanly capitalism
+Globalization
+Growth imperative
+Guard labor
+
+ -------
+|	H	|
+ -------
+Heroic capitalism
+History of capitalism
+History of capitalist theory
+Humanistic capitalism
+
+ -------
+|	I	|
+ -------
+Immiseration thesis
+Intensive stage
+Capitalism and Islam
+
+ -------
+|	L	|
+ -------
+Labour supply
+Laissez-faire
+Late capitalism
+Lemon socialism
+
+ -------
+|	M	|
+ -------
+Market correction
+Market economy
+Market fundamentalism
+Market society
+Market trend
+Means of production
+Merchant capitalism
+Mixed economy
+Modern capitalist society
+Municipally owned corporation
+
+ -------
+|	N	|
+ -------
+Narco-state
+Necrocapitalism
+No Turning Back (political group)
+Nordic model
+
+ -------
+|	O	|
+ -------
+Objectivism
+
+ -------
+|	P	|
+ -------
+Peak capitalism
+Penny capitalism
+Periodizations of capitalism
+Perspectives on capitalism by school of thought
+Peterson–Žižek debate
+Plan Verde
+Platform capitalism
+Positive non-interventionism
+Post-capitalism
+Price system
+Private sector
+Profit model
+
+ -------
+|	R	|
+ -------
+Racial capitalism
+Rainbow capitalism
+Rational egoism
+Regulatory capitalism
+Religious views on capitalism
+Rentier capitalism
+Revolutions of 1989
+
+ -------
+|	S	|
+ -------
+Adam Smith
+Social market economy
+Socialism for the rich and capitalism for the poor
+Socialization (Marxism)
+The Spirit of Democratic Capitalism
+Sprouts of capitalism
+State capitalism
+State ownership
+State monopoly capitalism
+Steady change
+Supercapitalism
+Surveillance capitalism
+Sustainable capitalism
+
+ -------
+|	T	|
+ -------
+Technocracy Study Course
+There is no alternative
+Transformation in economics
+
+ -------
+|	U	|
+ -------
+The Use of Knowledge in Society
+
+ -------
+|	W	|
+ -------
+Wage labour
+Welfare capitalism
+Welfare state
+
+ -----------------------------------------------------------------------------------------------------------
+|	Categories: Private sector	|	Economic liberalism	|	Economic systems	|	History of business		|
+|	|	Production economics	|	Political ideologies	|	Economic ideologies	|	Western culture		|
+ -----------------------------------------------------------------------------------------------------------
+
+
+
+
+
+================================
+<==>	Category:Socialism	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Socialism
+
+																								 -------------------------------
+																								|	Wikimedia Commons has media	|
+																								|	related to Socialism.		|
+																								 -------------------------------
+																			 ---------------------------------------------------
+																			|	Socialism is included in the JEL classification	|
+																			|	codes as JEL: P2								|
+																			 ---------------------------------------------------
+
+
+The main article for this category is Socialism.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 28 subcategories, out of 28 total.
+
+
+Socialist states‎ (11 C, 8 P)
+Socialists‎ (18 C, 5 P)
+Socialism by continent‎ (11 C)
+Socialism by country‎ (184 C)
+
+ -------
+|	*	|
+ -------
+Socialism templates‎ (6 C, 2 P)
+
+ -------
+|	C	|
+ -------
+Criticism of socialism‎ (6 P)
+
+ -------
+|	E	|
+ -------
+Economic planning‎ (11 C, 52 P)
+
+ -------
+|	H	|
+ -------
+Hard currency shops in socialist countries‎ (10 P)
+History of socialism‎ (27 C, 118 P)
+
+ -------
+|	I	|
+ -------
+Imperialism studies‎ (9 C, 74 P)
+
+ -------
+|	M	|
+ -------
+Marxian economics‎ (2 C, 81 P)
+Marxism‎ (13 C, 119 P)
+
+ -------
+|	P	|
+ -------
+Proletariat‎ (1 C, 5 P)
+
+ -------
+|	R	|
+ -------
+Recovered factories‎ (9 P)
+
+ -------
+|	S	|
+ -------
+Socialism and LGBT topics‎ (1 C, 3 P)
+Socialism stubs‎ (23 P)
+Socialism-related lists‎ (1 C, 22 P)
+Socialist calculation‎ (7 P)
+Socialist education‎ (1 C, 11 P)
+Socialist law‎ (7 C, 3 P)
+Socialist organizations‎ (15 C, 20 P)
+Socialist planned cities‎ (1 C, 87 P)
+Socialist symbols‎ (1 C, 10 P)
+Socialist works‎ (2 C, 10 P)
+Socialist songs‎ (6 C, 28 P)
+State ownership‎ (5 C, 1 P)
+
+ -------
+|	T	|
+ -------
+Types of socialism‎ (19 C, 80 P)
+
+ -------
+|	W	|
+ -------
+Works about socialism‎ (3 C, 9 P)
+
+ ------------------------------------
+||	Pages in category "Socialism"	||
+ ------------------------------------
+The following 194 pages are in this category, out of 194 total. This list may not reflect recent changes.
+
+
+Socialism
+
+ -------
+|	A	|
+ -------
+Abertzale left
+Acción Galega
+Accumulation by dispossession
+Agrarian socialism
+Alternatiba (Basque political party)
+American Union of Associationists
+Anarchism
+Anti-capitalism
+Anti-Capitalist Muslims
+List of anti-communist books
+Anti-Stalinist left
+Antimilitarism
+Antisemitism is the socialism of fools
+Arab socialism
+Arbetarnas bildningsförbund
+Associationism
+Average worker's wage
+Axis of evil
+
+ -------
+|	B	|
+ -------
+Bavarian Soviet Republic
+Burmese Way to Socialism
+
+ -------
+|	C	|
+ -------
+Calculation in kind
+Challenge (1933)
+Champagne socialist
+Class conflict
+Class traitor
+Collective ownership
+Collectivist anarchism
+Comités
+Comités Abertos de Estudantes
+Comités Abertos de Faculdade
+Commanding heights of the economy
+Common ownership
+Communism
+List of communist parties in India
+Communist society
+Communist state
+Community of goods of the early church of Jerusalem
+Community ownership
+Community Union Defence League
+Comrade
+Central Unitaria de Traballadores
+Confederación Intersindical Galega
+Confederación Xeral de Traballadores Galegos-Intersindical Nacional
+Conference of the Three Internationals
+Core Socialist Values
+Criticism of capitalism
+Cultural hegemony
+
+ -------
+|	D	|
+ -------
+Dawronoye
+Democratic road to socialism
+Democratic socialism
+Dialectical and Historical Materialism
+Don't mourn, organize!
+
+ -------
+|	E	|
+ -------
+Eco-socialism
+Economic calculation problem
+Economic planning
+Socialist economics
+Enragés
+Erguer-Estudantes da Galiza
+Ethical socialism
+European Triarchy
+
+ -------
+|	F	|
+ -------
+Facilitation board
+Factory committee
+Fasci Siciliani
+Federation of Socialist Youth
+Socialist feminism
+Frankfurt Declaration
+Free association of producers
+
+ -------
+|	G	|
+ -------
+Galician People's Assembly
+Galician Student League
+Galician Workers Union
+The Good Hope
+Gosplan
+Goulash Communism
+Guild socialism
+Template:Guild socialism
+
+ -------
+|	H	|
+ -------
+Haringey Solidarity Group
+Harvest Hills Cooperative Community
+He who does not work, neither shall he eat
+History of socialism
+
+ -------
+|	I	|
+ -------
+Immiseration thesis
+Impossibilism
+Industrial democracy
+An injury to one is an injury to all
+International Community of Socialist Youth Organisations
+International Socialist Commission
+International Workers' Day
+International Working Union of Socialist Parties
+Internationalism (politics)
+Intersindical Nacional dos Traballadores Galegos
+Intersindical Nacional Galega
+Intersindical-CSC
+Islamo-leftism
+
+ -------
+|	J	|
+ -------
+Jura Federation
+
+ -------
+|	K	|
+ -------
+Kibbutz
+Kvutza
+
+ -------
+|	L	|
+ -------
+The labor problem
+Labor-time calculation
+Labour voucher
+Lange model
+Left-libertarianism
+Left-wing nationalism
+Left-wing populism
+Lemon socialism
+Liberal socialism
+Libertarian socialism
+Lloviznando Cantos
+
+ -------
+|	M	|
+ -------
+A Man's a Man for A' That
+Marhaenism
+Market socialism
+Marxism
+Material balance planning
+Means of production
+Mensheviks
+Musée de l'Histoire vivante
+Mutual aid (organization theory)
+
+ -------
+|	N	|
+ -------
+Nakaluluwag
+Nanosocialism
+Nationalist Clubs
+Neue Rheinische Zeitung
+
+ -------
+|	O	|
+ -------
+OGAS
+Old Left
+
+ -------
+|	P	|
+ -------
+Participatory economics
+People's democracy (Marxism–Leninism)
+People's World
+Pinko
+Planned economy
+Political views of Albert Einstein
+Popular socialism
+Post-capitalism
+Postsocialism
+Prague Conference
+Pre-Marx socialists
+Pre-Marxist communism
+Primitive socialist accumulation
+Production for use
+Project Cybersyn
+Proletarian revolution
+Proletariat
+State ownership
+
+ -------
+|	R	|
+ -------
+The Ragged-Trousered Philanthropists
+Real socialism
+Red scarf
+Red-baiting
+Red–red coalition
+Redwashing
+Reformism
+Religious socialism
+Revolutionary Students Federation
+Revolutions of 1917–1923
+
+ -------
+|	S	|
+ -------
+Criticism and self-criticism (Marxism–Leninism)
+Socialist self-management
+Situationist International
+Social democracy
+Social dividend
+Social murder
+Social imperialism
+Socialism for the rich and capitalism for the poor
+Socialism in liberal democratic constitutions
+Socialist emulation
+Socialist fraternal kiss
+Socialist market economy
+Socialist perspectives on abortion
+Socialist property
+Socialist realism
+Socialist state
+Socialist Sunday School
+Socialist-oriented market economy
+Social ownership
+Soviet republic
+Soviet-type economic planning
+State of socialist orientation
+State socialism
+List of socialist states
+Syndicalism
+
+ -------
+|	T	|
+ -------
+Tankie
+To each according to his contribution
+To the Finland Station
+Towards a New Socialism
+Triple oppression
+The Triple Revolution
+The Two Souls of Socialism
+Types of socialism
+
+ -------
+|	U	|
+ -------
+Utopian socialism
+
+ -------
+|	W	|
+ -------
+Wage labour
+Wage slavery
+Worker cooperative
+Workers' control
+Workers' council
+Workers' self-management
+Working class
+Workplace democracy
+
+ -------
+|	Y	|
+ -------
+Yellow socialism
+
+ -------
+|	P	|
+ -------
+Portal:Socialism
+
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------
+|	Categories: Economic ideologies	|	Anti-capitalism	|	Anti-classism	|	Political ideologies	|	Left-wing politics	|	Political culture		|
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+============================
+<==>	Category:Error	<==>
+============================
+https://en.wikipedia.org/wiki/Category:Error
+
+The main article for this category is Error.
+
+																								 -------------------------------
+																								|	Wikimedia Commons has media	|
+																								|	related to Errors.			|
+																								 -------------------------------
+
+Contents
+Top 0–9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 22 subcategories, out of 22 total.
+
+ -------
+|	A	|
+ -------
+Anachronism‎ (1 C, 4 P)
+Archaeological errors‎ (3 P)
+
+ -------
+|	B	|
+ -------
+Baronies created by error‎ (8 P)
+Blooper shows‎ (10 P)
+
+ -------
+|	C	|
+ -------
+Cartographic errors‎ (1 C, 9 P)
+Computer errors‎ (3 C, 87 P)
+Continuity errors‎ (6 P)
+
+ -------
+|	D	|
+ -------
+Disproven exoplanets‎ (31 P)
+
+ -------
+|	E	|
+ -------
+Misidentified chemical elements‎ (45 P)
+Error detection and correction‎ (6 C, 127 P)
+Error measures‎ (7 P)
+Errors and residuals‎ (12 P)
+
+ -------
+|	F	|
+ -------
+Fallacies‎ (2 C, 20 P)
+False confessions‎ (40 P)
+
+ -------
+|	L	|
+ -------
+Legal error‎ (3 C, 18 P)
+Linguistic error‎ (4 C, 22 P)
+
+ -------
+|	M	|
+ -------
+Medical error‎ (2 C, 26 P)
+Misconceptions‎ (2 C, 41 P)
+
+ -------
+|	N	|
+ -------
+Numerical artifacts‎ (1 C, 8 P)
+
+ -------
+|	P	|
+ -------
+Postage stamp invert errors‎ (11 P)
+
+ -------
+|	S	|
+ -------
+Shooting civilians following mistaken identification‎ (8 P)
+
+ -------
+|	U	|
+ -------
+User errors‎ (7 P)
+
+
+ --------------------------------
+||	Pages in category "Error"	||
+ --------------------------------
+The following 112 pages are in this category, out of 112 total. This list may not reflect recent changes.
+
+
+Error
+
+ -------
+|	A	|
+ -------
+Abbe error
+Actor–observer asymmetry
+Agnotology
+Artifact (error)
+
+ -------
+|	B	|
+ -------
+Begging the question
+Blame shifting
+Blooper
+List of botched executions
+
+ -------
+|	C	|
+ -------
+Category mistake
+Christmas tape
+Clerical error
+Cognitive distortion
+Confabulation
+Confirmation bias
+Confusion
+Conservatism (belief revision)
+Correction (newspaper)
+Coverage error
+Cryptomnesia
+
+ -------
+|	D	|
+ -------
+Dead air
+Dead letter mail
+Digital artifact
+Dord
+Drunk dialing
+
+ -------
+|	E	|
+ -------
+Eating crow
+List of science and engineering blunders
+Erratum
+Error analysis (mathematics)
+Error card
+Error concealment
+Error-tolerant design
+Escalation of commitment
+Expression of concern
+
+ -------
+|	F	|
+ -------
+False balance
+False confession
+False consciousness
+False dilemma
+False etymology
+False friend
+False memory
+False positives and false negatives
+Falsing
+Floating-point error mitigation
+Flow meter error
+Forgotten baby syndrome
+Fudge factor
+Fundamental attribution error
+
+ -------
+|	G	|
+ -------
+Ghost characters
+Goof
+Grothendieck prime
+Group attribution error
+Groupthink
+
+ -------
+|	H	|
+ -------
+Halo effect
+Healthcare error proliferation model
+Hindsight bias
+Hog-Morse
+Human error
+Humour in translation
+
+ -------
+|	I	|
+ -------
+Illusory superiority
+Illusory truth effect
+Imagination inflation
+In-group favoritism
+Infallibility
+Irrationality
+
+ -------
+|	J	|
+ -------
+Just-world fallacy
+
+ -------
+|	L	|
+ -------
+Labeling effect
+Latent human error
+List of experimental errors and frauds in physics
+Literal translation
+
+ -------
+|	M	|
+ -------
+Margin of error
+Memory error
+Minimisation (psychology)
+Misattribution of memory
+Misinformation effect
+Mispronunciation
+Mistakes were made
+Moviemistakes.com
+Mush from the Wimp
+
+ -------
+|	N	|
+ -------
+Naïve realism (psychology)
+Near miss (safety)
+
+ -------
+|	O	|
+ -------
+Omission bias
+Oops-Leon
+Outgroup favoritism
+Overreaction
+
+ -------
+|	P	|
+ -------
+Personal equation
+Postage stamp design error
+
+ -------
+|	R	|
+ -------
+Representational momentum
+Retracted article on dopaminergic neurotoxicity of MDMA
+Retraction in academic publishing
+Retraction Watch
+
+ -------
+|	S	|
+ -------
+Self-deception
+Self-fulfilling prophecy
+Seven Social Sins
+Shooting errors
+Slips and capture
+Source criticism
+Splitting (psychology)
+Straw man
+Subadditivity effect
+Swiss cheese model
+System justification
+
+ -------
+|	T	|
+ -------
+Team error
+Technical failure
+Thought-terminating cliché
+Trial and error
+Type I and type II errors
+Type III error
+Typographical error
+
+ -------
+|	U	|
+ -------
+Ultimate attribution error
+Use error
+
+ -------
+|	W	|
+ -------
+Wrong-way driving
+
+
+ -----------------------------------------------------------------------------------
+|	Categories: Communication of falsehoods	|	Human communication	|	Ignorance	|
+ -----------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+============================================
+<==>	Category:Engineering failures	<==>
+============================================
+https://en.wikipedia.org/wiki/Category:Engineering_failures
+
+																								 ---------------------------
+																								|	Engineering portal		|
+																								 ---------------------------
+																								 ---------------------------------------
+																								|	Wikimedia Commons has media			|
+																								|	related to Engineering failures.	|
+																								 ---------------------------------------
+
+ --------------------
+||	Subcategories	||
+ --------------------
+
+ -------
+|	A	|
+ -------
+Aviation accidents and incidents involving engineering failures‎ (3 C, 1 P)
+
+ -------
+|	B	|
+ -------
+Bridge disasters caused by engineering error‎ (1 C, 25 P)
+Building and structure collapses‎ (7 C, 3 P)
+
+ -------
+|	C	|
+ -------
+Chemical disasters‎ (3 C, 17 P)
+Collapsed oil platforms‎ (10 P)
+Computer errors‎ (3 C, 87 P)
+Computer security exploits‎ (9 C, 156 P)
+Construction accidents‎ (2 C, 17 P)
+
+ -------
+|	D	|
+ -------
+Dam failures‎ (4 C, 1 P)
+Disaster recovery‎ (1 C, 18 P)
+
+ -------
+|	E	|
+ -------
+Engine problems‎ (13 P)
+
+ -------
+|	M	|
+ -------
+Maritime incidents involving engineering failures‎ (9 P)
+Mechanical failure‎ (2 C, 22 P)
+
+ -------
+|	S	|
+ -------
+Space accidents and incidents‎ (8 C, 3 P)
+
+ ------------------------------------------------
+||	Pages in category "Engineering failures"	||
+ ------------------------------------------------
+The following 85 pages are in this category, out of 85 total. This list may not reflect recent changes.
+
+
+ -------
+|	*	|
+ -------
+Engineering disasters
+
+ -------
+|	0-9	|
+ -------
+26 blocks scandal
+1999 Aggie Bonfire collapse
+2010 Boston water emergency
+2023 United Kingdom reinforced autoclaved aerated concrete crisis
+
+ -------
+|	A	|
+ -------
+Annualized failure rate
+
+ -------
+|	B	|
+ -------
+Bathtub curve
+Big Dig ceiling collapse
+Birkenhead dock disaster
+List of building and structure collapses
+Buncefield fire
+
+ -------
+|	C	|
+ -------
+Cache stampede
+Casco-class monitor
+Cave Creek disaster
+Chicago flood
+Clyde Arc
+Crevice corrosion
+Critical system
+CTQ tree
+
+ -------
+|	D	|
+ -------
+Downtime
+Dye-and-pry
+
+ -------
+|	E	|
+ -------
+Eckwersheim derailment
+Electrical fault
+Eschede train disaster
+
+ -------
+|	F	|
+ -------
+Fail-fast system
+Failing badly
+Failure analysis
+Failure modes, effects, and diagnostic analysis
+Failure of electronic components
+Failure rate
+Failure reporting, analysis, and corrective action system
+Flixborough disaster
+Forensic engineering
+
+ -------
+|	G	|
+ -------
+Gerrards Cross Tunnel
+Great Molasses Flood
+
+ -------
+|	H	|
+ -------
+Head-in-pillow defect
+Hindenburg disaster
+2001 Humber Refinery explosion
+
+ -------
+|	K	|
+ -------
+Karlino oil eruption
+2016 Karrada bombing
+1995 Kharkiv drinking water disaster
+Knox Mine disaster
+
+ -------
+|	L	|
+ -------
+Lake Peigneur
+Laufenburg, Germany
+Levee breach
+Lusser's law
+
+ -------
+|	M	|
+ -------
+Maneuvering Characteristics Augmentation System
+Mean down time
+Mean time between failures
+MTTFd
+Mean time to first failure
+Mean time to repair
+Mechanical overload
+Melcom
+Millennium Tower (San Francisco)
+Mission critical
+
+ -------
+|	N	|
+ -------
+New River (Mexico–United States)
+Nicoll Highway collapse
+
+ -------
+|	P	|
+ -------
+Penistone rail accidents
+Pepsi fruit juice flood
+
+ -------
+|	Q	|
+ -------
+Quantum Byzantine agreement
+
+ -------
+|	R	|
+ -------
+Reliability engineering
+Residual stress
+Robb Engineering
+
+ -------
+|	S	|
+ -------
+Safety-critical system
+Salton Sea
+Samsung Galaxy Note 7
+San Juanico disaster
+Serviceability failure
+Single point of failure
+SL-1
+Steam rupture
+Stress corrosion cracking
+Structural integrity and failure
+Switchover
+System accident
+
+ -------
+|	T	|
+ -------
+2023 Taichung crane collapse
+Therac-25
+Tofu-dreg project
+Tsai–Wu failure criterion
+Twin Shaft disaster
+
+ -------
+|	V	|
+ -------
+Versailles rail accident
+
+ -------
+|	W	|
+ -------
+Westinghouse J40
+When Technology Fails
+Wisconsin Butter Fire
+
+
+ -------------------------------------------------------------------------------------------------------------------------------------------
+|																																			|
+|	Categories: Civil engineering	|	Maintenance	|	Man-made disasters	|	Man-made disasters by cause	|	Reliability engineering		|
+|																																			|
+|	|	Security engineering	|	Systems engineering	|	Technological failures															|
+|																																			|
+ -------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+============================================
+<==>	Category:Wikipedia redirects	<==>
+============================================
+https://en.wikipedia.org/wiki/Category:Wikipedia_redirects
+
+For more information, see Wikipedia:WikiProject Redirect and Help:Redirect.
+
+ -----------------------------------------------------------------------------------------------------------------------------------------------
+|	This is a maintenance category, used for maintenance of the Wikipedia project.											 ---------------	|
+|	It is not part of the encyclopedia and contains non-article pages, or groups articles by status rather than subject.	|	Shortcuts	|	|
+|	Do not include this category in content categories.																		|	---------	|	|
+|																															|	CAT:RDR		|	|
+|																															|	CAT:RE		|	|
+|																															|	CAT:R		|	|
+|																															 ---------------	|
+ -----------------------------------------------------------------------------------------------------------------------------------------------
+
+ -------------------------------------------------------------------------------------------
+|	This is a container category. Due to its scope, it should contain only subcategories.	|
+ -------------------------------------------------------------------------------------------
+
+This category contains subcategories containing only redirects.
+This category should not contain any pages directly; there are so many of them that a category containing all of them would be unmanageable.
+
+To add a redirect to one of the subcategories, use a redirect template.
+For a list of redirect templates, see Wikipedia:Template messages/Redirect pages.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 61 subcategories, out of 61 total.
+
+
+All redirect categories‎ (3,989 C, 3 P)
+
+ -------
+|	A	|
+ -------
+Redirects from alternative hyphenations‎ (29,092 P, 96 F)
+Redirects from alternative languages‎ (6 C)
+Redirects from alternative names‎ (27 C, 243,076 P)
+Redirects from alternative punctuations‎ (29,521 P)
+Redirects from alternative spacings‎ (10,599 P)
+Redirects from alternative spellings‎ (8 C, 72,156 P)
+Redirects from amusement rides‎ (20 P)
+Redirects to ASCII-only titles‎ (1 C, 327 P)
+Redirects from ASCII-only titles‎ (2,154 P)
+
+ -------
+|	B	|
+ -------
+Redirects from band names‎ (127 P)
+
+ -------
+|	C	|
+ -------
+Redirects from colloquial names‎ (509 P)
+Redirects from colors‎ (1 C, 145 P)
+Redirects connected to a Wikidata item‎ (3 C, 260,555 P)
+Redirects for convenience‎ (163 P)
+Redirects from a cross-project target‎ (2 P)
+Cross-namespace redirects‎ (11 C)
+
+ -------
+|	D	|
+ -------
+Redirects from demonyms‎ (125 P)
+Deprecated redirects‎ (10 P)
+Redirects from titles with diacritics‎ (9,781 P)
+Redirects from titles without diacritics‎ (1 C, 413,156 P)
+Redirects tagged as disambiguation pages‎ (empty)
+Redirects for discussion‎ (5 C)
+
+ -------
+|	E	|
+ -------
+Redirects from emoji‎ (1 C, 2,402 P)
+
+ -------
+|	H	|
+ -------
+Redirects from hashtags‎ (108 P)
+Redirects mentioned in hatnotes‎ (5,483 P)
+Redirects to help pages‎ (1 C, 226 P)
+
+ -------
+|	I	|
+ -------
+Redirects from incorrect names‎ (5 C, 10,906 P)
+
+ -------
+|	L	|
+ -------
+Redirects from titles with ligatures‎ (196 P)
+Redirects from titles without ligatures‎ (529 P)
+Redirects from list topics‎ (7,390 P)
+
+ -------
+|	M	|
+ -------
+Main namespace redirects‎ (76 C)
+Redirects from merges‎ (4 C, 65,649 P)
+Miscellaneous redirects‎ (1 P)
+Redirects from misquotations‎ (36 P)
+Redirects from modifications‎ (18 C, 652,369 P, 2,911 F)
+Redirects from mojibake‎ (14 P)
+
+ -------
+|	N	|
+ -------
+Redirects from names with title‎ (4,221 P)
+Redirects to names with title‎ (71 P)
+Redirects from natural disambiguation‎ (65 P)
+Redirects to natural disambiguation‎ (30 P)
+
+ -------
+|	O	|
+ -------
+Redirects from other disambiguation‎ (6 C, 15,555 P)
+
+ -------
+|	P	|
+ -------
+Redirects to portals‎ (1 C, 334 P)
+Redirects with possibilities‎ (4 C, 92,876 P)
+Redirects without possibilities‎ (2 C)
+Redirects from predictable disambiguation‎ (650 P)
+Printworthy redirects‎ (3 C, 741,235 P)
+Redirects to Wikipedia project pages‎ (2 C, 16,404 P)
+Wikipedia protected redirects‎ (5 C)
+
+ -------
+|	R	|
+ -------
+Redirects from remote talk pages‎ (25,836 P)
+Redirects due to technical restrictions‎ (1 C, 299 P, 2 F)
+
+ -------
+|	S	|
+ -------
+Redirects with short description‎ (11,716 P)
+Wikipedia soft redirects‎ (9 C, 10 P)
+Redirects from statistical redirects‎ (36 P)
+Redirects from synonyms‎ (4,438 P)
+
+ -------
+|	T	|
+ -------
+Redirects to templates‎ (9 C)
+Redirects by topic‎ (5 C, 1 P)
+
+ -------
+|	U	|
+ -------
+Redirects from Unicode characters‎ (31,422 P)
+Unprintworthy redirects‎ (20 C, 1,641,487 P)
+
+ -------
+|	V	|
+ -------
+Video game articles redirected to another video game article‎ (12 P)
+
+ -------
+|	T	|
+ -------
+Disambiguation and redirection templates‎ (7 C, 55 P)
+
+
+ -----------------------------------
+|	Category: Wikipedia redirecting	|
+ -----------------------------------
+
+
+
+
+
+
+
+============================================
+<==>	Category:Wikipedia redirecting	<==>
+============================================
+https://en.wikipedia.org/wiki/Category:Wikipedia_redirecting
+
+For more information, see Wikipedia:WikiProject Redirect and Help:Redirect.
+
+ ---------------------------------------------------------------------------------------------------------------------------
+|	This is a maintenance category, used for maintenance of the Wikipedia project.											|
+|	It is not part of the encyclopedia and contains non-article pages, or groups articles by status rather than subject.	|
+|	Do not include this category in content categories.																		|
+ ---------------------------------------------------------------------------------------------------------------------------
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 5 subcategories, out of 5 total.
+
+ -------
+|	E	|
+ -------
+Wikipedia essays about redirecting‎ (16 P)
+
+ -------
+|	R	|
+ -------
+Wikipedia redirects‎ (61 C)
+
+ -------
+|	S	|
+ -------
+Wikipedia statistical redirects‎ (1 C, 1 P)
+
+ -------
+|	T	|
+ -------
+Talk pages of redirects‎ (32,410 P)
+
+ -------
+|	W	|
+ -------
+WikiProject Redirect‎ (3 C, 7 P)
+
+
+ ------------------------------------------------
+||	Pages in category "Wikipedia redirecting"	||
+ ------------------------------------------------
+The following 23 pages are in this category, out of 23 total. This list may not reflect recent changes.
+
+
+Wikipedia:Redirect
+Help:Redirect
+
+ -------
+|	*	|
+ -------
+Template:R template index
+
+ -------
+|	A	|
+ -------
+Wikipedia:Article wizard/Redirects
+Wikipedia:Article wizard/version1/Redirect
+User:AvicBot
+
+ -------
+|	C	|
+ -------
+Wikipedia:Categorizing redirects
+Wikipedia:Cross-namespace redirects
+
+ -------
+|	D	|
+ -------
+Wikipedia:Deletion by redirection
+Wikipedia:Double redirects
+
+ -------
+|	H	|
+ -------
+Wikipedia:How to make a redirect
+
+ -------
+|	K	|
+ -------
+User:Kephir/gadgets/sagittarius
+
+ -------
+|	M	|
+ -------
+User:MJL/Archer
+
+ -------
+|	R	|
+ -------
+Wikipedia:Redirects for discussion
+User:RjwilmsiBot
+User:RussBot
+
+ -------
+|	S	|
+ -------
+Wikipedia:Soft redirect
+
+ -------
+|	T	|
+ -------
+Wikipedia:Talk page redirects
+Wikipedia:Template index/Redirect pages
+Wikipedia:Tools/Navigation popups/About fixing redirects
+
+ -------
+|	V	|
+ -------
+Wikipedia:Visualizing redirects
+
+ -------
+|	W	|
+ -------
+Help:Wikipedia: The Missing Manual/Building a stronger encyclopedia/Getting readers to the right article: Naming, redirects, and disambiguation
+User:Wugapodes/Capricorn
+
+
+ -----------------------------------------------------------
+|	Category: Wikipedia administration by MediaWiki feature	|
+ -----------------------------------------------------------
+
+
+
+
+
+
+====================================================================
+<==>	Category:Wikipedia administration by MediaWiki feature	<==>
+====================================================================
+https://en.wikipedia.org/wiki/Category:Wikipedia_administration_by_MediaWiki_feature
+
+ ---------------------------------------------------------------------------------------------------------------------------
+|	This is a maintenance category, used for maintenance of the Wikipedia project.											|
+|	It is not part of the encyclopedia and contains non-article pages, or groups articles by status rather than subject.	|
+|	Do not include this category in content categories.																		|
+ ---------------------------------------------------------------------------------------------------------------------------
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 9 subcategories, out of 9 total.
+
+
+Wikipedia features‎ (11 C, 85 P)
+
+ -------
+|	B	|
+ -------
+Wikipedia blocking‎ (3 C, 24 P)
+
+ -------
+|	D	|
+ -------
+Wikipedia database reports‎ (5 C, 5 P)
+
+ -------
+|	M	|
+ -------
+Main Page‎ (15 C, 10 P)
+Wikipedia modules‎ (28 C, 18 P)
+
+ -------
+|	N	|
+ -------
+Wikipedia namespace administration‎ (8 C, 1 P)
+
+ -------
+|	R	|
+ -------
+Wikipedia redirecting‎ (5 C, 23 P)
+
+ -------
+|	T	|
+ -------
+Wikipedia template administration‎ (17 C, 80 P)
+
+ -------
+|	U	|
+ -------
+Wikipedia user roles‎ (8 C, 1 P)
+
+
+ ---------------------------------------
+|	Category: Wikipedia administration	|
+ ---------------------------------------
+
+
+
+
+
+
+
+
+
+
+================================================
+<==>	Category:Wikipedia administration	<==>
+================================================
+https://en.wikipedia.org/wiki/Category:Wikipedia_administration
+
+ -----------------------------------------------------------------------------------------------
+|	Pages in this category should be moved to subcategories where applicable.					|
+|	This category may require frequent maintenance to avoid becoming too large.					|
+|	It should directly contain very few, if any, pages and should mainly contain subcategories.	|
+ -----------------------------------------------------------------------------------------------
+
+ -----------------------------------------------------------------------------------------------------------------------------------------------
+|	This is a maintenance category, used for maintenance of the Wikipedia project.											 ---------------	|
+|	It is not part of the encyclopedia and contains non-article pages, or groups articles by status rather than subject.	|	Shortcuts	|	|
+|	Do not include this category in content categories.																		|	---------	|	|
+|																															|	CAT:WP		|	|
+|																															|	CAT:WIKI	|	|
+|																															 ---------------	|
+ -----------------------------------------------------------------------------------------------------------------------------------------------
+
+																								 -------------------------------
+																								|	Wikimedia Commons has media	|
+																								|	related to Wikipedia		|
+																								|	administration.				|
+																								 -------------------------------
+
+Description:
+------------
+	The main page for this category is Wikipedia:Administration.
+
+This category is the top-level category to organise the Wikipedia project.
+Project pages and categories of project pages should be included here.
+
+	-	For articles about Wikipedia, see Category:Wikipedia.
+	-	For pages about adminship, the possession of administrator privileges, see Category:Wikipedia adminship.
+	-	For a list of users who are administrators, see Category:Wikipedia administrators or Special:Listusers/sysop.
+
+See also: category:Wikipedia maintenance and category:Wikipedia navigation
+
+
+	 -----------------------------------------------------------------------------------------------------------
+	|	V.T.E							Wikipedia editor navigation - (Search)							[hide]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|	V.T.E							Wikipedia key policies and guidelines (?)						[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|	V.T.E							Manual of Style													[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|	V.T.E							Wikipedia accounts and governance								[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|	V.T.E							Wikipedia community												[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|-----------------------------------------------------------------------------------------------------------|
+	|-----------------------------------------------------------------------------------------------------------|
+	|	V.T.E							Wikipedia essays (?)											[hide]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|									Essays on building, editing, and deleting content				[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|									Essays on civility												[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|									Essays on notability											[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|									Humorous essays													[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|									About essays													[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|-----------------------------------------------------------------------------------------------------------|
+	|-----------------------------------------------------------------------------------------------------------|
+	|	V.T.E							Wikipedia help pages											[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|	V.T.E							Wikipedia referencing											[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|	V.T.E							Wikipedia technical help										[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|	V.T.E							Wikipedia templates												[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|	V.T.E							Awards, decorations, and medals of Wikipedia					[show]	|
+	|-----------------------------------------------------------------------------------------------------------|
+	|	V.T.E							Useful links													[show]	|
+	 -----------------------------------------------------------------------------------------------------------
+
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 31 subcategories, out of 31 total.
+
+Wikipedia content administration‎ (16 C)
+Wikipedia maintenance‎ (68 C, 58 P)
+Wikipedia policies and guidelines‎ (6 C, 7 P)
+
+ -------
+|	*	|
+ -------
+Wikipedia administration by MediaWiki feature‎ (9 C)
+Wikipedia administration by topic‎ (11 C)
+
+ -------
+|	A	|
+ -------
+Wikipedia adminship‎ (11 C, 96 P)
+Wikipedia and artificial intelligence‎ (5 C, 12 P)
+
+ -------
+|	C	|
+ -------
+Wikipedia child protection‎ (6 P)
+Wikipedia collaborations‎ (31 C, 166 P)
+Wikipedia copyright‎ (19 C, 93 P)
+Wikipedia culture‎ (17 C, 140 P)
+
+ -------
+|	D	|
+ -------
+Wikipedia disclaimers‎ (6 P)
+Wikipedia discussion‎ (19 C, 81 P)
+Wikipedia documentation‎ (4 C)
+
+ -------
+|	E	|
+ -------
+Wikipedia editorial validation‎ (20 C, 57 P)
+Wikipedia essays‎ (48 C, 2,107 P)
+Wikipedia events‎ (11 C, 11 P)
+Wikipedia expert help‎ (3 C, 9 P)
+Wikipedia external platforms‎ (4 P)
+
+ -------
+|	F	|
+ -------
+Wikipedia fundraising‎ (9 P)
+
+ -------
+|	H	|
+ -------
+Wikipedia help‎ (39 C, 63 P)
+Wikipedia history‎ (18 C, 58 P)
+Wikipedia hoaxes‎ (3 C, 8 P)
+
+ -------
+|	I	|
+ -------
+Wikipedia administration images‎ (1 C, 2 F)
+
+ -------
+|	L	|
+ -------
+Languages on Wikipedia‎ (8 C, 5 P)
+
+ -------
+|	N	|
+ -------
+Wikipedia news‎ (14 C, 17 P)
+
+ -------
+|	P	|
+ -------
+Wikipedia proposals‎ (9 C, 101 P)
+
+ -------
+|	R	|
+ -------
+Wikipedia redistribution‎ (2 C, 8 P)
+Wikipedia-related projects‎ (11 C, 32 P)
+
+ -------
+|	T	|
+ -------
+Wikipedia technical administration‎ (7 C)
+
+ -------
+|	U	|
+ -------
+Wikipedia user administration‎ (9 C)
+
+ ----------------------------------------------------
+||	Pages in category "Wikipedia administration"	||
+ ----------------------------------------------------
+The following 9 pages are in this category, out of 9 total. This list may not reflect recent changes.
+
+Wikipedia:Administration
+Wikipedia:Department directory
+
+ -------
+|	E	|
+ -------
+Wikipedia:Editor navigation
+Wikipedia:Elections
+
+ -------
+|	L	|
+ -------
+Wikipedia:Linking to Wikipedia
+
+ -------
+|	P	|
+ -------
+Wikipedia:Policies and guidelines
+
+ -------
+|	R	|
+ -------
+Wikipedia:Requests for adminship/2024 review
+Wikipedia:Requests for oversight
+
+ -------
+|	W	|
+ -------
+Wikipedia:Wikimedia proposals
+
+ -----------------------
+|	Category: Contents	|
+ -----------------------
+
+
+
+
+
+
+
+
+========================================
+<==>	Category:Religious diagrams	<==>
+========================================
+https://en.wikipedia.org/wiki/Category:Religious_diagrams
+
+ --------------------------------------------
+||	Pages in category "Religious diagrams"	||
+ --------------------------------------------
+The following 5 pages are in this category, out of 5 total. This list may not reflect recent changes.
+
+ -------
+|	S	|
+ -------
+Sand mandala
+Sefirot
+
+ -------
+|	T	|
+ -------
+Tree of life (Kabbalah)
+
+ -------
+|	Y	|
+ -------
+Yantra
+Yantra cloth
+
+ -----------------------------------------------
+|	Categories: Diagrams	|	Religious art	|
+ -----------------------------------------------
+
+
+
+
+
+================================
+<==>	Category:Licenses	<==>
+================================
+https://en.wikipedia.org/wiki/Category:Licenses
+
+																								 -----------------------------------
+																								|	Wikimedia Commons has media		|
+																								|	related to Licenses.			|
+																								 -----------------------------------
+
+The main article for this category is License.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 4 subcategories, out of 4 total.
+
+ -------
+|	A	|
+ -------
+Aviation licenses and certifications (2 C, 69 P)
+
+ -------
+|	C	|
+ -------
+Copyright licenses (9 C, 15 P)
+
+ -------
+|	D	|
+ -------
+Driving licences (2 C, 18 P)
+
+ -------
+|	L	|
+ -------
+Licensing (5 C, 25 P)
+
+ ------------------------------------
+||	Pages in category "Licenses"	||
+ ------------------------------------
+The following 36 pages are in this category, out of 36 total. This list may not reflect recent changes.
+
+License
+Practicing without a license
+
+ -------
+|	C	|
+ -------
+Cartaz
+Concealed carry in the United States
+Constitutional carry
+Cross-licensing
+
+ -------
+|	G	|
+ -------
+General radiotelephone operator license
+Golf license
+Government of Japan Standard Terms of Use
+
+ -------
+|	I	|
+ -------
+Implied license
+Industrial licensing in India
+
+ -------
+|	K	|
+ -------
+Kyōju Dairi
+
+ -------
+|	L	|
+ -------
+Licence laundering
+Licence Raj
+Liquor license
+
+ -------
+|	M	|
+ -------
+Marriage license
+Menkyo
+Miner's licence
+
+ -------
+|	N	|
+ -------
+Navicert
+New York City Cabaret Card
+
+ -------
+|	O	|
+ -------
+Open carry in the United States
+Operating certificate
+
+ -------
+|	P	|
+ -------
+Pleasure Craft Operator Card
+Possession and acquisition licence
+Professional licensure in the United States
+Public Dance Halls Act 1935
+Public entertainment licence
+
+ -------
+|	S	|
+ -------
+Sex establishment licence
+List of state soil science licensing boards
+Stick licensing
+Street trading licence
+
+ -------
+|	T	|
+ -------
+Taxi medallion
+Television licence
+
+ -------
+|	U	|
+ -------
+United States Coast Guard Charter Boat Captain's license
+
+ -------
+|	V	|
+ -------
+Vehicle licence
+Voluntary surrender
+
+ -------------------------------------------------------------------------------------------------------------------------------
+|	Categories: Authority	|	Legal documents	|	Public records	|	Civil law (legal system)	|	Intellectual capital	|
+ -------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+====================================
+<==>	Category:Contract law	<==>
+====================================
+https://en.wikipedia.org/wiki/Category:Contract_law
+
+																								 -----------------------------------
+																								|	Wikimedia Commons has media		|
+																								|	related to Contract law.		|
+																								 -----------------------------------
+
+																								 ---------------------------------------
+																								|	Contract law is included in the JEL	|
+																								|	classification codes as JEL: K12	|
+																								 ---------------------------------------
+
+The main article for this category is contract.
+
+A contract is a legally binding agreement made between parties involved in a transaction for the exchange of goods or services.
+The agreement often comes in the form of a written instrument that provides the terms or conditions of the arrangement,
+each of which correspond to an obligation that one of the parties entering the agreement is obliged to fulfill.
+In other words, the provisions contained within the four corners of a written contract define the scope and character of the transaction that is being executed through it.
+
+Contents
+Top 0–9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 22 subcategories, out of 22 total.
+
+Contract law by country (5 C, 2 P)
+
+ -------
+|	A	|
+ -------
+Agreements (5 C, 35 P)
+
+ -------
+|	C	|
+ -------
+Capacity (law) (10 P)
+Companies' terms of service (34 P)
+Contract case law (6 C, 5 P)
+Contract clauses (54 P)
+
+ -------
+|	D	|
+ -------
+Delict (2 C, 19 P)
+
+ -------
+|	E	|
+ -------
+English contract law (1 C, 53 P)
+
+ -------
+|	F	|
+ -------
+Franchising (1 C, 17 P)
+
+ -------
+|	H	|
+ -------
+History of contract law (6 P)
+
+ -------
+|	I	|
+ -------
+Industrial agreements (1 C, 35 P)
+Islamic financial contracts (4 P)
+
+ -------
+|	L	|
+ -------
+Landlord–tenant law (1 C, 84 P)
+
+ -------
+|	M	|
+ -------
+Mortgage (14 C, 105 P)
+
+ -------
+|	N	|
+ -------
+No-bid contracts (3 P)
+
+ -------
+|	P	|
+ -------
+Prenuptial agreements (4 P)
+
+ -------
+|	S	|
+ -------
+Scholars of contract law (24 P)
+Software licensing (5 C, 45 P)
+Sureties (1 C, 13 P)
+
+ -------
+|	T	|
+ -------
+Terms of service (2 C, 27 P)
+
+ -------
+|	U	|
+ -------
+United Kingdom employment contract case law (27 P)
+
+ -------
+|	Σ	|
+ -------
+Contract law stubs (18 P)
+
+ ----------------------------------------
+||	Pages in category "Contract law"	||
+ ----------------------------------------
+The following 200 pages are in this category, out of approximately 347 total. This list may not reflect recent changes.
+
+Contract
+
+ -------
+|	0–9	|
+ -------
+99-year lease
+999-year lease
+
+ -------
+|	A	|
+ -------
+Accommodation (law)
+Accord and satisfaction
+Account stated
+Aleatory contract
+Allowance (money)
+Ambiguity (law)
+Amendment
+Annuitant
+Antichresis
+Anticipatory repudiation
+Architect-led design–build
+Area yield options contract
+Arm's length principle
+As is
+Automatic renewal clause
+Automotive warranty
+
+ -------
+|	B	|
+ -------
+Balfour v Balfour
+Beneficial interest
+Big boy letter
+Bonus clause
+Bradbury v Morgan
+Breach of contract
+Break/fix
+Broad Agency Announcement
+Buy now, pay later
+Buyer agency agreement
+Buyer's credit
+Buyout clause
+
+ -------
+|	C	|
+ -------
+Capacity (law)
+Changes clause
+Charter
+Charterparty
+Chattel mortgage
+Choice of law clause
+Class action waiver
+Cohabitation agreement
+Collateral assurance
+Collateral contract
+Collateral warranty
+Commenda
+Commission (remuneration)
+Commodate
+Community benefits agreement
+Complete contract
+Condition precedent
+Condition subsequent
+Consideration
+Consignee
+Construction contract
+Contingent contract
+Contra proferentem
+Contract (Catholic canon law)
+Conflict of contract laws
+Contract Act, 1872 (Bangladesh)
+Contract lifecycle management
+Contract management
+Contract of carriage
+Contract of sale
+Contract price
+Contractual term
+Contrat nouvelle embauche
+Convention on the Law Applicable to Contractual Obligations 1980
+Corbin on Contracts
+Cost-plus contract
+Cost-plus-incentive fee
+Coulthart v Clemenston
+Counterparty
+Cover (law)
+Creditors' rights
+Culpa in contrahendo
+
+ -------
+|	D	|
+ -------
+The Death of Contract
+Debt evasion
+Debt validation
+Default rule
+Delegation (law)
+Delivery order
+Dépeçage
+Derivatives law
+Deviation (law)
+Doctrine of concurrent delay
+Domicilium citandi et executandi
+Down payment
+Drop dead date
+Due diligence
+Dunning (process)
+Duress in American law
+Duty
+Duty of honest contractual performance
+
+ -------
+|	E	|
+ -------
+Economic partnership agreement
+Efficient breach
+Employment bond
+End-user license agreement
+Equitable adjustment
+Equity of redemption
+Equity-indexed annuity
+Escalation clause
+Essentialia negotii
+Estoppel
+Estoppel by deed
+Estoppel certificate
+Ethical implications in contracts
+European contract law
+Exceptio non adimpleti contractus
+Exclusion clause
+Excuse
+Executory contract
+Expectation damages
+Extended warranty
+External risk
+Extinguishment
+Extrinsic fraud
+
+ -------
+|	F	|
+ -------
+Failure of consideration
+Fair debt collection
+Fair Food Program
+Federal public benefit
+Firm offer
+First Employment Contract
+Fixed-price contract
+Fixed-term employment contract
+Formal contract
+Forum selection clause
+Four corners (law)
+Franchise agreement
+Franchise rule
+Franchise termination
+Franchising
+Free license
+Freedom of contract
+French contract law
+Frustration of purpose
+Fundamental breach
+
+ -------
+|	G	|
+ -------
+Garnishment
+Gentlemen's agreement
+German contract law
+Golden handshake
+Good faith
+Good faith (law)
+Guarantee
+Guarantee (filmmaking)
+Guaranteed rental
+Guillotine clause
+
+ -------
+|	H	|
+ -------
+Habitability
+Heads of terms
+Heads of loss
+Hire purchase
+History of contract law
+
+ -------
+|	I	|
+ -------
+Illegal agreement
+Illusory promise
+Implied authority
+Implied warranty
+Implied-in-fact contract
+Impossibility of performance
+Impracticability
+Inclusion rider
+Incorporation by reference
+Indefeasible rights of use
+Indemnity
+Indenture
+Indian Contract Act, 1872
+Indian contract law
+Insurance policy
+Integration clause
+Intention to create legal relations
+Interconnect agreement
+Interlineation
+Intrinsic fraud
+Invitation to treat
+
+ -------
+|	J	|
+ -------
+Judgment debtor
+Judgment summons
+
+ -------
+|	K	|
+ -------
+Kickback (bribery)
+
+ -------
+|	L	|
+ -------
+Laesio enormis
+Land contract
+Last shot
+Law of obligations (Bulgaria)
+Lease
+Lease purchase contract
+Leaseback
+Lessor
+Letter of comfort (contract law)
+Letter of credit
+Letters of assist
+Liquidated damages
+Listing contract
+Loan agreement
+Lost volume seller
+Lump sum contract
+
+ -------
+|	M	|
+ -------
+Management contract
+Marriage privatization
+Masoveria
+Material transfer agreement
+Meeting of the minds
+Memorandum of understanding
+Mirror image rule
+Misrepresentation
+Misrepresentation in Indian law
+Mistake (contract law)
+Moozhikulam Kacham
+Morals clause
+Multisourcing
+
+ -------
+|	N	|
+ -------
+Negative pledge
+Neo-classical contract
+Nokku kooli
+Non est factum
+Non-compete clause
+Non-repudiation
+Non-solicitation
+Nondelegable obligation
+Notional principal contract
+Novated lease
+Novation
+Nudum pactum
+
+ -------
+|	O	|
+ -------
+Obligatio consensu
+Offer and acceptance
+Officious intermeddler
+Oil and gas agreement
+Open Contracting Data Standard
+Open-book contract
+Option (finance)
+Option contract
+Oral contract
+Output contract
+Overriding Royalty Interest
+
+ -------
+|	P	|
+ -------
+Pact ink
+Pactum de quota litis
+Parent company guarantee
+Parol evidence rule
+Part exchange
+Penal bond
+Penal damages
+Peppercorn (law)
+Per minas
+Perfect tender rule
+Performance-based contracting
+Permanent grant
+Personal contract purchase
+Petroleum fiscal regime
+Piggy-back (law)
+Pirate code
+Posting rule
+Postnuptial agreement
+Power of acceptance
+Pre-emption right
+Pre-existing duty rule
+Precontract
+Prenuptial agreement
+Principles of International Commercial Contracts
+Privity of contract
+Provision (contracting)
+Psychological contract
+Publishing contract
+Puffery
+
+ -------
+|	Q	|
+ -------
+Quantum meruit
+Quantum valebant
+Quasi-contract
+
+ -------
+|	R	|
+ -------
+Real estate contract
+Recharacterisation
+Reciprocal obligation
+Recording contract
+Rectification (law)
+Redhibition
+Redhibitory defect
+Relational contract
+Reliance damages
+Rent-to-own
+Rental agreement
+Requirements contract
+Res inter alios acta
+Rescission (contract law)
+Restitution and unjust enrichment
+Restraint of trade
+Retainage
+Retained interest
+Retainer agreement
+Retentions in the British construction industry
+Return merchandise authorization
+Revocation
+Right of first refusal
+The Rise and Fall of Freedom of Contract
+Risk of loss
+
+ -------
+|	S	|
+ -------
+Sale of Goods Act, 1930
+Samenlevingscontract
+Sandbagging (law)
+Scienter
+Scots contract law
+Seal (contract law)
+Seaworthiness (law)
+Secured transaction
+Security agreement
+Security interest
+Service-level agreement
+Service plan
+Severability
+Severable contract
+Shareholders' agreement
+Shrinkwrap (contract law)
+Side letter (contract law)
+Simple contract
+Smart contract
+South African contract law
+Specific performance
+Standard form contract
+Standstill agreement
+Statute of frauds
+Statutory holdback
+Straw purchase
+Subcontractor
+Substantial performance
+Sweetheart deal
+Swiss annuity
+Synallagmatic contract
+
+ -------
+|	T	|
+ -------
+Tacit relocation
+Talent holding deal
+Tariff (regulation)
+Termination for convenience
+Terms of Service; Didn't Read
+Tertius (law)
+The Official Professional Baseball Rules Book
+Third-party beneficiary
+Ticket cases
+Time and materials
+Contractual provisions relating to time
+Title retention clause
+Title-transfer theory of contract
+Transaction document
+Transmutation agreement
+
+ -------
+|	U	|
+ -------
+Uberrima fides
+Unconscionability
+Underwriting contract
+Undue influence
+Unenforceable
+Unfair contract terms
+Unfair terms in Irish contract law
+Unsolicited goods
+
+ -------
+|	V	|
+ -------
+Vehicle leasing
+Void (law)
+Void contract
+Voidable
+Voidable contract
+
+ -------
+|	W	|
+ -------
+Waiver
+Warehouse receipt
+Warranty
+Warranty tolling
+Wear and tear
+
+ -------
+|	Y	|
+ -------
+Yellow-dog contract
+
+ ---------------------------------------------------------------------------------------------------
+|	Categories: Law of obligations	|	Common law	|	Business law	|	Private law	|	Consent	|
+ ---------------------------------------------------------------------------------------------------
+
+
+
+
+
+====================================
+<==>	Category:Synchronicity	<==>
+====================================
+https://en.wikipedia.org/wiki/Category:Synchronicity
+
+																								 -----------------------------------
+																								|	Wikimedia Commons has media		|
+																								|	related to Synchronicity.		|
+																								 -----------------------------------
+
+See also: Category:Synchronization
+
+The main article for this category is Synchronicity.
+
+ ----------------------------------------
+||	Pages in category "Synchronicity"	||
+ ----------------------------------------
+The following 9 pages are in this category, out of 9 total. This list may not reflect recent changes.
+
+Synchronicity
+
+ -------
+|	C	|
+ -------
+Coincidence
+
+ -------
+|	D	|
+ -------
+The Dark Side of the Rainbow
+
+ -------
+|	E	|
+ -------
+Empath
+
+ -------
+|	I	|
+ -------
+I Ching
+
+ -------
+|	L	|
+ -------
+Lateral thinking
+
+ -------
+|	R	|
+ -------
+The Roots of Coincidence
+
+ -------
+|	S	|
+ -------
+Serendipity
+Synchromysticism
+
+
+ -----------------------------------------------------------------------------------
+|	Categories: Analytical psychology	|	Pseudoscience	|	Spiritual concepts	|
+ -----------------------------------------------------------------------------------
+
+
+
+
+
+========================================
+<==>	Category:Decentralization	<==>
+========================================
+https://en.wikipedia.org/wiki/Category:Decentralization
+
+																								 -----------------------------------
+																								|	Wikimedia Commons has media		|
+																								|	related to Decentralization.	|
+																								 -----------------------------------
+
+The main article for this category is Decentralization.
+
+ --------------------
+||	Subcategories	||
+ --------------------
+This category has the following 11 subcategories, out of 11 total.
+
+ -------
+|	A	|
+ -------
+Autonomy (11 C, 53 P)
+
+ -------
+|	D	|
+ -------
+Devolution in the United Kingdom (5 C, 43 P)
+Distributed computing (15 C, 77 P)
+
+ -------
+|	E	|
+ -------
+Egalitarianism (7 C, 67 P)
+
+ -------
+|	F	|
+ -------
+Federalism (9 C, 48 P)
+Fiscal federalism (20 P)
+
+ -------
+|	L	|
+ -------
+Local government in Kerala (10 C, 12 P)
+
+ -------
+|	M	|
+ -------
+Mises Institute (1 C, 4 P)
+
+ -------
+|	P	|
+ -------
+Party of Reason (1 C, 1 P)
+
+ -------
+|	R	|
+ -------
+Regionalism (politics) (14 C, 53 P)
+
+ -------
+|	W	|
+ -------
+Web3 (1 C, 5 P)
+
+ --------------------------------------------
+||	Pages in category "Decentralization"	||
+ --------------------------------------------
+The following 96 pages are in this category, out of 96 total. This list may not reflect recent changes.
+
+Decentralization
+
+ -------
+|	0-9	|
+ -------
+1969 French constitutional referendum
+
+ -------
+|	A	|
+ -------
+Administrative divisions of Niger
+Administrative divisions of Peru
+Administrative divisions of Portugal
+Administrative divisions of the Maldives
+AirDine
+Association of Amalgamated Territorial Communities
+Autonomous administrative division
+Autonomous Communities Administration
+Autonomous communities of Spain
+
+ -------
+|	B	|
+ -------
+Blockchain
+Blockchain LLC
+Blockchain oracle
+Blockchain-based database
+
+ -------
+|	C	|
+ -------
+Colored Coins
+Comanagement in Canada
+Community-based management
+Cryptocurrency
+
+ -------
+|	D	|
+ -------
+Decentralisation in Japan
+Decentralisation in Thailand
+Decentralisation in Ukraine
+Decentralization Coalition
+Decentralization in Rwanda
+Decentralization process in Peru
+Decentralized application
+Decentralized decision-making
+Decentralized identifier
+Decentralized web
+Delegated administration
+Democratic Party for a New Society
+Departments of Bolivia
+Devolution
+
+ -------
+|	F	|
+ -------
+Federalization of Syria
+Federalization of Yemen
+Federated state
+Fiscal federalism
+Functionalism (international relations)
+
+ -------
+|	H	|
+ -------
+Hacker ethic
+Home rule
+
+ -------
+|	I	|
+ -------
+List of regencies and cities in Indonesia
+Indonesian Village Law
+Industrial deconcentration
+Iran is not just Tehran
+
+ -------
+|	K	|
+ -------
+Leopold Kohr
+
+ -------
+|	L	|
+ -------
+Local government
+Local Government Act of Bhutan 2009
+Local government in the Philippines
+
+ -------
+|	M	|
+ -------
+Marketization
+Microgeneration
+Millet (Ottoman Empire)
+Mining pool
+Ministry of Interior, Public Safety and Decentralization (Niger)
+Ministry of State Administration (East Timor)
+Ministry of the Interior and Decentralization (Mauritania)
+Multi-level governance
+Municipalities of Milan
+
+ -------
+|	N	|
+ -------
+National delimitation in the Soviet Union
+National Forum (Georgia)
+Nationalities and regions of Spain
+Network topology
+New Economic Mechanism
+NGO-ization
+
+ -------
+|	O	|
+ -------
+Open-source religion
+Ottoman Party for Administrative Decentralization
+
+ -------
+|	P	|
+ -------
+Parade of sovereignties
+Party of Reason
+People or Personnel
+Plurinationalism
+Politics of Somalia
+Provinces of Sri Lanka
+
+ -------
+|	R	|
+ -------
+Reform Party of Canada
+Regional Development Agency (Canada)
+Regionalisation
+Regionalism (politics)
+Ricardian contract
+
+ -------
+|	S	|
+ -------
+Self-determination
+Small office/home office
+The Sovereign Individual
+State-building
+Subsidiarity
+Subsistence Homesteads Division
+
+ -------
+|	T	|
+ -------
+Tax choice
+Territorial Formula Financing
+
+ -------
+|	U	|
+ -------
+Uganda Local Governments Association
+Union Republics of the Soviet Union
+United Regions / Forum of Regional Governments and Global Associations of Regions
+Urban sprawl
+Urban village
+
+ -------
+|	W	|
+ -------
+Water supply and sanitation in Benin
+Water supply and sanitation in Ethiopia
+Water supply and sanitation in Indonesia
+Water supply and sanitation in Uganda
+Water supply and sanitation in Yemen
+Web3
+
+ -------
+|	Z	|
+ -------
+Zooko's triangle
+
+ ---------------------------------------------------------------------------------------------------------------------------
+|																															|
+|	Categories: Public administration	|	Democratization	|	Organizational theory	|	Policy	|	Political culture	|
+|																															|
+|	|	Political systems	|	Reform movements	|	Forms of local government	|	Local self-governance				|
+|																															|
+ ---------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
