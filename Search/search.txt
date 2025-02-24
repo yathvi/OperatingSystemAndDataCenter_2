@@ -305,6 +305,10 @@ search for
 
 
 search for
+	socket
+
+
+search for
 	{{ }}
 	
 	
@@ -1213,3 +1217,7 @@ https://github.com/torch/torch7/wiki/Cheatsheet
 
 https://en.wikipedia.org/wiki/Locality_of_reference
 
+
+
+
+time command
