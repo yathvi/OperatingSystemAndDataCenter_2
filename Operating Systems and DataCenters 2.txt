@@ -247899,6 +247899,409 @@ For more information on this, please consult https://vertx.io/docs/#monitoring
 
 
 
+A thread is a thread of execution in a program. The Java virtual machine allows an application to have multiple threads of execution running concurrently.
+Thread defines constructors and a Thread.Builder to create threads. Starting a thread schedules it to execute its run method. The newly started thread executes concurrently with the thread that caused it to start.
+A thread terminates if either its run method completes normally, or if its run method completes abruptly and the appropriate uncaught exception handler completes normally or abruptly. With no code left to run, the thread has completed execution. The join method can be used to wait for a thread to terminate.
+Threads have a unique identifier and a name. The identifier is generated when a Thread is created and cannot be changed. The thread name can be specified when creating a thread or can be changed at a later time.
+Threads support ThreadLocal variables. These are variables that are local to a thread, meaning a thread can have a copy of a variable that is set to a value that is independent of the value set by other threads. Thread also supports InheritableThreadLocal variables that are thread local variables that are inherited at thread creation time from the parent Thread. Thread supports a special inheritable thread local for the thread context-class-loader.
+
+Platform threads
+Thread supports the creation of platform threads that are typically mapped 1:1 to kernel threads scheduled by the operating system. Platform threads will usually have a large stack and other resources that are maintained by the operating system. Platforms threads are suitable for executing all types of tasks but may be a limited resource.
+Platform threads get an automatically generated thread name by default.
+Platform threads are designated daemon or non-daemon threads. When the Java virtual machine starts up, there is usually one non-daemon thread (the thread that typically calls the application's main method). The shutdown sequence begins when all started non-daemon threads have terminated. Unstarted non-daemon threads do not prevent the shutdown sequence from beginning.
+In addition to the daemon status, platform threads have a thread priority and are members of a thread group.
+
+Virtual threads
+Thread also supports the creation of virtual threads. Virtual threads are typically user-mode threads scheduled by the Java runtime rather than the operating system. Virtual threads will typically require few resources and a single Java virtual machine may support millions of virtual threads. Virtual threads are suitable for executing tasks that spend most of the time blocked, often waiting for I/O operations to complete. Virtual threads are not intended for long running CPU intensive operations.
+Virtual threads typically employ a small set of platform threads used as carrier threads. Locking and I/O operations are examples of operations where a carrier thread may be re-scheduled from one virtual thread to another. Code executing in a virtual thread is not aware of the underlying carrier thread. The currentThread() method, used to obtain a reference to the current thread, will always return the Thread object for the virtual thread.
+Virtual threads do not have a thread name by default. The getName method returns the empty string if a thread name is not set.
+Virtual threads are daemon threads and so do not prevent the shutdown sequence from beginning. Virtual threads have a fixed thread priority that cannot be changed.
+
+Creating and starting threads
+Thread defines public constructors for creating platform threads and the start method to schedule threads to execute. Thread may be extended for customization and other advanced reasons although most applications should have little need to do this.
+Thread defines a Thread.Builder API for creating and starting both platform and virtual threads. The following are examples that use the builder:
+   Runnable runnable = ...
+   // Start a daemon thread to run a task
+   Thread thread = Thread.ofPlatform().daemon().start(runnable);
+   // Create an unstarted thread with name "duke", its start() method
+   // must be invoked to schedule it to execute.
+   Thread thread = Thread.ofPlatform().name("duke").unstarted(runnable);
+   // A ThreadFactory that creates daemon threads named "worker-0", "worker-1", ...
+   ThreadFactory factory = Thread.ofPlatform().daemon().name("worker-", 0).factory();
+   // Start a virtual thread to run a task
+   Thread thread = Thread.ofVirtual().start(runnable);
+   // A ThreadFactory that creates virtual threads
+   ThreadFactory factory = Thread.ofVirtual().factory();
+ 
+Inheritance when creating threads
+A Thread inherits its initial values of inheritable-thread-local variables (including the context class loader) from the parent thread values at the time that the child Thread is created. The 5-param constructor can be used to create a thread that does not inherit its initial values from the constructing thread. When using a Thread.Builder, the inheritInheritableThreadLocals method can be used to select if the initial values are inherited.
+Platform threads inherit the daemon status, thread priority, and when not provided (or not selected by a security manager), the thread group.
+Creating a platform thread captures the caller context to limit the permissions of the new thread when it executes code that performs a privileged action. The captured caller context is the new thread's "Inherited AccessControlContext". Creating a virtual thread does not capture the caller context; virtual threads have no permissions when executing code that performs a privileged action.
+Unless otherwise specified, passing a null argument to a constructor or method in this class will cause a NullPointerException to be thrown.
+
+Implementation Note:
+In the JDK Reference Implementation, the virtual thread scheduler may be configured with the following system properties:
+System properties
+System property
+Description
+jdk.virtualThreadScheduler.parallelism
+The number of platform threads available for scheduling virtual threads. It defaults to the number of available processors.
+jdk.virtualThreadScheduler.maxPoolSize
+The maximum number of platform threads available to the scheduler. It defaults to 256.
+
+Since:
+1.0
+  java.lang
+  < 21 >
+
+
+When the Java virtual machine starts up, there is usually one non-daemon thread (the thread that typically calls the application's main method).
+
+platform (carrier) threads
+
+
+
+
+
+
+
+
+
+ ================================================================
+||	Udemy Course												||
+||	Concurrency, Multithreading and Parallel Computing in Java	||
+||	Holczer Balazs												||
+ ================================================================
+
+Section 15 - Java 21 and Virtual Threads
+========================================
+
+108 Understanding virtual threads and OS threads
+------------------------------------------------
+
+Standard (Platform) Thread
+--------------------------
+
+	 -------------------------------------------------------
+	|		O		O		O		O		O		O		|		JVM related platform threads
+	 -------------------------------------------------------
+
+
+	 -------------------------------------------------------
+	|		O		O		O		O		O		O		|		operating system related OS threads
+	 -------------------------------------------------------
+
+
+		 | | | |			 | | | |			 | | | |		
+		 -------			 -------			 -------			CPUs or CPU cores
+	  --|		|--		  --|		|--		  --|		|--			that execute the
+	  --|		|--		  --|		|--		  --|		|--			operations
+		 -------			 -------			 -------		
+		 | | | |			 | | | |			 | | | |		
+
+
+one standard Java(platform) thread is always associated with a single
+OS thread while the thread is running
+
+IT DOES NOT MATTER IF THE THREAD IS BLOCKED, THE UNDERLYING
+OS THREAD IS ASSIGNED TO THAT THREAD !!!
+
+this is the main disadvantage of standard (platform) threads and
+this is why they are not scalable
+
+
+
+Virtual Thread
+--------------
+
+
+	 -------------------------------------------------------
+	|	O	O	O	O	O	O	O	O	O	O	O	O	O	|		JVM related virtual threads
+	|														|
+	|		O		O		O		O		O		O		|		JVM related platform threads
+	 -------------------------------------------------------
+
+
+	 -------------------------------------------------------
+	|		O		O		O		O		O		O		|		operating system related OS threads
+	 -------------------------------------------------------
+
+
+		 | | | |			 | | | |			 | | | |		
+		 -------			 -------			 -------			CPUs or CPU cores
+	  --|		|--		  --|		|--		  --|		|--			that execute the
+	  --|		|--		  --|		|--		  --|		|--			operations
+		 -------			 -------			 -------		
+		 | | | |			 | | | |			 | | | |		
+
+
+one virtual thread may be associated with multiple
+platform threads at different times
+
+IF THE VIRTUAL THREAD IS BLOCKED (I/O OPERATIONS) THEN
+THE UNDERLYING PLATFORM THREAD IS RELEASED
+
+this is the main advantage of virtual threads and it is possible
+because it all happens with in the JVM
+(no need for OS related operations and to block OS threads)
+
+
+
+
+
+
+
+
+
+
+Section 14 - Using Java's Stream API
+====================================
+
+87.	What is the Stream API?
+---------------------------
+
+a stream is a sequence of elements from a source
+that supports data processing operations
+
+(data structures are about storing items
+and streams are about computation)
+
+.
+.
+.
+
+stream operations can be executed
+either sequentially or in parallel
+
+
+.
+.
+.
+
+collections are iterated explicitly with iterators (external iteration)
+but we can use a different approach with streams
+
+THIS IS CALLED INTERNAL ITERATION !!!
+
+
+
+
+
+
+Stream API Explained
+--------------------
+
+	 -----------					 -------------------					 ---------------
+	|			|					|					|					|				|
+	|			|					|	INTERMEDIATE	|					|	TERMINAL	|
+	|	SOURCE	|------------------>|	OPERATIONS		|------------------>|	OPERATIONS	|
+	|			|					|					|					|				|
+	|			|					|					|					|				|
+	 -----------					 -------------------					 ---------------
+
+	the source of the stream		returns a stream						returns scalar or void
+	(collection of data)			(filtering, sorting etc.)				(collect, reduce etc.)
+
+
+90.	Collections and streams
+---------------------------
+
+collections are essentially data structures in the RAM
+
+collections need the whole data
+in advance - every element in the collection
+must be computed before it can
+be added to the collection
+
+THIS IS WHY IT TAKES MORE TIME TO HANDLE A COLLECTION !!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Difference Between Daemon Threads and User Threads In Java
+==========================================================
+https://www.geeksforgeeks.org/difference-between-daemon-threads-and-user-threads-in-java/
+
+In Java, there are two types of threads:
+
+1.	Daemon Thread
+2.	User Thread (Non-Daemon Thread)
+
+.
+.
+.
+
+The Major Difference between User and Daemon Threads:
+
+	 ---------------------------------------------------------------------------------------------------------------------------------------
+	|	User Thread													|	Daemon Thread														|
+	|---------------------------------------------------------------|-----------------------------------------------------------------------|
+	|	JVM wait until user threads to finish their work.			|	The JVM will’t wait for daemon threads to finish their work.		|
+	|	It never exit until all user threads finish their work.		|	The JVM will exit as soon as all user threads finish their work.	|
+	|---------------------------------------------------------------|-----------------------------------------------------------------------|
+	|	JVM will not force to user threads for terminating,			|	If all user threads have finished their work JVM will force			|
+	|	so JVM will wait for user threads to terminate themselves.	|	the daemon threads to terminate										|
+	|---------------------------------------------------------------|-----------------------------------------------------------------------|
+	|	User threads are created by the application.				|	Mostly Daemon threads created by the JVM.							|
+	|---------------------------------------------------------------|-----------------------------------------------------------------------|
+	|	Mainly user threads are designed to do some specific task.	|	Daemon threads are design as to support the user threads.			|
+	|---------------------------------------------------------------|-----------------------------------------------------------------------|
+	|	User threads are foreground threads.						|	Daemon threads are background threads.								|
+	|---------------------------------------------------------------|-----------------------------------------------------------------------|
+	|	User threads are high priority threads.						|	Daemon threads are low priority threads.							|
+	|---------------------------------------------------------------|-----------------------------------------------------------------------|
+	|	Its life independent.										|	Its life depends on user threads.									|
+	 ---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Difference Between Java Threads and OS Threads
+==============================================
+https://www.geeksforgeeks.org/difference-between-java-threads-and-os-threads/
+
+.
+.
+.
+
+Difference Table
+----------------
+
+	 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	|	Key Point					|	OS Threads																	|	Java Threads																	|
+	|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+	|	Definition					|	A thread is the smallest unit of processing that can be performed in an OS	|	A thread, in the context of Java, is the path followed when executing a program	|
+	|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+	|	Minimum threads				|	A process can contain multiple threads.										|	Java programs have at least one thread, known as the main thread				|
+	|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+	|	Types						|	User-level threads & Kernel-level threads									|	User threads & Daemon threads.													|
+	|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+	|	Created/Managed by			|	Operating System															|	Java Virtual Machine (JVM) at the program’s start,								|
+	|								|																				|	when the main() method is invoked with the main thread.							|
+	|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+	|	Communication				|	Threads can share common data & communication is easier.					|	wait(), notify(), notifyAll() are methods used for threads to communicate.		|
+	|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+	|	Thread Scheduling			|	1) Scheduling of user-level threads (ULT) to kernel-level threads (KLT)		|	The thread scheduler in java is the part of the JVM that decides				|
+	|								|	via Light-Weight Process (LWP) by the application developer.				|	which thread should run. Types:  1) Pre-emptive Scheduling, 2) Time Slicing.	|
+	|								|																				|																					|
+	|								|	2) Scheduling of kernel-level threads by the system scheduler to perform	|																					|
+	|								|	different unique os functions.												|																					|
+	|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+	|	Synchronization				|	The most popular way of achieving thread synchronization is by				|	Implemented using monitors, synchronizing using synchronized blocks.			|
+	|								|	using Mutexes.																|																					|
+	|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+	|	Implementation using models	|	Many-to-One, One-to-One, Many-to-Many										|	Green Thread model (many-to-one model),											|
+	|								|																				|	Native Thread Model (many-to-many model)										|
+	|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+	|	Deadlock detection			|	1) If resources have a single instance										|	1) nested synchronized block or trying to get a lock on a different object or	|
+	|								|																				|	calling a synchronized method from another synchronized method					|
+	|								|	2) If there are multiple instances of resources								|																					|
+	|								|																				|	2) to use the io portal. It allows us to upload a thread dump and analyze it.	|
+	|								|																				|																					|
+	|								|																				|	3) can also use jConsole or VisualVM to detect deadlock							|
+	|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+	|	Deadlock avoidance			|	Can be done with Banker’s Algorithm.										|	1) Avoid Unnecessary Locks														|
+	|								|																				|	2) Avoid Nested Locks															|
+	|								|																				|	3) Using Thread.join() Method													|
+	|								|																				|	4) Use Lock Ordering															|
+	|								|																				|	5) Lock Time-out																|
+	 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+.
+.
+.
+
+Can Java Threads directly interact with OS Threads?
+
+In other words, Java threads are not directly related to OS threads including the operating systems where Java was initially developed.
+The JVM associates Java threads with the native threads of the operating system according to the architectural design of the system, and the OS takes care of the native threads.
+
+
+
+
+
+
+
+
+
+==============================
+How Java Virtual Threads Work?
+==============================
+https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxohcVyi47TUenMTd78JjOrKiAN42ud_KX
+
+Virtual Threads are lightweight threads introduced in Java 19 (Preview) and Java 21 (Stable).
+They allow Java to create millions of threads efficiently, helping handle concurrent tasks without wasting memory or CPU.
+
+Virtual Threads do not map 1:1 to OS Threads and do not replace the original Platform Threads.
+The Platform Threads are backed by the OS Threads and are sometimes also known as Carrier Threads in this context.
+
+Think of the Platform Threads as a small group of workers, and Virtual threads as tasks.
+With Virtual threads, tasks are given to workers only when needed, allowing one worker to handle thousands of tasks efficiently.
+
+Here’s how Virtual Threads work:
+
+1 - Virtual Threads run on top of Platform Threads. The JVM schedules them onto a small number of Platform Threads.
+
+2 - When a Virtual Thread starts, the JVM assigns it to a normal OS-backed Platform Thread.
+
+3 - Virtual Threads can also handle CPU-intensive work, but their real advantage is in scenarios with a high number of I/O-bound or concurrent tasks.
+
+4 - If the Virtual Thread performs a blocking operation (like I/O, database call, sleep, etc.), the JVM unmounts it from the Platform Thread. However, this does not block the underlying OS Thread as such.
+
+5 - The Platform thread is freed up to handle another Virtual Thread.
+
+6 - When the blocking operation finishes, the Virtual Thread is rescheduled on any available Platform thread.
+
+	 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	|																																									|
+	|	 ---------------		 ---------------				 ---------------		 ---------------				 ---------------		 ---------------		|
+	|	|	Virtual		|		|	Virtual		|				|	Virtual		|		|	Virtual		|				|	Virtual		|		|	Virtual		|		|
+	|	|	Thread		|		|	Thread		|				|	Thread		|		|	Thread		|				|	Thread		|		|	Thread		|		|
+	|	 ---------------		 ---------------				 ---------------		 ---------------				 ---------------		 ---------------		|
+	|			|						|								|						|								|						|				|
+	|			|						|								|						|								|						|				|
+	|			 ------- Mounted -------								 ------- Mounted -------								 ------- Mounted -------				|
+	|						|														|														|							|
+	|	 -------------------|------------------------ JVM Scheduler ----------------|-------------------------------------------------------|-------------------		|
+	|	|					|														|														|					|		|
+	|	|				Platform												Platform												Platform				|		|
+	|	|				Thread													Thread													Thread					|		|
+	|	|					|														|														|					|		|
+	|	 -------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------		|
+	|						|														|														|							|
+	|						|			Java Virtual Machine						|														|							|
+	|						|														|														|							|
+	 -----------------------|-------------------------------------------------------|-------------------------------------------------------|---------------------------
+							|														|														|
+							|														|														|
+							|														|														|
+	 -----------------------|-------------------------------------------------------|-------------------------------------------------------|---------------------------
+	|	OS					|			Operating System							|														|							|
+	|					OS Thread												OS Thread												OS Thread						|
+	|						|														|														|							|
+	|					 -----------------------------------------------------------------------------------------------------------------------						|
+	|					|												Operating System Scheduler												|						|
+	|					 -----------------------------------------------------------------------------------------------------------------------						|
+	 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
 
 
 

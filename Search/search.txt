@@ -1221,3 +1221,6 @@ https://en.wikipedia.org/wiki/Locality_of_reference
 
 
 time command
+
+
+search for API Gateway
