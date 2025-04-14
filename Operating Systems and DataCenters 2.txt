@@ -64402,14 +64402,72 @@ Mac Thread Spin-up Code
 https://chat.openai.com/c/fbdceced-1341-4d01-a02d-71ac0257cd62
 
 
-
+========================================
 Difference between Hardware and Software
+========================================
 https://www.geeksforgeeks.org/difference-between-hardware-and-software/amp/
+
+							Components of Computer
+										|
+										|
+						 -----------------------------------
+						|									|
+						\/									\/
+				Computer Hardware					Computer Software
+						|									|
+	 -----------------------------------				 -----------
+	|			|			|			|				|			|
+	\/			\/			\/			\/				\/			\/
+	Input		Output		Storage		Internal		System		Application
+	Devices		Devices		Devices		Component		Software	Software
+
+
+Difference Between Hardware and Software
+----------------------------------------
+
+	 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	|	Parameters				|	Hardware																						|	Software																				|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Basic Definition		|	Hardware is a physical part of the computer that causes the processing of data.					|	Software is a set of instructions that tells a computer exactly what to do.				|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Development				|	It is manufactured.																				|	It is developed and engineered.															|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Dependency				|	Hardware cannot perform any task without software.												|	The software can not be executed without hardware.										|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Process of creating		|	Electronic and other materials are used to create hardware.										|	Created by utilizing a computer language to write instructions.							|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Tangible				|	Hardware is tangible as hardware is a physical electronic device, that can be touched.			|	Software is intangible as we can see and also use the software but can’t touch them.	|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Durability				|	Hardware typically wears out over time.															|	The software does not wear out with time. However, it may contain flaws and glitches.	|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Types					|	It has four main categories:																	|	It is mainly divided into																|
+	|							|	Input Devices																					|	System software																			|
+	|							|	Output Devices																					|	Application software.																	|
+	|							|	Storage Devices																					|																							|
+	|							|	Internal Components.																			|																							|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Virus effect			|	Hardware is not affected by computer viruses.													|	Software is affected by computer viruses.												|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Transfer				|	It cannot be transferred from one place to another electrically through the network.			|	It can be transferred via a network means.												|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Machine-Level language	|	Only machine-level language is known to be understood by hardware.								|	The program accepts human-readable input, interprets it in machine-level language,		|
+	|							|																									|	and sends it to hardware for additional processing.										|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Replacement				|	If the hardware is damaged, it is replaced with a new one.										|	If the software is damaged, its backup copy can be reinstalled.							|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Failures				|	Dust, overheating, humidity, and other factors are commonly responsible for hardware failures.	|	Overloading, systematic error, major-minor version error,								|
+	|							|																									|	and other factors are commonly responsible for software failures.						|
+	|---------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+	|	Examples				|	Ex: Keyboard, Mouse, Monitor, Printer, CPU, Hard disk, RAM, ROM, etc.							|	Ex: MS Word, Excel, PowerPoint, Photoshop, MySQL, etc.									|
+	 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 
 c states	(Google search)
-
 
 
 11 Power Management
@@ -65524,8 +65582,93 @@ https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm
 shebang shell script	(Google search)
 
 
+
+
+
+
 Using Ansible modules and plugins
 https://docs.ansible.com/ansible/latest/module_plugin_guide/index.html#
+
+
+https://en.wikipedia.org/wiki/Category:Orchestration_software
+
+
+(base) yathvi@Madan-MacBook-Pro-175 API_Categories % python3 get_categories_chatgpt.py
+Categories for page 'Ansible (software)':
+-----------------------------------------
+Category:All pages needing factual verification
+Category:Configuration management
+Category:Free software programmed in Python
+Category:Orchestration software
+Category:Remote administration software
+Category:Software distribution
+Category:Software using the GNU General Public License
+
+
+Categories for page 'Kubernetes':
+---------------------------------
+Category:2014 software
+Category:Cloud infrastructure
+Category:Containerization software
+Category:Free software for cloud computing
+Category:Free software programmed in Go
+Category:Linux Foundation projects
+Category:Linux containerization
+Category:Orchestration software
+Category:Software using the Apache license
+Category:Virtualization software for Linux
+
+
+Categories for page 'Progress Chef':
+------------------------------------
+Category:Configuration management
+Category:Free software programmed in Erlang
+Category:Free software programmed in Ruby
+Category:Orchestration software
+Category:Software using the Apache license
+Category:Virtualization software for Linux
+
+
+Categories for page 'Puppet (software)':
+----------------------------------------
+Category:2005 establishments in Oregon
+Category:2005 software
+Category:American companies established in 2005
+Category:Companies based in Portland, Oregon
+Category:Configuration management
+Category:Cross-platform free software
+Category:Free software programmed in Ruby
+Category:Information technology companies of the United States
+Category:Orchestration software
+Category:Privately held companies based in Oregon
+Category:Software companies established in 2005
+Category:Software using the Apache license
+Category:Virtualization software for Linux
+
+
+Categories for page 'Salt (software)':
+--------------------------------------
+Category:Configuration management
+Category:Free software programmed in Python
+Category:Orchestration software
+Category:Software using the Apache license
+Category:Virtualization software for Linux
+
+
+Categories for page 'Terraform (software)':
+-------------------------------------------
+Category:Cloud infrastructure
+Category:Cross-platform software
+Category:Orchestration software
+Category:Software using the Business Source License
+Category:Systems engineering
+
+
+(base) yathvi@Madan-MacBook-Pro-175 API_Categories % 
+
+
+
+
 
 
 Discrete logarithm
@@ -162158,7 +162301,6 @@ Uninstallers for macOS‎ (1 P)
 Uninstallers for Windows‎ (5 P)
 Usage share‎ (6 P)
 
-
  ------------------------------------------------
 ||	Pages in category "Software distribution"	||
  ------------------------------------------------
@@ -197999,6 +198141,10 @@ XtratuM
 |	Z	|
  -------
 ZeroVM
+
+ -----------------------------------------------------------
+|	Categories: Virtualization software	|	Linux software	|
+ -----------------------------------------------------------
 
 
 

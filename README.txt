@@ -5,6 +5,27 @@ If you want to view the contents in Browser (https://github.com/)
 	Indent size --> 4
 	Line wrap mode --> No wrap
 
+
+
+
+
+A Note About OperatingSystemAndDataCenter_2 (https://github.com/yathvi/OperatingSystemAndDataCenter_2)
+It has been a journey of over 10 months to prepare and share OperatingSystemAndDataCenter_2, following the release of OperatingSystemAndDataCenter in March 2024.
+
+This latest version represents significant growth and effort:
+
+GitHub Commit Details:
+38 files changed
+593,170 insertions
+I have also included a comprehensive README.txt (this file), spanning over 1300 lines, to guide and provide context for the project.
+
+I kindly request you to take a moment to review the README, as it contains detailed information about the project, its features, and how to get started.
+Your feedback and engagement would mean a lot!
+
+
+
+
+
 URL Link 1
 ----------
 https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia
@@ -86,6 +107,10 @@ In OperatingSystemAndDataCenter_2 we define few words which are important to gra
 
 
 
+
+ ====================
+||	Agenda Start	||
+ ====================
 
 
  ================
@@ -1084,6 +1109,12 @@ https://www.youtube.com/watch?v=xAcTmDO6NTI
 
 There are around 700 - 1000+ programming language; some libraries of this languages are built using Unix/Linux commands.
 
+
+
+ ================
+||	Agenda 9	||
+ ================
+
 Unix/Linux commands can be divided based on kernel mode and user mode.
 
 Unix Commands Overview
@@ -1091,6 +1122,32 @@ Unix Commands Overview
 https://chatgpt.com/c/1117236f-0133-4a3c-9448-480d5e3143b4
 https://chatgpt.com/share/6788b054-4f7c-8005-8822-fbb96a83e0b2
 
+
+
+
+
+categorize all the above commands 
+1. which are required to boot the system, 
+2. commands which are required to monitor or fine-tune kernel of operating system, 
+3.  commands which are required to monitor or fine-tune operating system, 
+4. commands which are required to monitor or fine-tune CPU,
+5. commands which are required to monitor or fine-tune Memory,
+6. commands which are required to monitor or fine-tune RAM,
+7. commands which are required to monitor or fine-tune Storage,
+
+Unix/Linux Command Catalog
+--------------------------
+https://chatgpt.com/c/db8f1067-b685-49c5-b317-6fb0c4d82090
+https://chatgpt.com/share/6789e621-4454-8005-9c30-40214c966cdc
+
+
+
+ ================
+||	Agenda End	||
+ ================
+
+
+------------------------------------------------------------------------------------------------------------------------
 
 Exploring Information Through Template and Category
 
